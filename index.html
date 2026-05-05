@@ -93,10 +93,22 @@
     footer {
       position: fixed;
       bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 0.7rem;
       color: #ccc;
       letter-spacing: 0.05em;
+    }
+
+    footer a {
+      color: #ccc;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: #999;
     }
 
     .wombo {
@@ -207,7 +219,11 @@
     </button>
   </div>
 
-  <footer id="date"></footer>
+  <footer>
+    <span id="date"></span>
+    <span style="color: #ddd;">&middot;</span>
+    <a href="https://www.instagram.com/professorsendy" target="_blank" rel="noopener">@professorsendy</a>
+  </footer>
 
   <script>
     let currentSentence = "Stay lowkenuine, and the rizzdom will follow.";
