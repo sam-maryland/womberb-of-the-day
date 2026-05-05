@@ -140,7 +140,7 @@
       content: '';
       position: absolute;
       bottom: -5px;
-      left: 50%;
+      left: calc(50% + var(--caret-offset, 0px));
       margin-left: -5px;
       width: 9px;
       height: 9px;
@@ -251,18 +251,42 @@
       return parts.join('');
     }
 
+    function resetTooltip(w) {
+      const t = w.querySelector('.tooltip');
+      t.style.transform = '';
+      t.style.removeProperty('--caret-offset');
+    }
+
+    function repositionTooltip(w) {
+      const t = w.querySelector('.tooltip');
+      const rect = t.getBoundingClientRect();
+      const margin = 12;
+      if (rect.left < margin) {
+        const shift = margin - rect.left;
+        t.style.transform = `translateX(calc(-50% + ${shift}px))`;
+        t.style.setProperty('--caret-offset', `-${shift}px`);
+      } else if (rect.right > window.innerWidth - margin) {
+        const shift = rect.right - (window.innerWidth - margin);
+        t.style.transform = `translateX(calc(-50% - ${shift}px))`;
+        t.style.setProperty('--caret-offset', `${shift}px`);
+      }
+    }
+
     function initWombos() {
       const wombos = document.querySelectorAll('.wombo');
       wombos.forEach(w => {
         w.addEventListener('click', e => {
           e.stopPropagation();
           const isActive = w.classList.contains('active');
-          wombos.forEach(other => other.classList.remove('active'));
-          if (!isActive) w.classList.add('active');
+          wombos.forEach(other => { other.classList.remove('active'); resetTooltip(other); });
+          if (!isActive) {
+            w.classList.add('active');
+            repositionTooltip(w);
+          }
         });
       });
       document.addEventListener('click', () => {
-        wombos.forEach(w => w.classList.remove('active'));
+        wombos.forEach(w => { w.classList.remove('active'); resetTooltip(w); });
       });
     }
 
