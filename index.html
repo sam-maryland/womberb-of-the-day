@@ -98,6 +98,99 @@
       color: #ccc;
       letter-spacing: 0.05em;
     }
+
+    .wombo {
+      position: relative;
+      display: inline-block;
+      text-decoration: underline dotted #999;
+      text-decoration-thickness: 1.5px;
+      text-underline-offset: 3px;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .wombo.active {
+      text-decoration-style: solid;
+      text-decoration-color: #1c1c1c;
+    }
+
+    .tooltip {
+      display: none;
+      position: absolute;
+      bottom: calc(100% + 10px);
+      left: 50%;
+      transform: translateX(-50%);
+      width: 260px;
+      background: #fff;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.09);
+      padding: 0.85rem 1rem;
+      text-align: left;
+      font-style: normal;
+      z-index: 100;
+      pointer-events: none;
+    }
+
+    .wombo.active .tooltip {
+      display: block;
+    }
+
+    .tooltip::after {
+      content: '';
+      position: absolute;
+      bottom: -5px;
+      left: 50%;
+      margin-left: -5px;
+      width: 9px;
+      height: 9px;
+      background: #fff;
+      border-right: 1px solid #e0e0e0;
+      border-bottom: 1px solid #e0e0e0;
+      transform: rotate(45deg);
+    }
+
+    .tooltip-label {
+      display: block;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.6rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-bottom: 0.45rem;
+    }
+
+    .tooltip-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+    }
+
+    .pill {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.65rem;
+      color: #666;
+      background: #f7f6f2;
+      border: 1px solid #e0e0e0;
+      border-radius: 999px;
+      padding: 0.15em 0.6em;
+    }
+
+    .tooltip-divider {
+      display: block;
+      height: 1px;
+      background: #ebebeb;
+      margin: 0.7rem 0;
+    }
+
+    .tooltip-def {
+      display: block;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 0.72rem;
+      font-style: italic;
+      color: #555;
+      line-height: 1.5;
+    }
   </style>
 </head>
 <body>
@@ -119,19 +212,74 @@
   <script>
     let currentSentence = "Stay lowkenuine, and the rizzdom will follow.";
 
-    fetch("./daily.json")
-      .then((r) => r.json())
-      .then((data) => {
-        currentSentence = data.sentence;
-        document.getElementById("sentence").textContent = data.sentence;
-        document.getElementById("date").textContent = data.date;
-      })
-      .catch(() => {
-        document.getElementById("sentence").textContent = currentSentence;
+    function escapeHtml(s) {
+      return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    function buildWomboSpan(text, w) {
+      const pills = w.components.map(c => `<span class="pill">${escapeHtml(c)}</span>`).join('');
+      return (
+        `<span class="wombo">` +
+          escapeHtml(text) +
+          `<span class="tooltip">` +
+            `<span class="tooltip-label">Wombination</span>` +
+            `<span class="tooltip-pills">${pills}</span>` +
+            `<span class="tooltip-divider"></span>` +
+            `<span class="tooltip-label">Wombinition</span>` +
+            `<span class="tooltip-def">${escapeHtml(w.definition)}</span>` +
+          `</span>` +
+        `</span>`
+      );
+    }
+
+    function highlightWombos(sentence, wombos) {
+      const sorted = [...wombos].sort((a, b) => b.word.length - a.word.length);
+      const womboMap = Object.fromEntries(wombos.map(w => [w.word.toLowerCase(), w]));
+      const patterns = sorted.map(w =>
+        w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+')
+      );
+      const regex = new RegExp(`\\b(${patterns.join('|')})\\b`, 'gi');
+      const parts = [];
+      let last = 0, m;
+      while ((m = regex.exec(sentence)) !== null) {
+        if (m.index > last) parts.push(escapeHtml(sentence.slice(last, m.index)));
+        const w = womboMap[m[0].toLowerCase()];
+        parts.push(w ? buildWomboSpan(m[0], w) : escapeHtml(m[0]));
+        last = m.index + m[0].length;
+      }
+      if (last < sentence.length) parts.push(escapeHtml(sentence.slice(last)));
+      return parts.join('');
+    }
+
+    function initWombos() {
+      const wombos = document.querySelectorAll('.wombo');
+      wombos.forEach(w => {
+        w.addEventListener('click', e => {
+          e.stopPropagation();
+          const isActive = w.classList.contains('active');
+          wombos.forEach(other => other.classList.remove('active'));
+          if (!isActive) w.classList.add('active');
+        });
       });
+      document.addEventListener('click', () => {
+        wombos.forEach(w => w.classList.remove('active'));
+      });
+    }
+
+    Promise.all([
+      fetch('./daily.json').then(r => r.json()),
+      fetch('./wombos.json').then(r => r.json())
+    ]).then(([daily, wombos]) => {
+      currentSentence = daily.sentence;
+      document.getElementById('sentence').innerHTML = highlightWombos(daily.sentence, wombos);
+      document.getElementById('date').textContent = daily.date;
+      initWombos();
+    }).catch(() => {
+      document.getElementById('sentence').textContent = currentSentence;
+    });
 
     function buildShareText() {
-      return `Womberb of the Day\n\n“${currentSentence}”\n\nwomberb.com`;
+      return `Womberb of the Day\n\n"${currentSentence}"\n\nwomberb.com`;
     }
 
     function share() {
