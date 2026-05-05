@@ -55,6 +55,39 @@
       font-size: 0.8rem;
       color: #999;
       letter-spacing: 0.04em;
+      margin-bottom: 2.5rem;
+    }
+
+    .share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45em;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #aaa;
+      background: none;
+      border: 1px solid #ddd;
+      border-radius: 2rem;
+      padding: 0.5em 1.2em;
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .share-btn:hover {
+      color: #666;
+      border-color: #bbb;
+    }
+
+    .share-btn.confirmed {
+      color: #7a9e7a;
+      border-color: #b5d0b5;
+    }
+
+    .share-btn svg {
+      flex-shrink: 0;
     }
 
     footer {
@@ -72,21 +105,54 @@
     <p class="label">Womberb of the Day</p>
     <blockquote id="sentence">&#8230;</blockquote>
     <p class="attribution">&#8212;&thinsp;Ancient Womberb</p>
+    <button class="share-btn" id="share-btn" onclick="share()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+      </svg>
+      <span id="share-label">Share</span>
+    </button>
   </div>
 
   <footer id="date"></footer>
 
   <script>
+    let currentSentence = "Stay lowkenuine, and the rizzdom will follow.";
+
     fetch("./daily.json")
       .then((r) => r.json())
       .then((data) => {
+        currentSentence = data.sentence;
         document.getElementById("sentence").textContent = data.sentence;
         document.getElementById("date").textContent = data.date;
       })
       .catch(() => {
-        document.getElementById("sentence").textContent =
-          "Stay lowkenuine, and the rizzdom will follow.";
+        document.getElementById("sentence").textContent = currentSentence;
       });
+
+    function buildShareText() {
+      return `Womberb of the Day\n\n“${currentSentence}”\n\nwomberb.com`;
+    }
+
+    function share() {
+      const text = buildShareText();
+      const btn = document.getElementById("share-btn");
+      const label = document.getElementById("share-label");
+
+      if (navigator.share) {
+        navigator.share({ text }).catch(() => {});
+        return;
+      }
+
+      navigator.clipboard.writeText(text).then(() => {
+        label.textContent = "Copied!";
+        btn.classList.add("confirmed");
+        setTimeout(() => {
+          label.textContent = "Share";
+          btn.classList.remove("confirmed");
+        }, 2000);
+      });
+    }
   </script>
 </body>
 </html>
