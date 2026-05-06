@@ -1,17 +1,19 @@
 {
-  "sentence": "The glazed bronut you deadassionately dismissed is the one who showed up anyway.",
+  "sentence": "A glazed bronut entering their sope opera is still the person you call when everything falls apart.",
   "date": "2026-05-06",
   "theme": "humor",
   "wombos": [
     {
-      "word": "Deadassionately",
+      "word": "Sope Opera",
       "components": [
-        "Deadass",
-        "Passionately"
+        "Super",
+        "Dope",
+        "Opinion",
+        "Era"
       ],
-      "definition": "With complete sincerity and full passion \u2014 no irony, no hedging, just genuine intensity. 'Deadass' means completely serious; combined with 'passionately' it means doing something with your whole chest. 'I deadassionately believe this.'",
-      "part_of_speech": "Adverb",
-      "theme": "wisdom",
+      "definition": "A phase or period in which someone suddenly develops and aggressively expresses strong opinions about everything. A riff on 'soap opera' \u2014 dramatic, ongoing, opinion-heavy.",
+      "part_of_speech": "Noun",
+      "theme": "opinion",
       "example": ""
     },
     {
