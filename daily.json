@@ -1,5 +1,23 @@
 {
   "sentence": "A serendookie born in a bruzzitorium is already fighting against its own origin.",
   "date": "2026-05-05",
-  "theme": "romance"
+  "theme": "romance",
+  "wombos": [
+    {
+      "word": "Bruzzitorium",
+      "components": ["Bruzz", "Auditorium"],
+      "definition": "A venue or setting full of eligible men — a place brimming with romantic potential. 'Bruzz' is slang for a guy. The male counterpart to huzzitorium.",
+      "part_of_speech": "Noun",
+      "theme": "romance",
+      "example": ""
+    },
+    {
+      "word": "Serendookie",
+      "components": ["Serendipity", "Pookie"],
+      "definition": "A serendipitous romantic encounter — stumbling into someone sweet completely by chance. 'Pookie' is an affectionate term; 'serendipity' is a happy accident. Your serendipitous boo.",
+      "part_of_speech": "Noun",
+      "theme": "romance",
+      "example": ""
+    }
+  ]
 }
