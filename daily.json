@@ -1,22 +1,30 @@
 {
-  "sentence": "A serendookie born in a bruzzitorium is already fighting against its own origin.",
-  "date": "2026-05-05",
-  "theme": "romance",
+  "sentence": "The glazed bronut you deadassionately dismissed is the one who showed up anyway.",
+  "date": "2026-05-06",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Bruzzitorium",
-      "components": ["Bruzz", "Auditorium"],
-      "definition": "A venue or setting full of eligible men — a place brimming with romantic potential. 'Bruzz' is slang for a guy. The male counterpart to huzzitorium.",
-      "part_of_speech": "Noun",
-      "theme": "romance",
+      "word": "Deadassionately",
+      "components": [
+        "Deadass",
+        "Passionately"
+      ],
+      "definition": "With complete sincerity and full passion \u2014 no irony, no hedging, just genuine intensity. 'Deadass' means completely serious; combined with 'passionately' it means doing something with your whole chest. 'I deadassionately believe this.'",
+      "part_of_speech": "Adverb",
+      "theme": "wisdom",
       "example": ""
     },
     {
-      "word": "Serendookie",
-      "components": ["Serendipity", "Pookie"],
-      "definition": "A serendipitous romantic encounter — stumbling into someone sweet completely by chance. 'Pookie' is an affectionate term; 'serendipity' is a happy accident. Your serendipitous boo.",
+      "word": "Glazed Bronut",
+      "components": [
+        "Glazing",
+        "Unfazed",
+        "Bro",
+        "Nut"
+      ],
+      "definition": "A best friend who is effortlessly cool and completely unbothered. 'Glazing' means obsessively complimenting someone; 'unfazed' means nothing rattles them. A glazed bronut is your chill, beloved, unshakeable ride-or-die.",
       "part_of_speech": "Noun",
-      "theme": "romance",
+      "theme": "friendship",
       "example": ""
     }
   ]
