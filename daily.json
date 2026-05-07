@@ -1,32 +1,30 @@
 {
-  "sentence": "A glazed bronut entering their sope opera is still the person you call when everything falls apart.",
-  "date": "2026-05-06",
-  "theme": "humor",
+  "sentence": "The guyknowballogist who never did their twintrospection is just a very confident wrong person.",
+  "date": "2026-05-07",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Sope Opera",
+      "word": "Twintrospection",
       "components": [
-        "Super",
-        "Dope",
-        "Opinion",
-        "Era"
+        "Twin",
+        "Introspection"
       ],
-      "definition": "A phase or period in which someone suddenly develops and aggressively expresses strong opinions about everything. A riff on 'soap opera' \u2014 dramatic, ongoing, opinion-heavy.",
+      "definition": "Deep self-reflection done in twin-coded style \u2014 careful introspection conducted with your twin or twin-coded inner circle before making a major decision. 'After careful twintrospection, I decided they were right.'",
       "part_of_speech": "Noun",
-      "theme": "opinion",
+      "theme": "wisdom",
       "example": ""
     },
     {
-      "word": "Glazed Bronut",
+      "word": "Guyknowballogist",
       "components": [
-        "Glazing",
-        "Unfazed",
-        "Bro",
-        "Nut"
+        "Guy",
+        "Knows",
+        "Ball",
+        "-ologist"
       ],
-      "definition": "A best friend who is effortlessly cool and completely unbothered. 'Glazing' means obsessively complimenting someone; 'unfazed' means nothing rattles them. A glazed bronut is your chill, beloved, unshakeable ride-or-die.",
+      "definition": "A person who is genuinely, deeply knowledgeable in their field \u2014 a true expert who 'knows ball' (understands the game at a high level). Derived from 'guy who knows ball' + '-ologist.' Used as a noun: 'she's a certified guyknowballogist,' 'don't argue with him, he's a guyknowballogist.'",
       "part_of_speech": "Noun",
-      "theme": "friendship",
+      "theme": "wisdom",
       "example": ""
     }
   ]
