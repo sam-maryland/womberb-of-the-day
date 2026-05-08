@@ -1,30 +1,30 @@
 {
-  "sentence": "The guyknowballogist who never did their twintrospection is just a very confident wrong person.",
-  "date": "2026-05-07",
-  "theme": "wisdom",
+  "sentence": "A pell booper who stumbles into their rendezboo will spend the rest of their life wondering if they were ready for it.",
+  "date": "2026-05-08",
+  "theme": "romance",
   "wombos": [
     {
-      "word": "Twintrospection",
+      "word": "Pell Booper",
       "components": [
-        "Twin",
-        "Introspection"
+        "Peak",
+        "Chill",
+        "Boo",
+        "Hopper"
       ],
-      "definition": "Deep self-reflection done in twin-coded style \u2014 careful introspection conducted with your twin or twin-coded inner circle before making a major decision. 'After careful twintrospection, I decided they were right.'",
+      "definition": "Someone who dates around a lot \u2014 a pell bepper who hops between boos rather than besties. The romantic, date-hopping counterpart to the universally-liked pell bepper.",
       "part_of_speech": "Noun",
-      "theme": "wisdom",
+      "theme": "romance",
       "example": ""
     },
     {
-      "word": "Guyknowballogist",
+      "word": "Rendezboo",
       "components": [
-        "Guy",
-        "Knows",
-        "Ball",
-        "-ologist"
+        "Rendezvous",
+        "Boo"
       ],
-      "definition": "A person who is genuinely, deeply knowledgeable in their field \u2014 a true expert who 'knows ball' (understands the game at a high level). Derived from 'guy who knows ball' + '-ologist.' Used as a noun: 'she's a certified guyknowballogist,' 'don't argue with him, he's a guyknowballogist.'",
+      "definition": "A romantic rendezvous with your boo. Used in place of 'rendezvous' when it's with someone you're into: 'your rendezboo, your serendookie.'",
       "part_of_speech": "Noun",
-      "theme": "wisdom",
+      "theme": "romance",
       "example": ""
     }
   ]
