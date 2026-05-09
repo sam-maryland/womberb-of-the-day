@@ -1,39 +1,28 @@
 {
-  "sentence": "The brousin who bronestly tells you you're wrong is worth more than the tweekend that lets you stay right.",
+  "sentence": "The bruzzitorium you walked into with delularisma is the one you walked out of changed.",
   "date": "2026-05-09",
-  "theme": "friendship",
+  "theme": "romance",
   "wombos": [
     {
-      "word": "Tweekend",
+      "word": "Bruzzitorium",
       "components": [
-        "Twin",
-        "Weekend"
+        "Bruzz",
+        "Auditorium"
       ],
-      "definition": "A weekend spent with your twin, twousin, or twin-coded crew. The twin version of the weekend \u2014 shared, synchronized, and double the vibes.",
+      "definition": "A venue or setting full of eligible men \u2014 a place brimming with romantic potential. 'Bruzz' is slang for a guy. The male counterpart to huzzitorium.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
+      "theme": "romance",
       "example": ""
     },
     {
-      "word": "Brousin",
+      "word": "Delularisma",
       "components": [
-        "Bro",
-        "Cousin"
+        "Delulu",
+        "Charisma"
       ],
-      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
+      "definition": "Charisma that is completely delusional \u2014 confidence and magnetism so overblown it crosses into self-delusion, yet somehow remains charming. 'He insists he has aura but he's got delularisma.'",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": ""
-    },
-    {
-      "word": "Bronestly",
-      "components": [
-        "Bro",
-        "Honestly"
-      ],
-      "definition": "With frank, no-filter honesty in the way only a bro can deliver \u2014 sincere, direct, and a little blunt. Used like 'honestly' but with an added layer of bro-level candor: 'bronestly, that was mid.'",
-      "part_of_speech": "Adverb",
-      "theme": "opinion",
+      "theme": "humor",
       "example": ""
     }
   ]
