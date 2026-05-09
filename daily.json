@@ -1,30 +1,39 @@
 {
-  "sentence": "A pell booper who stumbles into their rendezboo will spend the rest of their life wondering if they were ready for it.",
-  "date": "2026-05-08",
-  "theme": "romance",
+  "sentence": "The brousin who bronestly tells you you're wrong is worth more than the tweekend that lets you stay right.",
+  "date": "2026-05-09",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Pell Booper",
+      "word": "Tweekend",
       "components": [
-        "Peak",
-        "Chill",
-        "Boo",
-        "Hopper"
+        "Twin",
+        "Weekend"
       ],
-      "definition": "Someone who dates around a lot \u2014 a pell bepper who hops between boos rather than besties. The romantic, date-hopping counterpart to the universally-liked pell bepper.",
+      "definition": "A weekend spent with your twin, twousin, or twin-coded crew. The twin version of the weekend \u2014 shared, synchronized, and double the vibes.",
       "part_of_speech": "Noun",
-      "theme": "romance",
+      "theme": "friendship",
       "example": ""
     },
     {
-      "word": "Rendezboo",
+      "word": "Brousin",
       "components": [
-        "Rendezvous",
-        "Boo"
+        "Bro",
+        "Cousin"
       ],
-      "definition": "A romantic rendezvous with your boo. Used in place of 'rendezvous' when it's with someone you're into: 'your rendezboo, your serendookie.'",
+      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
       "part_of_speech": "Noun",
-      "theme": "romance",
+      "theme": "friendship",
+      "example": ""
+    },
+    {
+      "word": "Bronestly",
+      "components": [
+        "Bro",
+        "Honestly"
+      ],
+      "definition": "With frank, no-filter honesty in the way only a bro can deliver \u2014 sincere, direct, and a little blunt. Used like 'honestly' but with an added layer of bro-level candor: 'bronestly, that was mid.'",
+      "part_of_speech": "Adverb",
+      "theme": "opinion",
       "example": ""
     }
   ]
