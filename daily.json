@@ -1,28 +1,28 @@
 {
-  "sentence": "The bruzzitorium you walked into with delularisma is the one you walked out of changed.",
-  "date": "2026-05-09",
-  "theme": "romance",
+  "sentence": "Your charismashout will fool everyone except the bropps, who were already counting on it.",
+  "date": "2026-05-10",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Bruzzitorium",
+      "word": "Bropps",
       "components": [
-        "Bruzz",
-        "Auditorium"
+        "Bro",
+        "Opps"
       ],
-      "definition": "A venue or setting full of eligible men \u2014 a place brimming with romantic potential. 'Bruzz' is slang for a guy. The male counterpart to huzzitorium.",
+      "definition": "A frenemy in bro clothing \u2014 someone in your social circle who is technically your opp (opponent or rival). Close enough to hang out with, but you both know the score. 'Watch what you say around the bropps.'",
       "part_of_speech": "Noun",
-      "theme": "romance",
+      "theme": "friendship",
       "example": ""
     },
     {
-      "word": "Delularisma",
+      "word": "Charismashout",
       "components": [
-        "Delulu",
-        "Charisma"
+        "Charisma",
+        "Crashout"
       ],
-      "definition": "Charisma that is completely delusional \u2014 confidence and magnetism so overblown it crosses into self-delusion, yet somehow remains charming. 'He insists he has aura but he's got delularisma.'",
+      "definition": "A crashout that somehow radiates charisma \u2014 getting emotionally intense in a way that draws people in rather than pushing them away. People want your autograph mid-spiral.",
       "part_of_speech": "Noun",
-      "theme": "humor",
+      "theme": "emotion",
       "example": ""
     }
   ]
