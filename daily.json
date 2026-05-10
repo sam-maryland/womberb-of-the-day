@@ -1,28 +1,29 @@
 {
-  "sentence": "Your charismashout will fool everyone except the bropps, who were already counting on it.",
+  "sentence": "Never testiculedrop your way into a goonion.",
   "date": "2026-05-10",
-  "theme": "friendship",
+  "theme": "opinion",
   "wombos": [
     {
-      "word": "Bropps",
+      "word": "Testiculedrop",
       "components": [
-        "Bro",
-        "Opps"
+        "Testament",
+        "Ridicule",
+        "Eavesdrop"
       ],
-      "definition": "A frenemy in bro clothing \u2014 someone in your social circle who is technically your opp (opponent or rival). Close enough to hang out with, but you both know the score. 'Watch what you say around the bropps.'",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
+      "definition": "To eavesdrop on a conversation and stumble upon something so testiculous it validates your worst expectations \u2014 dropping in on a take so bad it becomes a testament to failure.",
+      "part_of_speech": "Verb",
+      "theme": "opinion",
       "example": ""
     },
     {
-      "word": "Charismashout",
+      "word": "Goonion",
       "components": [
-        "Charisma",
-        "Crashout"
+        "Good",
+        "Opinion"
       ],
-      "definition": "A crashout that somehow radiates charisma \u2014 getting emotionally intense in a way that draws people in rather than pushing them away. People want your autograph mid-spiral.",
+      "definition": "A genuinely solid, well-reasoned take. Used to validate someone's opinion: 'that's actually a goonion.' The opposite of a testicule.",
       "part_of_speech": "Noun",
-      "theme": "emotion",
+      "theme": "opinion",
       "example": ""
     }
   ]
