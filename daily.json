@@ -1,29 +1,28 @@
 {
-  "sentence": "Never testiculedrop your way into a goonion.",
-  "date": "2026-05-10",
-  "theme": "opinion",
+  "sentence": "Rectumultuous thoughts have no business following you into the gazebro.",
+  "date": "2026-05-11",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Testiculedrop",
+      "word": "Gazebro",
       "components": [
-        "Testament",
-        "Ridicule",
-        "Eavesdrop"
+        "Gazebo",
+        "Bro"
       ],
-      "definition": "To eavesdrop on a conversation and stumble upon something so testiculous it validates your worst expectations \u2014 dropping in on a take so bad it becomes a testament to failure.",
-      "part_of_speech": "Verb",
-      "theme": "opinion",
+      "definition": "A gazebo that belongs to or is occupied by bros \u2014 an outdoor bro hangout structure. The bro-coded version of a gazebo. Part of the extended brarpet household.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
       "example": ""
     },
     {
-      "word": "Goonion",
+      "word": "Rectumultuous",
       "components": [
-        "Good",
-        "Opinion"
+        "Recall",
+        "Tumultuous"
       ],
-      "definition": "A genuinely solid, well-reasoned take. Used to validate someone's opinion: 'that's actually a goonion.' The opposite of a testicule.",
-      "part_of_speech": "Noun",
-      "theme": "opinion",
+      "definition": "The chaotic, cringe-laden feeling triggered by a sudden, unwanted memory of something embarrassing from your past \u2014 the kind of recall that makes you want to spiral or crash out.",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
       "example": ""
     }
   ]
