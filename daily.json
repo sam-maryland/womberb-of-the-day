@@ -1,28 +1,42 @@
 {
-  "sentence": "Rectumultuous thoughts have no business following you into the gazebro.",
-  "date": "2026-05-11",
-  "theme": "friendship",
+  "sentence": "What the paurmisan grows quich\u00e9, the questionabiche inherits.",
+  "date": "2026-05-12",
+  "theme": "quiche",
   "wombos": [
     {
-      "word": "Gazebro",
+      "word": "Quich\u00e9",
       "components": [
-        "Gazebo",
-        "Bro"
+        "Quirky",
+        "Niche",
+        "Clich\u00e9"
       ],
-      "definition": "A gazebo that belongs to or is occupied by bros \u2014 an outdoor bro hangout structure. The bro-coded version of a gazebo. Part of the extended brarpet household.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
+      "definition": "So quirky and niche that it's become overdone \u2014 quiche behavior that has crossed into clich\u00e9 territory. When your niche becomes the new normal, you've gone quich\u00e9.",
+      "part_of_speech": "Adjective",
+      "theme": "quiche",
       "example": ""
     },
     {
-      "word": "Rectumultuous",
+      "word": "Questionabiche",
       "components": [
-        "Recall",
-        "Tumultuous"
+        "Questionable",
+        "Niche"
       ],
-      "definition": "The chaotic, cringe-laden feeling triggered by a sudden, unwanted memory of something embarrassing from your past \u2014 the kind of recall that makes you want to spiral or crash out.",
+      "definition": "So intensely quiche that it makes others question their own sense of niche. The state of being so unapologetically specific that it destabilizes everyone around you. 'I'm so quiche I'm gonna make you questionabiche.'",
       "part_of_speech": "Adjective",
-      "theme": "emotion",
+      "theme": "quiche",
+      "example": ""
+    },
+    {
+      "word": "Paurmisan",
+      "components": [
+        "Prime",
+        "Aura",
+        "Farm",
+        "Artisan"
+      ],
+      "definition": "An artisan-level aura farmer \u2014 someone who cultivates their aura with expert, craft-level precision. Not just farming aura but doing it with the finesse of a true craftsperson.",
+      "part_of_speech": "Noun",
+      "theme": "excellence",
       "example": ""
     }
   ]
