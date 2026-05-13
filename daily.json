@@ -1,41 +1,28 @@
 {
-  "sentence": "What the paurmisan grows quich\u00e9, the questionabiche inherits.",
-  "date": "2026-05-12",
-  "theme": "quiche",
+  "sentence": "Dihiligently done is still lowtmaxxing's least favorite kind of finished.",
+  "date": "2026-05-13",
+  "theme": "behavior",
   "wombos": [
     {
-      "word": "Quich\u00e9",
+      "word": "Dihiligently",
       "components": [
-        "Quirky",
-        "Niche",
-        "Clich\u00e9"
+        "Dih",
+        "Diligently"
       ],
-      "definition": "So quirky and niche that it's become overdone \u2014 quiche behavior that has crossed into clich\u00e9 territory. When your niche becomes the new normal, you've gone quich\u00e9.",
+      "definition": "Doing something diligently but also being a dick about it at the same time",
       "part_of_speech": "Adjective",
-      "theme": "quiche",
-      "example": ""
+      "theme": "behavior",
+      "example": "I'm not just doing it diligently I'm dihoing it dihiligently."
     },
     {
-      "word": "Questionabiche",
+      "word": "Lowtmaxxing",
       "components": [
-        "Questionable",
-        "Niche"
+        "Lowkey",
+        "Goated",
+        "Maxxing"
       ],
-      "definition": "So intensely quiche that it makes others question their own sense of niche. The state of being so unapologetically specific that it destabilizes everyone around you. 'I'm so quiche I'm gonna make you questionabiche.'",
-      "part_of_speech": "Adjective",
-      "theme": "quiche",
-      "example": ""
-    },
-    {
-      "word": "Paurmisan",
-      "components": [
-        "Prime",
-        "Aura",
-        "Farm",
-        "Artisan"
-      ],
-      "definition": "An artisan-level aura farmer \u2014 someone who cultivates their aura with expert, craft-level precision. Not just farming aura but doing it with the finesse of a true craftsperson.",
-      "part_of_speech": "Noun",
+      "definition": "Maximizing your lowted energy \u2014 being the absolute greatest at something while being as understated as possible about it. The art of quietly maxxing.",
+      "part_of_speech": "Verb",
       "theme": "excellence",
       "example": ""
     }
