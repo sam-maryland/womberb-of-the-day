@@ -1,29 +1,30 @@
 {
-  "sentence": "Dihiligently done is still lowtmaxxing's least favorite kind of finished.",
-  "date": "2026-05-13",
-  "theme": "behavior",
+  "sentence": "Capquiche me once and I will know whether you are quichous or just performing it.",
+  "date": "2026-05-14",
+  "theme": "quiche",
   "wombos": [
     {
-      "word": "Dihiligently",
+      "word": "Capquiche",
       "components": [
-        "Dih",
-        "Diligently"
+        "Capiche",
+        "Quirky",
+        "Niche"
       ],
-      "definition": "Doing something diligently but also being a dick about it at the same time",
-      "part_of_speech": "Adjective",
-      "theme": "behavior",
-      "example": "I'm not just doing it diligently I'm dihoing it dihiligently."
+      "definition": "To demand that someone give a quiche (quirky, niche) take or analysis \u2014 insisting on a genuinely odd, specific, personal opinion rather than a generic one. 'Capquiche me on this.'",
+      "part_of_speech": "Verb",
+      "theme": "quiche",
+      "example": ""
     },
     {
-      "word": "Lowtmaxxing",
+      "word": "Quichous",
       "components": [
-        "Lowkey",
-        "Goated",
-        "Maxxing"
+        "Quirky",
+        "Niche",
+        "Curious"
       ],
-      "definition": "Maximizing your lowted energy \u2014 being the absolute greatest at something while being as understated as possible about it. The art of quietly maxxing.",
-      "part_of_speech": "Verb",
-      "theme": "excellence",
+      "definition": "Quirky and niche, but also intriguingly curious \u2014 something that makes you want to know more. A step beyond quiche: not just odd, but fascinatingly odd.",
+      "part_of_speech": "Adjective",
+      "theme": "quiche",
       "example": ""
     }
   ]
