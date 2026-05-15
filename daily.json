@@ -1,30 +1,29 @@
 {
-  "sentence": "Capquiche me once and I will know whether you are quichous or just performing it.",
-  "date": "2026-05-14",
-  "theme": "quiche",
+  "sentence": "A cunninlinguist who cannot legaculate is just a man who chose his words well and still arrived late.",
+  "date": "2026-05-15",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Capquiche",
+      "word": "Legaculate",
       "components": [
-        "Capiche",
-        "Quirky",
-        "Niche"
+        "Legitimate",
+        "Accurate",
+        "Speculate"
       ],
-      "definition": "To demand that someone give a quiche (quirky, niche) take or analysis \u2014 insisting on a genuinely odd, specific, personal opinion rather than a generic one. 'Capquiche me on this.'",
+      "definition": "To make a prediction or analysis so accurate that it feels prophetic. Used as a verb: 'he legaculated that outcome months ago,' 'she legaculated the whole situation.'",
       "part_of_speech": "Verb",
-      "theme": "quiche",
+      "theme": "wisdom",
       "example": ""
     },
     {
-      "word": "Quichous",
+      "word": "Cunninlinguist",
       "components": [
-        "Quirky",
-        "Niche",
-        "Curious"
+        "Cunning",
+        "Linguist"
       ],
-      "definition": "Quirky and niche, but also intriguingly curious \u2014 something that makes you want to know more. A step beyond quiche: not just odd, but fascinatingly odd.",
-      "part_of_speech": "Adjective",
-      "theme": "quiche",
+      "definition": "Someone masterfully skilled at putting words together \u2014 a cunning, precision-level wombo deployer. The highest tier of bangpoundulary. 'That cunninlinguist will deliver the quiche peanemis with no analvisions.'",
+      "part_of_speech": "Noun",
+      "theme": "wisdom",
       "example": ""
     }
   ]
