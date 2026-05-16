@@ -1,18 +1,18 @@
 {
-  "sentence": "Never show up lookstaxxed to a room that cannot afford the fanum.",
+  "sentence": "Call out the womberombombo or you were never really there.",
   "date": "2026-05-16",
-  "theme": "identity",
+  "theme": "language",
   "wombos": [
     {
-      "word": "Lookstaxxed",
+      "word": "Womberombombo",
       "components": [
-        "Looksmaxxed",
-        "Fanum Tax"
+        "Womberang",
+        "Wombombo"
       ],
-      "definition": "Looksmaxxed to a degree that demands a fanum tax \u2014 so optimized that a portion of your gains must, by law, be paid back to the bros.",
-      "part_of_speech": "Adjective",
-      "theme": "appearance",
-      "example": "He came back from the gym lookstaxxed and we all owed him a fry."
+      "definition": "When you're out and about and you hear someone say a wombombo that you said earlier in the day; you have to call it out when it happens or it doesn't exist",
+      "part_of_speech": "Noun",
+      "theme": "language",
+      "example": "Yo he just dropped a queanemis \u2014 that's a Womberombombo."
     }
   ]
 }
