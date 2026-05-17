@@ -1,18 +1,30 @@
 {
-  "sentence": "Call out the womberombombo or you were never really there.",
-  "date": "2026-05-16",
-  "theme": "language",
+  "sentence": "Never hand someone your chalankerchief while still nonchalaxxing.",
+  "date": "2026-05-17",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Womberombombo",
+      "word": "Chalankerchief",
       "components": [
-        "Womberang",
-        "Wombombo"
+        "Chalant",
+        "Handkerchief"
       ],
-      "definition": "When you're out and about and you hear someone say a wombombo that you said earlier in the day; you have to call it out when it happens or it doesn't exist",
+      "definition": "A handkerchief given to someone who is visibly not being nonchalant \u2014 a gesture of comfort during an open, unguarded emotional moment. The opposite-of-nonchalant tissue.",
       "part_of_speech": "Noun",
-      "theme": "language",
-      "example": "Yo he just dropped a queanemis \u2014 that's a Womberombombo."
+      "theme": "emotion",
+      "example": ""
+    },
+    {
+      "word": "Nonchalaxxing",
+      "components": [
+        "Nonchalant",
+        "Crashout",
+        "Maxxing"
+      ],
+      "definition": "Leaning fully into nonchalashout behavior \u2014 maxxing out the performance of calm while internally spiraling. Going as nonchalashout as humanly possible.",
+      "part_of_speech": "Verb",
+      "theme": "emotion",
+      "example": ""
     }
   ]
 }
