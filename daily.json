@@ -1,30 +1,33 @@
 {
-  "sentence": "Never hand someone your chalankerchief while still nonchalaxxing.",
+  "sentence": "Spend your peanemizz wisely. Save your micropeanemis for the walk home.",
   "date": "2026-05-17",
-  "theme": "emotion",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Chalankerchief",
+      "word": "Peanemizz",
       "components": [
-        "Chalant",
-        "Handkerchief"
+        "Peak",
+        "Cinema",
+        "Analysis",
+        "Rizz"
       ],
-      "definition": "A handkerchief given to someone who is visibly not being nonchalant \u2014 a gesture of comfort during an open, unguarded emotional moment. The opposite-of-nonchalant tissue.",
+      "definition": "A peanemis delivered with natural charm and rizz \u2014 not just an analysis but a magnetically smooth, effortlessly cool deep-dive. Someone with peanemizz makes the peanemis irresistible.",
       "part_of_speech": "Noun",
-      "theme": "emotion",
+      "theme": "cinema",
       "example": ""
     },
     {
-      "word": "Nonchalaxxing",
+      "word": "Micropeanemis",
       "components": [
-        "Nonchalant",
-        "Crashout",
-        "Maxxing"
+        "Microscopic",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "Leaning fully into nonchalashout behavior \u2014 maxxing out the performance of calm while internally spiraling. Going as nonchalashout as humanly possible.",
-      "part_of_speech": "Verb",
-      "theme": "emotion",
-      "example": ""
+      "definition": "A microscopic peak cinema and analysis; used when you're not trying to impress someone but just trying to get the job done by stripping away all unnecessary parts until only the essence remains",
+      "part_of_speech": "Noun",
+      "theme": "analysis",
+      "example": "She wanted a regular one but I delivered a micropeanemis."
     }
   ]
 }
