@@ -1,33 +1,29 @@
 {
-  "sentence": "Spend your peanemizz wisely. Save your micropeanemis for the walk home.",
-  "date": "2026-05-17",
-  "theme": "cinema",
+  "sentence": "Moras lives in the responchalashout nobody watched you survive.",
+  "date": "2026-05-18",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Peanemizz",
+      "word": "Responchalashout",
       "components": [
-        "Peak",
-        "Cinema",
-        "Analysis",
-        "Rizz"
+        "Responsible",
+        "Nonchalashout"
       ],
-      "definition": "A peanemis delivered with natural charm and rizz \u2014 not just an analysis but a magnetically smooth, effortlessly cool deep-dive. Someone with peanemizz makes the peanemis irresistible.",
+      "definition": "The mature, adult version of a nonchalashout \u2014 crashing out internally while continuing to pay bills and answer emails on time.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": ""
+      "theme": "emotion",
+      "example": "She filed her taxes mid-responchalashout."
     },
     {
-      "word": "Micropeanemis",
+      "word": "Moras",
       "components": [
-        "Microscopic",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "More",
+        "Gas"
       ],
-      "definition": "A microscopic peak cinema and analysis; used when you're not trying to impress someone but just trying to get the job done by stripping away all unnecessary parts until only the essence remains",
-      "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "She wanted a regular one but I delivered a micropeanemis."
+      "definition": "Even more impressive or amazing than what was previously acknowledged \u2014 a superlative escalation of being gas.",
+      "part_of_speech": "Adjective",
+      "theme": "compliment",
+      "example": "You're good, but I'm moras and we both know it."
     }
   ]
 }
