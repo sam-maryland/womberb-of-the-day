@@ -1,29 +1,29 @@
 {
-  "sentence": "Moras lives in the responchalashout nobody watched you survive.",
-  "date": "2026-05-18",
-  "theme": "emotion",
+  "sentence": "Never kirkfuse inside an enima you yourself created.",
+  "date": "2026-05-19",
+  "theme": "debate",
   "wombos": [
     {
-      "word": "Responchalashout",
+      "word": "Kirkfuse",
       "components": [
-        "Responsible",
-        "Nonchalashout"
+        "Kirk",
+        "Confuse"
       ],
-      "definition": "The mature, adult version of a nonchalashout \u2014 crashing out internally while continuing to pay bills and answer emails on time.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "She filed her taxes mid-responchalashout."
+      "definition": "To confuse someone in a distinctly Kirk-coded way \u2014 calmly, articulately, and with podium-level confidence. They walk away unsure what just happened.",
+      "part_of_speech": "Verb",
+      "theme": "debate",
+      "example": "He didn't argue with her, he just kirkfused her until she changed the subject."
     },
     {
-      "word": "Moras",
+      "word": "Enima",
       "components": [
-        "More",
-        "Gas"
+        "Enigma",
+        "Cinema"
       ],
-      "definition": "Even more impressive or amazing than what was previously acknowledged \u2014 a superlative escalation of being gas.",
-      "part_of_speech": "Adjective",
-      "theme": "compliment",
-      "example": "You're good, but I'm moras and we both know it."
+      "definition": "A situation or thing that is both deeply confusing and weirdly cinematic \u2014 a spectacle you can't look away from even though you have no idea what's happening.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": ""
     }
   ]
 }
