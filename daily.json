@@ -1,29 +1,31 @@
 {
-  "sentence": "Rizzappointed enough, even your peanemis will not save the evening.",
-  "date": "2026-05-20",
-  "theme": "emotion",
+  "sentence": "Never offer your weanemis to someone still collecting fandsome tax.",
+  "date": "2026-05-21",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Rizzappointed",
+      "word": "Weanemis",
       "components": [
-        "Rizz",
-        "Disappointed"
-      ],
-      "definition": "Let down by someone's rizz \u2014 disappointment that lands specifically because the charm-game was weaker than advertised.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "You d'aven't held your own \u2014 I'm really rizzappointed."
-    },
-    {
-      "word": "Peanemis",
-      "components": [
+        "Word",
+        "Combo",
         "Peak",
         "Cinema",
         "Analysis"
       ],
-      "definition": "An obsessive, over-the-top deep-dive analysis of any subject \u2014 often a movie, show, event, or cultural moment. The kind of breakdown that goes way further than anyone asked for.",
+      "definition": "A peanemis that is itself about wombos \u2014 a deep-dive analysis of the wombo universe, its vocabulary, and its cultural significance.",
       "part_of_speech": "Noun",
       "theme": "cinema",
+      "example": ""
+    },
+    {
+      "word": "Fandsome Tax",
+      "components": [
+        "Fanum Tax",
+        "Handsome"
+      ],
+      "definition": "The advantage gained from being handsome \u2014 benefiting from your looks the way fanum tax benefits from someone else's food. Taking a portion of social currency that belongs to others purely on looks.",
+      "part_of_speech": "Noun",
+      "theme": "romance",
       "example": ""
     }
   ]
