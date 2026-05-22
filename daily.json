@@ -1,32 +1,29 @@
 {
-  "sentence": "Never offer your weanemis to someone still collecting fandsome tax.",
-  "date": "2026-05-21",
-  "theme": "cinema",
+  "sentence": "Never deploy your brizzler mid-chronchalashout. The room will feel both.",
+  "date": "2026-05-22",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Weanemis",
+      "word": "Brizzler",
       "components": [
-        "Word",
-        "Combo",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Bro",
+        "Rizzler"
       ],
-      "definition": "A peanemis that is itself about wombos \u2014 a deep-dive analysis of the wombo universe, its vocabulary, and its cultural significance.",
+      "definition": "A bro known specifically for his rizz \u2014 the friend you bring along when the night requires a strong cold open. The wingman archetype.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": ""
+      "theme": "friendship",
+      "example": "Bring the brizzler \u2014 he'll handle the cold open."
     },
     {
-      "word": "Fandsome Tax",
+      "word": "Chronchalashout",
       "components": [
-        "Fanum Tax",
-        "Handsome"
+        "The Chronic",
+        "Nonchalashout"
       ],
-      "definition": "The advantage gained from being handsome \u2014 benefiting from your looks the way fanum tax benefits from someone else's food. Taking a portion of social currency that belongs to others purely on looks.",
+      "definition": "A weed-aided nonchalashout \u2014 composure held together by THC while the inner crashout simmers quietly underneath.",
       "part_of_speech": "Noun",
-      "theme": "romance",
-      "example": ""
+      "theme": "emotion",
+      "example": "After the third bowl he settled into a slow chronchalashout."
     }
   ]
 }
