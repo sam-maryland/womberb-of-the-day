@@ -1,29 +1,30 @@
 {
-  "sentence": "Never deploy your brizzler mid-chronchalashout. The room will feel both.",
-  "date": "2026-05-22",
-  "theme": "friendship",
+  "sentence": "Bloring chiche hits different when nobody warned you to look away.",
+  "date": "2026-05-23",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Brizzler",
+      "word": "Bloring",
       "components": [
-        "Bro",
-        "Rizzler"
+        "Boring",
+        "Alluring"
       ],
-      "definition": "A bro known specifically for his rizz \u2014 the friend you bring along when the night requires a strong cold open. The wingman archetype.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "Bring the brizzler \u2014 he'll handle the cold open."
+      "definition": "Alluringly boring \u2014 something dull that somehow draws you in anyway. The quality of being so mundane it loops back around to fascinating. 'Greatest of all time at outdated bloring.'",
+      "part_of_speech": "Adjective",
+      "theme": "humor",
+      "example": ""
     },
     {
-      "word": "Chronchalashout",
+      "word": "Chiche",
       "components": [
-        "The Chronic",
-        "Nonchalashout"
+        "Cheese",
+        "Quirky",
+        "Niche"
       ],
-      "definition": "A weed-aided nonchalashout \u2014 composure held together by THC while the inner crashout simmers quietly underneath.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "After the third bowl he settled into a slow chronchalashout."
+      "definition": "Extra cheesy in a quiche way \u2014 something so niche and quirky it's also a little cheesy about it. The self-aware, dairy-enhanced cousin of quiche.",
+      "part_of_speech": "Adjective",
+      "theme": "quiche",
+      "example": ""
     }
   ]
 }
