@@ -1,30 +1,31 @@
 {
-  "sentence": "Bloring chiche hits different when nobody warned you to look away.",
-  "date": "2026-05-23",
-  "theme": "humor",
+  "sentence": "Gluteous maximus finds only the uquiche door worth opening.",
+  "date": "2026-05-24",
+  "theme": "focus",
   "wombos": [
     {
-      "word": "Bloring",
+      "word": "Gluteous Maximus",
       "components": [
-        "Boring",
-        "Alluring"
+        "Gluttonous",
+        "Righteous",
+        "Maximum",
+        "Focus"
       ],
-      "definition": "Alluringly boring \u2014 something dull that somehow draws you in anyway. The quality of being so mundane it loops back around to fascinating. 'Greatest of all time at outdated bloring.'",
-      "part_of_speech": "Adjective",
-      "theme": "humor",
-      "example": ""
+      "definition": "The deepest possible state of locked-in focus \u2014 gluttonously, righteously, maximally concentrated. Beyond clocked in; this is the final form of being dialed in.",
+      "part_of_speech": "Phrase",
+      "theme": "focus",
+      "example": "Leave me alone, I'm trying to get some gluteous maximus."
     },
     {
-      "word": "Chiche",
+      "word": "Uquiche",
       "components": [
-        "Cheese",
-        "Quirky",
-        "Niche"
+        "Uniche",
+        "Quiche"
       ],
-      "definition": "Extra cheesy in a quiche way \u2014 something so niche and quirky it's also a little cheesy about it. The self-aware, dairy-enhanced cousin of quiche.",
+      "definition": "What happens when uniche and quiche combine forces \u2014 the singular, niche, one-of-a-kind specificity raised to the absolute. Peak quiche.",
       "part_of_speech": "Adjective",
       "theme": "quiche",
-      "example": ""
+      "example": "Combine their powers and it becomes uquiche."
     }
   ]
 }
