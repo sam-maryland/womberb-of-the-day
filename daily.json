@@ -1,31 +1,31 @@
 {
-  "sentence": "Gluteous maximus finds only the uquiche door worth opening.",
-  "date": "2026-05-24",
-  "theme": "focus",
+  "sentence": "Your choppleganger cannot deliver the peanemizz you never had.",
+  "date": "2026-05-25",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Gluteous Maximus",
+      "word": "Choppleganger",
       "components": [
-        "Gluttonous",
-        "Righteous",
-        "Maximum",
-        "Focus"
+        "Chopped",
+        "Doppelganger"
       ],
-      "definition": "The deepest possible state of locked-in focus \u2014 gluttonously, righteously, maximally concentrated. Beyond clocked in; this is the final form of being dialed in.",
-      "part_of_speech": "Phrase",
-      "theme": "focus",
-      "example": "Leave me alone, I'm trying to get some gluteous maximus."
+      "definition": "A doppelganger who is a clearly inferior, chopped-up version of you \u2014 a lookalike that did not get the same glow-up. 'I'm legiterally Frank Gallagher's choppleganger.'",
+      "part_of_speech": "Noun",
+      "theme": "humor",
+      "example": ""
     },
     {
-      "word": "Uquiche",
+      "word": "Peanemizz",
       "components": [
-        "Uniche",
-        "Quiche"
+        "Peak",
+        "Cinema",
+        "Analysis",
+        "Rizz"
       ],
-      "definition": "What happens when uniche and quiche combine forces \u2014 the singular, niche, one-of-a-kind specificity raised to the absolute. Peak quiche.",
-      "part_of_speech": "Adjective",
-      "theme": "quiche",
-      "example": "Combine their powers and it becomes uquiche."
+      "definition": "A peanemis delivered with natural charm and rizz \u2014 not just an analysis but a magnetically smooth, effortlessly cool deep-dive. Someone with peanemizz makes the peanemis irresistible.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": ""
     }
   ]
 }
