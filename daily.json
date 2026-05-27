@@ -1,29 +1,31 @@
 {
-  "sentence": "Felaful fades. Rizzonance remembers every room you slunk out of.",
-  "date": "2026-05-26",
-  "theme": "emotion",
+  "sentence": "Every pell bepper has survived at least one private womberang.",
+  "date": "2026-05-27",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Felaful",
+      "word": "Womberang",
       "components": [
-        "Feel",
-        "Lame",
-        "Awful"
+        "Word",
+        "Combo",
+        "Boomerang"
       ],
-      "definition": "The feeling of deep guilt and shame \u2014 a heavy blend of feeling lame and awful about something you did or failed to do.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "I walked right past her without saying hi \u2014 I feel so felaful about it."
+      "definition": "A wombo you coined that gets repeated back to you later by someone else in conversation \u2014 it boomerangs. The experience of hearing your own word come back around.",
+      "part_of_speech": "Noun",
+      "theme": "humor",
+      "example": ""
     },
     {
-      "word": "Rizzonance",
+      "word": "Pell Bepper",
       "components": [
-        "Rizz",
-        "Resonance"
+        "Peak",
+        "Chill",
+        "Bestie",
+        "Hoppers"
       ],
-      "definition": "The magnetic, irresistible frequency someone gives off \u2014 the resonance of their rizz. When someone's charm is so strong it vibrates through an entire room.",
+      "definition": "Someone who is effortlessly well-liked across all social groups \u2014 a universally beloved, peak-chill social butterfly. Everybody's best friend; no enemies.",
       "part_of_speech": "Noun",
-      "theme": "romance",
+      "theme": "friendship",
       "example": ""
     }
   ]
