@@ -1,31 +1,28 @@
 {
-  "sentence": "Every pell bepper has survived at least one private womberang.",
-  "date": "2026-05-27",
-  "theme": "humor",
+  "sentence": "Tuffin first. Analvise later. Never mix the order.",
+  "date": "2026-05-28",
+  "theme": "attitude",
   "wombos": [
     {
-      "word": "Womberang",
+      "word": "Tuffin",
       "components": [
-        "Word",
-        "Combo",
-        "Boomerang"
+        "Twin",
+        "Tuff"
       ],
-      "definition": "A wombo you coined that gets repeated back to you later by someone else in conversation \u2014 it boomerangs. The experience of hearing your own word come back around.",
-      "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "definition": "The twin version of being tough \u2014 mutual toughness shared between two people with a twin-coded bond.",
+      "part_of_speech": "Adjective",
+      "theme": "attitude",
+      "example": "Those two are out here tuffin together like nothing can touch them."
     },
     {
-      "word": "Pell Bepper",
+      "word": "Analvise",
       "components": [
-        "Peak",
-        "Chill",
-        "Bestie",
-        "Hoppers"
+        "Analysis",
+        "Revise"
       ],
-      "definition": "Someone who is effortlessly well-liked across all social groups \u2014 a universally beloved, peak-chill social butterfly. Everybody's best friend; no enemies.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
+      "definition": "The verb form of analvision \u2014 to analyze and revise something on the spot. Used when someone needs to rethink their approach in real time: 'You need to analvise yourself.'",
+      "part_of_speech": "Verb",
+      "theme": "cinema",
       "example": ""
     }
   ]
