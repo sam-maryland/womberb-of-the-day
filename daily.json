@@ -1,29 +1,29 @@
 {
-  "sentence": "Tuffin first. Analvise later. Never mix the order.",
-  "date": "2026-05-28",
-  "theme": "attitude",
+  "sentence": "Brotection means nothing if you showed up clavacmaxxed instead of present.",
+  "date": "2026-05-29",
+  "theme": "appearance",
   "wombos": [
     {
-      "word": "Tuffin",
+      "word": "Clavacmaxxed",
       "components": [
-        "Twin",
-        "Tuff"
+        "Clavicular",
+        "Vacuumaxxed"
       ],
-      "definition": "The twin version of being tough \u2014 mutual toughness shared between two people with a twin-coded bond.",
+      "definition": "Clavicles vacuum-maxxed to maximum prominence \u2014 the bone-deep form of looksmaxxing focused entirely on collarbone definition.",
       "part_of_speech": "Adjective",
-      "theme": "attitude",
-      "example": "Those two are out here tuffin together like nothing can touch them."
+      "theme": "appearance",
+      "example": "He got clavacmaxxed over the summer and now his shirt won't sit right."
     },
     {
-      "word": "Analvise",
+      "word": "Brotection",
       "components": [
-        "Analysis",
-        "Revise"
+        "Bro",
+        "Protection"
       ],
-      "definition": "The verb form of analvision \u2014 to analyze and revise something on the spot. Used when someone needs to rethink their approach in real time: 'You need to analvise yourself.'",
-      "part_of_speech": "Verb",
-      "theme": "cinema",
-      "example": ""
+      "definition": "Protective measures taken on behalf of, or by, a bro \u2014 the bro-coded form of having someone's back.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
+      "example": "When it comes to my friends, I always use brotection."
     }
   ]
 }
