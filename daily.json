@@ -1,29 +1,37 @@
 {
-  "sentence": "Brotection means nothing if you showed up clavacmaxxed instead of present.",
-  "date": "2026-05-29",
-  "theme": "appearance",
+  "sentence": "Serve the froastypeanemis first. Let them earn the mysterenmissuspeanemis.",
+  "date": "2026-05-30",
+  "theme": "analysis",
   "wombos": [
     {
-      "word": "Clavacmaxxed",
+      "word": "Froastypeanemis",
       "components": [
-        "Clavicular",
-        "Vacuumaxxed"
+        "Fried",
+        "Toasty",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "Clavicles vacuum-maxxed to maximum prominence \u2014 the bone-deep form of looksmaxxing focused entirely on collarbone definition.",
-      "part_of_speech": "Adjective",
-      "theme": "appearance",
-      "example": "He got clavacmaxxed over the summer and now his shirt won't sit right."
+      "definition": "A peak cinema analysis delivered warm \u2014 fried, toasty, and comforting rather than icy. The cozy counterpart to a spicypeanemis.",
+      "part_of_speech": "Noun",
+      "theme": "analysis",
+      "example": "I expected a spicy one, but instead he delivered a froastypeanemis."
     },
     {
-      "word": "Brotection",
+      "word": "Mysterenmissuspeanemis",
       "components": [
-        "Bro",
-        "Protection"
+        "Mysterious",
+        "Enigmatic",
+        "Misunderstood",
+        "Sus",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "Protective measures taken on behalf of, or by, a bro \u2014 the bro-coded form of having someone's back.",
+      "definition": "An epic, mysterious, suspicious, and deeply cinematic story or situation \u2014 something so wild and unbelievable that it demands a full breakdown. The ultimate level of a peanemis. 'Sus' means suspicious.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "When it comes to my friends, I always use brotection."
+      "theme": "cinema",
+      "example": ""
     }
   ]
 }
