@@ -1,36 +1,28 @@
 {
-  "sentence": "Serve the froastypeanemis first. Let them earn the mysterenmissuspeanemis.",
-  "date": "2026-05-30",
-  "theme": "analysis",
+  "sentence": "Sonsei enters last. Rizzonance arrived without him.",
+  "date": "2026-05-31",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Froastypeanemis",
+      "word": "Sonsei",
       "components": [
-        "Fried",
-        "Toasty",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Son",
+        "Sensei"
       ],
-      "definition": "A peak cinema analysis delivered warm \u2014 fried, toasty, and comforting rather than icy. The cozy counterpart to a spicypeanemis.",
+      "definition": "A respectable friend or mentor figure \u2014 someone you look up to who also moves with the energy of a 'son.' The authoritative counterpart to a sonbling.",
       "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "I expected a spicy one, but instead he delivered a froastypeanemis."
+      "theme": "relationships",
+      "example": "My sonsei walked in and immediately commanded the whole room."
     },
     {
-      "word": "Mysterenmissuspeanemis",
+      "word": "Rizzonance",
       "components": [
-        "Mysterious",
-        "Enigmatic",
-        "Misunderstood",
-        "Sus",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Rizz",
+        "Resonance"
       ],
-      "definition": "An epic, mysterious, suspicious, and deeply cinematic story or situation \u2014 something so wild and unbelievable that it demands a full breakdown. The ultimate level of a peanemis. 'Sus' means suspicious.",
+      "definition": "The magnetic, irresistible frequency someone gives off \u2014 the resonance of their rizz. When someone's charm is so strong it vibrates through an entire room.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
+      "theme": "romance",
       "example": ""
     }
   ]
