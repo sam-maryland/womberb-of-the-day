@@ -1,28 +1,29 @@
 {
-  "sentence": "Sonsei enters last. Rizzonance arrived without him.",
-  "date": "2026-05-31",
-  "theme": "relationships",
+  "sentence": "Clavacmaxxed shoulders cannot hold up a wombersation worth finishing.",
+  "date": "2026-06-01",
+  "theme": "appearance",
   "wombos": [
     {
-      "word": "Sonsei",
+      "word": "Clavacmaxxed",
       "components": [
-        "Son",
-        "Sensei"
+        "Clavicular",
+        "Vacuumaxxed"
       ],
-      "definition": "A respectable friend or mentor figure \u2014 someone you look up to who also moves with the energy of a 'son.' The authoritative counterpart to a sonbling.",
-      "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "My sonsei walked in and immediately commanded the whole room."
+      "definition": "Clavicles vacuum-maxxed to maximum prominence \u2014 the bone-deep form of looksmaxxing focused entirely on collarbone definition.",
+      "part_of_speech": "Adjective",
+      "theme": "appearance",
+      "example": "He got clavacmaxxed over the summer and now his shirt won't sit right."
     },
     {
-      "word": "Rizzonance",
+      "word": "Wombersation",
       "components": [
-        "Rizz",
-        "Resonance"
+        "Word",
+        "Combo",
+        "Conversation"
       ],
-      "definition": "The magnetic, irresistible frequency someone gives off \u2014 the resonance of their rizz. When someone's charm is so strong it vibrates through an entire room.",
+      "definition": "A conversation conducted entirely in wombos \u2014 a wombo-to-wombo exchange between two cunninlinguists. The highest form of meso communication.",
       "part_of_speech": "Noun",
-      "theme": "romance",
+      "theme": "humor",
       "example": ""
     }
   ]
