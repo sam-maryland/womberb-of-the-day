@@ -1,29 +1,30 @@
 {
-  "sentence": "Nonchalenestrate ligurative. The window remembers which one you meant.",
-  "date": "2026-06-02",
-  "theme": "opinion",
+  "sentence": "Yourow finds the quichous last \u2014 after everyone else has moved on.",
+  "date": "2026-06-03",
+  "theme": "quiche",
   "wombos": [
     {
-      "word": "Ligurative",
+      "word": "Quichous",
       "components": [
-        "Literally",
-        "Figuratively"
+        "Quirky",
+        "Niche",
+        "Curious"
       ],
-      "definition": "Halfway between literal and figurative \u2014 a statement that is partly meant literally but not entirely. Used like 'literally' or 'figuratively' when neither is quite right: 'I ligurative lost my mind.'",
+      "definition": "Quirky and niche, but also intriguingly curious \u2014 something that makes you want to know more. A step beyond quiche: not just odd, but fascinatingly odd.",
       "part_of_speech": "Adjective",
-      "theme": "opinion",
+      "theme": "quiche",
       "example": ""
     },
     {
-      "word": "Nonchalenestrate",
+      "word": "Yourow",
       "components": [
-        "Nonchalant",
-        "Defenestrate"
+        "You're",
+        "Slow"
       ],
-      "definition": "To be thrown out of a window while appearing completely unbothered \u2014 defenestrated with full nonchalance. 'Twuh, I just got nonchalenestrated. I think I'm twinjured.'",
-      "part_of_speech": "Verb",
-      "theme": "humor",
-      "example": ""
+      "definition": "A descriptor for someone who moves or processes things at a noticeably slow pace. Used as a direct address or description: 'you're slow.'",
+      "part_of_speech": "Adjective",
+      "theme": "personality",
+      "example": "Sorry, I forgot you were yourow \u2014 I'll slow down."
     }
   ]
 }
