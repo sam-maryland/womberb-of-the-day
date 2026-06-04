@@ -1,30 +1,29 @@
 {
-  "sentence": "Yourow finds the quichous last \u2014 after everyone else has moved on.",
-  "date": "2026-06-03",
-  "theme": "quiche",
+  "sentence": "What brollege forgets, the Clavito's collarbone remembers.",
+  "date": "2026-06-04",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Quichous",
+      "word": "Brollege",
       "components": [
-        "Quirky",
-        "Niche",
-        "Curious"
+        "Bro",
+        "College"
       ],
-      "definition": "Quirky and niche, but also intriguingly curious \u2014 something that makes you want to know more. A step beyond quiche: not just odd, but fascinatingly odd.",
-      "part_of_speech": "Adjective",
-      "theme": "quiche",
-      "example": ""
+      "definition": "College attended primarily for the bro experience \u2014 frat-coded, beer-coded, post-grad employment treated as an afterthought.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
+      "example": "He didn't go to college, he went to brollege."
     },
     {
-      "word": "Yourow",
+      "word": "Clavito",
       "components": [
-        "You're",
-        "Slow"
+        "Clavicular",
+        "Vito"
       ],
-      "definition": "A descriptor for someone who moves or processes things at a noticeably slow pace. Used as a direct address or description: 'you're slow.'",
-      "part_of_speech": "Adjective",
-      "theme": "personality",
-      "example": "Sorry, I forgot you were yourow \u2014 I'll slow down."
+      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
+      "part_of_speech": "Noun",
+      "theme": "status",
+      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
     }
   ]
 }
