@@ -1,29 +1,30 @@
 {
-  "sentence": "What brollege forgets, the Clavito's collarbone remembers.",
-  "date": "2026-06-04",
-  "theme": "friendship",
+  "sentence": "Never loreain your uquish. They either see it or they don't.",
+  "date": "2026-06-05",
+  "theme": "personality",
   "wombos": [
     {
-      "word": "Brollege",
+      "word": "Uquish",
       "components": [
-        "Bro",
-        "College"
+        "Unique",
+        "Quirky",
+        "Niche"
       ],
-      "definition": "College attended primarily for the bro experience \u2014 frat-coded, beer-coded, post-grad employment treated as an afterthought.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "He didn't go to college, he went to brollege."
+      "definition": "The quality of being simultaneously unique, quirky, and niche \u2014 so distinctly one-of-a-kind and offbeat that it occupies its own untouchable corner of culture.",
+      "part_of_speech": "Adjective",
+      "theme": "personality",
+      "example": "Her whole aesthetic is completely uquish \u2014 there's no one else doing what she does."
     },
     {
-      "word": "Clavito",
+      "word": "Loreain",
       "components": [
-        "Clavicular",
-        "Vito"
+        "Lore",
+        "Explain"
       ],
-      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
-      "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
+      "definition": "To over-explain the backstory, mythology, or concept behind something. Used as a verb: 'let me loreain this,' 'stop loreaining me,' 'she loreained the whole thing.'",
+      "part_of_speech": "Verb",
+      "theme": "wisdom",
+      "example": ""
     }
   ]
 }
