@@ -1,30 +1,32 @@
 {
-  "sentence": "Brotection fails if you're still hiding when the sixorseveno'clockalypse finds him.",
-  "date": "2026-06-06",
-  "theme": "friendship",
+  "sentence": "Glarp up all you want. Vagynyamaxxing still shows through the new outfit.",
+  "date": "2026-06-07",
+  "theme": "personality",
   "wombos": [
     {
-      "word": "Brotection",
+      "word": "Vagynyamaxxing",
       "components": [
-        "Bro",
-        "Protection"
+        "Vain",
+        "Edgy",
+        "Corny",
+        "Beta",
+        "Maxxing"
       ],
-      "definition": "Protective measures taken on behalf of, or by, a bro \u2014 the bro-coded form of having someone's back.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "When it comes to my friends, I always use brotection."
+      "definition": "Maximally combining vanity, edge, cornball energy, and beta posturing into a single insufferable presentation. A vagynya maxxer is its practitioner.",
+      "part_of_speech": "Verb",
+      "theme": "personality",
+      "example": "I thought he was quiche but now all I see is vagynyamaxxing."
     },
     {
-      "word": "Sixorseveno'clockalypse",
+      "word": "Glarp up",
       "components": [
-        "67",
-        "O'Clock",
-        "Apocalypse"
+        "Larp",
+        "Glow up"
       ],
-      "definition": "An apocalypse that arrives somewhere between six and seven o'clock \u2014 the early-evening flavor of total collapse. Plays on Sendy's recurring 67 motif.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "Traffic was so bad it felt like the sixorseveno'clockalypse."
+      "definition": "To pretend to have undergone a glow-up \u2014 performing a transformation in appearance or status without the genuine change to support it.",
+      "part_of_speech": "Verb",
+      "theme": "appearance",
+      "example": "He bought one new outfit and started glarping up like he's a whole new person."
     }
   ]
 }
