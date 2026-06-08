@@ -1,32 +1,30 @@
 {
-  "sentence": "Glarp up all you want. Vagynyamaxxing still shows through the new outfit.",
-  "date": "2026-06-07",
-  "theme": "personality",
+  "sentence": "Feed a man claviar long enough; he stops recognizing his own womberang.",
+  "date": "2026-06-08",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Vagynyamaxxing",
+      "word": "Womberang",
       "components": [
-        "Vain",
-        "Edgy",
-        "Corny",
-        "Beta",
-        "Maxxing"
+        "Word",
+        "Combo",
+        "Boomerang"
       ],
-      "definition": "Maximally combining vanity, edge, cornball energy, and beta posturing into a single insufferable presentation. A vagynya maxxer is its practitioner.",
-      "part_of_speech": "Verb",
-      "theme": "personality",
-      "example": "I thought he was quiche but now all I see is vagynyamaxxing."
+      "definition": "A wombo you coined that gets repeated back to you later by someone else in conversation \u2014 it boomerangs. The experience of hearing your own word come back around.",
+      "part_of_speech": "Noun",
+      "theme": "humor",
+      "example": ""
     },
     {
-      "word": "Glarp up",
+      "word": "Claviar",
       "components": [
-        "Larp",
-        "Glow up"
+        "Clavicular",
+        "Caviar"
       ],
-      "definition": "To pretend to have undergone a glow-up \u2014 performing a transformation in appearance or status without the genuine change to support it.",
-      "part_of_speech": "Verb",
-      "theme": "appearance",
-      "example": "He bought one new outfit and started glarping up like he's a whole new person."
+      "definition": "Caviar-grade luxury served at a clavicular table \u2014 the food a brooksmaxxer eats off his own collarbones. Pinkie-out cuisine.",
+      "part_of_speech": "Noun",
+      "theme": "food",
+      "example": "Looksmaxxed hors d'oeuvres, a side of claviar, and not a single carb in sight."
     }
   ]
 }
