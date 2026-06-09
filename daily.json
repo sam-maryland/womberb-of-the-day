@@ -1,30 +1,29 @@
 {
-  "sentence": "Feed a man claviar long enough; he stops recognizing his own womberang.",
-  "date": "2026-06-08",
-  "theme": "humor",
+  "sentence": "Leave the bufforgasbord. You're kirkplexed, not hungry.",
+  "date": "2026-06-09",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Womberang",
+      "word": "Kirkplexed",
       "components": [
-        "Word",
-        "Combo",
-        "Boomerang"
+        "Kirk",
+        "Perplexed"
       ],
-      "definition": "A wombo you coined that gets repeated back to you later by someone else in conversation \u2014 it boomerangs. The experience of hearing your own word come back around.",
-      "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "definition": "Perplexed in the specific way a Kirk-coded debater leaves you \u2014 articulate enough to recognize you've lost, not articulate enough to say why.",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
+      "example": "I left the conversation kirkplexed and an hour late for dinner."
     },
     {
-      "word": "Claviar",
+      "word": "Bufforgasbord",
       "components": [
-        "Clavicular",
-        "Caviar"
+        "Buffet",
+        "Smorgasbord"
       ],
-      "definition": "Caviar-grade luxury served at a clavicular table \u2014 the food a brooksmaxxer eats off his own collarbones. Pinkie-out cuisine.",
+      "definition": "A buffet so abundant it crosses into smorgasbord territory \u2014 used by Sendy to describe a sentence stuffed with chained wombos.",
       "part_of_speech": "Noun",
       "theme": "food",
-      "example": "Looksmaxxed hors d'oeuvres, a side of claviar, and not a single carb in sight."
+      "example": "That paragraph wasn't a sentence, it was a wombo bufforgasbord."
     }
   ]
 }
