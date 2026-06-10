@@ -1,29 +1,29 @@
 {
-  "sentence": "Leave the bufforgasbord. You're kirkplexed, not hungry.",
-  "date": "2026-06-09",
-  "theme": "emotion",
+  "sentence": "Nonchalenestrate gracefully. Claviar waits for no one on the pavement.",
+  "date": "2026-06-10",
+  "theme": "food",
   "wombos": [
     {
-      "word": "Kirkplexed",
+      "word": "Claviar",
       "components": [
-        "Kirk",
-        "Perplexed"
+        "Clavicular",
+        "Caviar"
       ],
-      "definition": "Perplexed in the specific way a Kirk-coded debater leaves you \u2014 articulate enough to recognize you've lost, not articulate enough to say why.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "I left the conversation kirkplexed and an hour late for dinner."
-    },
-    {
-      "word": "Bufforgasbord",
-      "components": [
-        "Buffet",
-        "Smorgasbord"
-      ],
-      "definition": "A buffet so abundant it crosses into smorgasbord territory \u2014 used by Sendy to describe a sentence stuffed with chained wombos.",
+      "definition": "Caviar-grade luxury served at a clavicular table \u2014 the food a brooksmaxxer eats off his own collarbones. Pinkie-out cuisine.",
       "part_of_speech": "Noun",
       "theme": "food",
-      "example": "That paragraph wasn't a sentence, it was a wombo bufforgasbord."
+      "example": "Looksmaxxed hors d'oeuvres, a side of claviar, and not a single carb in sight."
+    },
+    {
+      "word": "Nonchalenestrate",
+      "components": [
+        "Nonchalant",
+        "Defenestrate"
+      ],
+      "definition": "To be thrown out of a window while appearing completely unbothered \u2014 defenestrated with full nonchalance. 'Twuh, I just got nonchalenestrated. I think I'm twinjured.'",
+      "part_of_speech": "Verb",
+      "theme": "humor",
+      "example": ""
     }
   ]
 }
