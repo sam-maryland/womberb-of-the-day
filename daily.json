@@ -1,29 +1,29 @@
 {
-  "sentence": "Nonchalenestrate gracefully. Claviar waits for no one on the pavement.",
-  "date": "2026-06-10",
-  "theme": "food",
+  "sentence": "Never bring your qualiche to a Clavito's table uninvited.",
+  "date": "2026-06-11",
+  "theme": "status",
   "wombos": [
     {
-      "word": "Claviar",
+      "word": "Clavito",
       "components": [
         "Clavicular",
-        "Caviar"
+        "Vito"
       ],
-      "definition": "Caviar-grade luxury served at a clavicular table \u2014 the food a brooksmaxxer eats off his own collarbones. Pinkie-out cuisine.",
+      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
       "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "Looksmaxxed hors d'oeuvres, a side of claviar, and not a single carb in sight."
+      "theme": "status",
+      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
     },
     {
-      "word": "Nonchalenestrate",
+      "word": "Qualiche",
       "components": [
-        "Nonchalant",
-        "Defenestrate"
+        "Quality",
+        "Niche"
       ],
-      "definition": "To be thrown out of a window while appearing completely unbothered \u2014 defenestrated with full nonchalance. 'Twuh, I just got nonchalenestrated. I think I'm twinjured.'",
-      "part_of_speech": "Verb",
-      "theme": "humor",
-      "example": ""
+      "definition": "The caliber or standard of something niche \u2014 high execution within a very specific lane. Used to affirm that something niche is also genuinely well-crafted.",
+      "part_of_speech": "Noun",
+      "theme": "quality",
+      "example": "The podcast only has 200 listeners, but the qualiche is unmatched."
     }
   ]
 }
