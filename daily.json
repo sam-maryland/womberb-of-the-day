@@ -1,29 +1,31 @@
 {
-  "sentence": "Never bring your qualiche to a Clavito's table uninvited.",
-  "date": "2026-06-11",
-  "theme": "status",
+  "sentence": "Some mysterpeanemis only makes sense from the parkench you refused to leave.",
+  "date": "2026-06-12",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Clavito",
+      "word": "Mysterpeanemis",
       "components": [
-        "Clavicular",
-        "Vito"
+        "Mysterious",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
+      "definition": "A fascinating, cinematic experience worth obsessively analyzing \u2014 something amazing that happened but also left you with more questions than answers. A peanemis of something mysterious.",
       "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
+      "theme": "cinema",
+      "example": ""
     },
     {
-      "word": "Qualiche",
+      "word": "Parkench",
       "components": [
-        "Quality",
-        "Niche"
+        "Park",
+        "Bench"
       ],
-      "definition": "The caliber or standard of something niche \u2014 high execution within a very specific lane. Used to affirm that something niche is also genuinely well-crafted.",
+      "definition": "A park bench \u2014 the quintessential wombo setting for outdoor emotional events, breakups, ponchalashouts, and quiche loreaining sessions. Used as a noun for both the object and the vibe.",
       "part_of_speech": "Noun",
-      "theme": "quality",
-      "example": "The podcast only has 200 listeners, but the qualiche is unmatched."
+      "theme": "emotion",
+      "example": ""
     }
   ]
 }
