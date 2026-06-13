@@ -1,31 +1,32 @@
 {
-  "sentence": "Some mysterpeanemis only makes sense from the parkench you refused to leave.",
-  "date": "2026-06-12",
-  "theme": "cinema",
+  "sentence": "Chiquin Paurm horas and the room already knew before you walked in.",
+  "date": "2026-06-13",
+  "theme": "excellence",
   "wombos": [
     {
-      "word": "Mysterpeanemis",
+      "word": "Chiquin Paurm",
       "components": [
-        "Mysterious",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Chill",
+        "Quintessential",
+        "Prime",
+        "Aura",
+        "Farm"
       ],
-      "definition": "A fascinating, cinematic experience worth obsessively analyzing \u2014 something amazing that happened but also left you with more questions than answers. A peanemis of something mysterious.",
-      "part_of_speech": "Noun",
-      "theme": "cinema",
+      "definition": "To effortlessly show off while making everything look completely natural and easy \u2014 to farm aura (accumulate social clout and presence) with quintessential chill. 'Aura farming' means gaining social prestige through cool behavior.",
+      "part_of_speech": "Verb",
+      "theme": "excellence",
       "example": ""
     },
     {
-      "word": "Parkench",
+      "word": "Horas",
       "components": [
-        "Park",
-        "Bench"
+        "Horribly",
+        "Gas"
       ],
-      "definition": "A park bench \u2014 the quintessential wombo setting for outdoor emotional events, breakups, ponchalashouts, and quiche loreaining sessions. Used as a noun for both the object and the vibe.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": ""
+      "definition": "So incredibly impressive that it borders on an unreasonable, almost horrifying level of greatness \u2014 the extreme ceiling of being gas.",
+      "part_of_speech": "Adjective",
+      "theme": "compliment",
+      "example": "She's not just moras \u2014 she's straight-up horas at this game."
     }
   ]
 }
