@@ -1,32 +1,29 @@
 {
-  "sentence": "Chiquin Paurm horas and the room already knew before you walked in.",
-  "date": "2026-06-13",
-  "theme": "excellence",
+  "sentence": "Even the Mogfather gets thrustrated waiting at his own door.",
+  "date": "2026-06-14",
+  "theme": "status",
   "wombos": [
     {
-      "word": "Chiquin Paurm",
+      "word": "Mogfather",
       "components": [
-        "Chill",
-        "Quintessential",
-        "Prime",
-        "Aura",
-        "Farm"
+        "Mogging",
+        "Godfather"
       ],
-      "definition": "To effortlessly show off while making everything look completely natural and easy \u2014 to farm aura (accumulate social clout and presence) with quintessential chill. 'Aura farming' means gaining social prestige through cool behavior.",
-      "part_of_speech": "Verb",
-      "theme": "excellence",
-      "example": ""
+      "definition": "The undisputed master of mogging \u2014 someone who dominates in appearance or presence so thoroughly that they command respect the way a Godfather commands loyalty.",
+      "part_of_speech": "Noun",
+      "theme": "status",
+      "example": "Nobody steps into the room and owns it like he does \u2014 he's the Mogfather."
     },
     {
-      "word": "Horas",
+      "word": "Thrustrated",
       "components": [
-        "Horribly",
-        "Gas"
+        "Thoroughly",
+        "Frustrated"
       ],
-      "definition": "So incredibly impressive that it borders on an unreasonable, almost horrifying level of greatness \u2014 the extreme ceiling of being gas.",
+      "definition": "Thoroughly and completely frustrated \u2014 a level of frustration so deep and total that it borders on a full sonchalashout.",
       "part_of_speech": "Adjective",
-      "theme": "compliment",
-      "example": "She's not just moras \u2014 she's straight-up horas at this game."
+      "theme": "emotion",
+      "example": "After the third delay, I was absolutely thrustrated and needed a meat mountain immediately."
     }
   ]
 }
