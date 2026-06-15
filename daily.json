@@ -1,29 +1,29 @@
 {
-  "sentence": "Even the Mogfather gets thrustrated waiting at his own door.",
-  "date": "2026-06-14",
-  "theme": "status",
+  "sentence": "Your analvision of a nichiteral film will outlast the film itself.",
+  "date": "2026-06-15",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Mogfather",
+      "word": "Analvision",
       "components": [
-        "Mogging",
-        "Godfather"
+        "Analysis",
+        "Revisions"
       ],
-      "definition": "The undisputed master of mogging \u2014 someone who dominates in appearance or presence so thoroughly that they command respect the way a Godfather commands loyalty.",
+      "definition": "A subjective, first-person analysis or retelling of an event \u2014 emphasizing one particular viewpoint or interpretation. Less obsessive than a peanemis; more about personal perspective.",
       "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "Nobody steps into the room and owns it like he does \u2014 he's the Mogfather."
+      "theme": "cinema",
+      "example": ""
     },
     {
-      "word": "Thrustrated",
+      "word": "Nichiteral",
       "components": [
-        "Thoroughly",
-        "Frustrated"
+        "Niche",
+        "Literal"
       ],
-      "definition": "Thoroughly and completely frustrated \u2014 a level of frustration so deep and total that it borders on a full sonchalashout.",
+      "definition": "Used to emphasize that something is not just niche \u2014 it is specifically, precisely, literally niche. Intensifies niche beyond casual use. 'That reference was nichiteral.'",
       "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "After the third delay, I was absolutely thrustrated and needed a meat mountain immediately."
+      "theme": "quiche",
+      "example": ""
     }
   ]
 }
