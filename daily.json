@@ -1,29 +1,30 @@
 {
-  "sentence": "Shiggles shared with a TwinPC land on no one real.",
-  "date": "2026-06-16",
-  "theme": "humor",
+  "sentence": "Low kirkisol has no patience for your nonchalontexts.",
+  "date": "2026-06-17",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Shiggles",
+      "word": "Nonchalontexts",
       "components": [
-        "Shits",
-        "Giggles"
+        "Nonchalant",
+        "Contexts"
       ],
-      "definition": "Uncontrollable, absurd laughter triggered by something hilarious. Used in place of 'shits and giggles': 'I did it for the shiggles.'",
+      "definition": "Situations in which a nonchalant disposition is appropriate or expected \u2014 the specific contexts that call for a measured, unbothered posture.",
       "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "theme": "emotion",
+      "example": "Funerals, first dates, and HR meetings are classic nonchalontexts."
     },
     {
-      "word": "TwinPC",
+      "word": "Low Kirkisol",
       "components": [
-        "Twin",
-        "NPC"
+        "Low",
+        "Cortisol",
+        "Kirk"
       ],
-      "definition": "An NPC who mirrors or copies someone else so closely they seem like a twin \u2014 a person with no original personality who just echoes those around them.",
-      "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "He just agrees with everything you say \u2014 total TwinPC behavior."
+      "definition": "The state of having extremely low cortisol \u2014 stress-free to a Kirk-coded degree. The vibe of a man whose nervous system has fully unclenched.",
+      "part_of_speech": "Phrase",
+      "theme": "lifestyle",
+      "example": "I'm living the low kirkisol life \u2014 pool days, peanema coladas, no notes."
     }
   ]
 }
