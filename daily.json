@@ -1,30 +1,29 @@
 {
-  "sentence": "Low kirkisol has no patience for your nonchalontexts.",
-  "date": "2026-06-17",
+  "sentence": "Perchappenstance brought them to your door. Arrive rizzappointed, and it locks.",
+  "date": "2026-06-18",
   "theme": "emotion",
   "wombos": [
     {
-      "word": "Nonchalontexts",
+      "word": "Rizzappointed",
       "components": [
-        "Nonchalant",
-        "Contexts"
+        "Rizz",
+        "Disappointed"
       ],
-      "definition": "Situations in which a nonchalant disposition is appropriate or expected \u2014 the specific contexts that call for a measured, unbothered posture.",
-      "part_of_speech": "Noun",
+      "definition": "Let down by someone's rizz \u2014 disappointment that lands specifically because the charm-game was weaker than advertised.",
+      "part_of_speech": "Adjective",
       "theme": "emotion",
-      "example": "Funerals, first dates, and HR meetings are classic nonchalontexts."
+      "example": "You d'aven't held your own \u2014 I'm really rizzappointed."
     },
     {
-      "word": "Low Kirkisol",
+      "word": "Perchappenstance",
       "components": [
-        "Low",
-        "Cortisol",
-        "Kirk"
+        "Perchance",
+        "Happenstance"
       ],
-      "definition": "The state of having extremely low cortisol \u2014 stress-free to a Kirk-coded degree. The vibe of a man whose nervous system has fully unclenched.",
-      "part_of_speech": "Phrase",
-      "theme": "lifestyle",
-      "example": "I'm living the low kirkisol life \u2014 pool days, peanema coladas, no notes."
+      "definition": "A strange, unexpected coincidence \u2014 something that happened by chance in a curious or serendipitous way. Used as a noun: 'what a perchappenstance.'",
+      "part_of_speech": "Noun",
+      "theme": "humor",
+      "example": ""
     }
   ]
 }
