@@ -1,29 +1,33 @@
 {
-  "sentence": "Perchappenstance brought them to your door. Arrive rizzappointed, and it locks.",
-  "date": "2026-06-18",
-  "theme": "emotion",
+  "sentence": "Teach your bron the peanema colada before the credits roll.",
+  "date": "2026-06-19",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Rizzappointed",
+      "word": "Peanema Colada",
       "components": [
-        "Rizz",
-        "Disappointed"
+        "Peak",
+        "Cinema",
+        "Cool",
+        "Laugh",
+        "Kinda",
+        "Colada"
       ],
-      "definition": "Let down by someone's rizz \u2014 disappointment that lands specifically because the charm-game was weaker than advertised.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "You d'aven't held your own \u2014 I'm really rizzappointed."
+      "definition": "A chill, tropical-coded peak cinema vibe \u2014 the relaxed, drinkable counterpart to a hard-hitting peanemis. The energy of analyzing a movie poolside.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": "Pool days, low kirkisol, and a peanema colada in hand."
     },
     {
-      "word": "Perchappenstance",
+      "word": "Bron",
       "components": [
-        "Perchance",
-        "Happenstance"
+        "Bro",
+        "Son"
       ],
-      "definition": "A strange, unexpected coincidence \u2014 something that happened by chance in a curious or serendipitous way. Used as a noun: 'what a perchappenstance.'",
+      "definition": "A person who occupies the space between a bro and a son \u2014 someone younger who you treat like a bro, or a bro who carries son-coded energy.",
       "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "theme": "relationship",
+      "example": "He's not quite my bro and not quite my son \u2014 he's my bron."
     }
   ]
 }
