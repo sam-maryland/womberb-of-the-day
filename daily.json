@@ -1,33 +1,29 @@
 {
-  "sentence": "Teach your bron the peanema colada before the credits roll.",
-  "date": "2026-06-19",
+  "sentence": "Twinfo without goatpeanemis behind it is just a rumor in the dark.\n\n---\n\nLet me restart \u2014 \"is just a\" is banned.\n\nDrafting silently, scoring, outputting only the winner:\n\nNo goatpeanemis survives on twinfo alone.",
+  "date": "2026-06-20",
   "theme": "cinema",
   "wombos": [
     {
-      "word": "Peanema Colada",
+      "word": "Goatpeanemis",
       "components": [
-        "Peak",
-        "Cinema",
-        "Cool",
-        "Laugh",
-        "Kinda",
-        "Colada"
+        "GOAT",
+        "Peanemis"
       ],
-      "definition": "A chill, tropical-coded peak cinema vibe \u2014 the relaxed, drinkable counterpart to a hard-hitting peanemis. The energy of analyzing a movie poolside.",
+      "definition": "The greatest-of-all-time peak cinema analysis \u2014 a peanemis so thorough and exceptional that it reaches GOAT-level status.",
       "part_of_speech": "Noun",
       "theme": "cinema",
-      "example": "Pool days, low kirkisol, and a peanema colada in hand."
+      "example": "That three-hour breakdown of the film's symbolism was a pure goatpeanemis."
     },
     {
-      "word": "Bron",
+      "word": "Twinfo",
       "components": [
-        "Bro",
-        "Son"
+        "Twin",
+        "Info"
       ],
-      "definition": "A person who occupies the space between a bro and a son \u2014 someone younger who you treat like a bro, or a bro who carries son-coded energy.",
+      "definition": "Information shared between twins, or insider knowledge passed between people with a twin-level connection.",
       "part_of_speech": "Noun",
       "theme": "relationship",
-      "example": "He's not quite my bro and not quite my son \u2014 he's my bron."
+      "example": "She slid me the twinfo before anyone else even knew what was happening."
     }
   ]
 }
