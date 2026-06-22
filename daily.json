@@ -1,28 +1,29 @@
 {
-  "sentence": "Never let your brud nonchalashout all over the clarpet.",
-  "date": "2026-06-21",
-  "theme": "friendship",
+  "sentence": "Let the loreraining land before deciding the lesson is quich\u00e9.",
+  "date": "2026-06-22",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Brud",
+      "word": "Loreraining",
       "components": [
-        "Bro",
-        "Chud"
+        "Lore",
+        "Raining"
       ],
-      "definition": "A bro who is also a chud \u2014 a friend with deeply embarrassing online opinions. Used affectionately, or as a warning before introductions.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "Love him, but he's brud-coded \u2014 don't read his replies."
+      "definition": "Lore pouring down on you whether you asked for it or not \u2014 the meteorological form of being loreained.",
+      "part_of_speech": "Verb",
+      "theme": "wisdom",
+      "example": "Stepped into the group chat and it started loreraining immediately."
     },
     {
-      "word": "Clarpet",
+      "word": "Quich\u00e9",
       "components": [
-        "Class",
-        "Carpet"
+        "Quirky",
+        "Niche",
+        "Clich\u00e9"
       ],
-      "definition": "The carpet in a classroom \u2014 the scholastic equivalent of a brarpet. Used when someone has a nonchalashout in an academic setting. 'The whole class is gonna nonchalashout all over the clarpet.'",
-      "part_of_speech": "Noun",
-      "theme": "humor",
+      "definition": "So quirky and niche that it's become overdone \u2014 quiche behavior that has crossed into clich\u00e9 territory. When your niche becomes the new normal, you've gone quich\u00e9.",
+      "part_of_speech": "Adjective",
+      "theme": "quiche",
       "example": ""
     }
   ]
