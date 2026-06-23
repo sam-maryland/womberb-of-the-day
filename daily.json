@@ -1,30 +1,32 @@
 {
-  "sentence": "Let the loreraining land before deciding the lesson is quich\u00e9.",
-  "date": "2026-06-22",
-  "theme": "wisdom",
+  "sentence": "Never unleash your queanemis on a brig who wasn't asking.",
+  "date": "2026-06-23",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Loreraining",
-      "components": [
-        "Lore",
-        "Raining"
-      ],
-      "definition": "Lore pouring down on you whether you asked for it or not \u2014 the meteorological form of being loreained.",
-      "part_of_speech": "Verb",
-      "theme": "wisdom",
-      "example": "Stepped into the group chat and it started loreraining immediately."
-    },
-    {
-      "word": "Quich\u00e9",
+      "word": "Queanemis",
       "components": [
         "Quirky",
         "Niche",
-        "Clich\u00e9"
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "So quirky and niche that it's become overdone \u2014 quiche behavior that has crossed into clich\u00e9 territory. When your niche becomes the new normal, you've gone quich\u00e9.",
-      "part_of_speech": "Adjective",
-      "theme": "quiche",
+      "definition": "A peanemis that is specifically quiche in nature \u2014 an obsessive deep-dive analysis of something intensely niche and eccentric. A peanemis for the truly quiche subject.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
       "example": ""
+    },
+    {
+      "word": "Brig",
+      "components": [
+        "Bro",
+        "Dog"
+      ],
+      "definition": "A dog that belongs to a bro \u2014 typically large, ungroomed, and treated more like a roommate than a pet.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
+      "example": "The brig drinks beer out of the bowl when nobody's looking."
     }
   ]
 }
