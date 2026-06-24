@@ -1,32 +1,30 @@
 {
-  "sentence": "Never unleash your queanemis on a brig who wasn't asking.",
-  "date": "2026-06-23",
-  "theme": "cinema",
+  "sentence": "Brophecy cannot reach you mid-reelsomniamaxxing.",
+  "date": "2026-06-24",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Queanemis",
+      "word": "Brophecy",
       "components": [
-        "Quirky",
-        "Niche",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Bro",
+        "Prophecy"
       ],
-      "definition": "A peanemis that is specifically quiche in nature \u2014 an obsessive deep-dive analysis of something intensely niche and eccentric. A peanemis for the truly quiche subject.",
+      "definition": "A prophecy delivered bro-to-bro \u2014 a prediction made by a twuh or brousin that carries the full weight of bro-coded wisdom. 'Did you hear the brophecy, bruh?'",
       "part_of_speech": "Noun",
-      "theme": "cinema",
+      "theme": "wisdom",
       "example": ""
     },
     {
-      "word": "Brig",
+      "word": "Reelsomniamaxxing",
       "components": [
-        "Bro",
-        "Dog"
+        "Reel",
+        "Insomnia",
+        "Maxxing"
       ],
-      "definition": "A dog that belongs to a bro \u2014 typically large, ungroomed, and treated more like a roommate than a pet.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "The brig drinks beer out of the bowl when nobody's looking."
+      "definition": "The state of being unable to sleep and maximally doom-scrolling through short-form video reels in bed \u2014 sleeplessness fueled entirely by endless online content.",
+      "part_of_speech": "Verb",
+      "theme": "internet",
+      "example": "I was reelsomniamaxxing until 4 a.m. and watched things I can never unsee."
     }
   ]
 }
