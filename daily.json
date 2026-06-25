@@ -1,30 +1,29 @@
 {
-  "sentence": "Brophecy cannot reach you mid-reelsomniamaxxing.",
-  "date": "2026-06-24",
-  "theme": "wisdom",
+  "sentence": "Never stage your sonchalashout on someone else's restaurarpet.",
+  "date": "2026-06-25",
+  "theme": "food",
   "wombos": [
     {
-      "word": "Brophecy",
+      "word": "Restaurarpet",
       "components": [
-        "Bro",
-        "Prophecy"
+        "Restaurant",
+        "Carpet"
       ],
-      "definition": "A prophecy delivered bro-to-bro \u2014 a prediction made by a twuh or brousin that carries the full weight of bro-coded wisdom. 'Did you hear the brophecy, bruh?'",
+      "definition": "The carpet inside a restaurant \u2014 specifically invoked in the context of a messy or chaotic scene unfolding on it.",
       "part_of_speech": "Noun",
-      "theme": "wisdom",
-      "example": ""
+      "theme": "food",
+      "example": "Don't spill that on the restaurarpet \u2014 they just cleaned it."
     },
     {
-      "word": "Reelsomniamaxxing",
+      "word": "Sonchalashout",
       "components": [
-        "Reel",
-        "Insomnia",
-        "Maxxing"
+        "Son",
+        "Nonchalashout"
       ],
-      "definition": "The state of being unable to sleep and maximally doom-scrolling through short-form video reels in bed \u2014 sleeplessness fueled entirely by endless online content.",
-      "part_of_speech": "Verb",
-      "theme": "internet",
-      "example": "I was reelsomniamaxxing until 4 a.m. and watched things I can never unsee."
+      "definition": "A nonchalashout directed at or delivered in the context of a son \u2014 a dramatic, emotionally-charged outburst filtered through a son-coded dynamic.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": "He had a full sonchalashout in the middle of practice and stormed off the court."
     }
   ]
 }
