@@ -1,29 +1,30 @@
 {
-  "sentence": "Never stage your sonchalashout on someone else's restaurarpet.",
-  "date": "2026-06-25",
-  "theme": "food",
+  "sentence": "Never ask for the ETL on a falasha.",
+  "date": "2026-06-26",
+  "theme": "opinion",
   "wombos": [
     {
-      "word": "Restaurarpet",
+      "word": "Falasha",
       "components": [
-        "Restaurant",
-        "Carpet"
+        "False",
+        "Brainwashed",
+        "Saga"
       ],
-      "definition": "The carpet inside a restaurant \u2014 specifically invoked in the context of a messy or chaotic scene unfolding on it.",
+      "definition": "A false, misinformed narrative delivered with full confidence \u2014 someone telling you something that is clearly incorrect and based on bad information. A brainwashed saga presented as fact.",
       "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "Don't spill that on the restaurarpet \u2014 they just cleaned it."
+      "theme": "opinion",
+      "example": ""
     },
     {
-      "word": "Sonchalashout",
+      "word": "ETL",
       "components": [
-        "Son",
-        "Nonchalashout"
+        "Estimated Time",
+        "Loreain"
       ],
-      "definition": "A nonchalashout directed at or delivered in the context of a son \u2014 a dramatic, emotionally-charged outburst filtered through a son-coded dynamic.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "He had a full sonchalashout in the middle of practice and stormed off the court."
+      "definition": "Estimated time of loreain \u2014 the projected time it will take to fully explain the lore of a topic.",
+      "part_of_speech": "Phrase",
+      "theme": "communication",
+      "example": "Before you start, what's the ETL on this whole situation?"
     }
   ]
 }
