@@ -1,30 +1,29 @@
 {
-  "sentence": "Never ask for the ETL on a falasha.",
-  "date": "2026-06-26",
-  "theme": "opinion",
+  "sentence": "Never arrive boomered to a bufforgasbord you cannot finish.",
+  "date": "2026-06-27",
+  "theme": "social",
   "wombos": [
     {
-      "word": "Falasha",
+      "word": "Boomered",
       "components": [
-        "False",
-        "Brainwashed",
-        "Saga"
+        "Boozy",
+        "Hammered"
       ],
-      "definition": "A false, misinformed narrative delivered with full confidence \u2014 someone telling you something that is clearly incorrect and based on bad information. A brainwashed saga presented as fact.",
-      "part_of_speech": "Noun",
-      "theme": "opinion",
-      "example": ""
+      "definition": "The state of being both boozy and hammered \u2014 thoroughly intoxicated, beyond merely tipsy. A stronger, more emphatic form of being twinebriated.",
+      "part_of_speech": "Adjective",
+      "theme": "social",
+      "example": "He was completely boomered by halftime and could barely stand up."
     },
     {
-      "word": "ETL",
+      "word": "Bufforgasbord",
       "components": [
-        "Estimated Time",
-        "Loreain"
+        "Buffet",
+        "Smorgasbord"
       ],
-      "definition": "Estimated time of loreain \u2014 the projected time it will take to fully explain the lore of a topic.",
-      "part_of_speech": "Phrase",
-      "theme": "communication",
-      "example": "Before you start, what's the ETL on this whole situation?"
+      "definition": "A buffet so abundant it crosses into smorgasbord territory \u2014 used by Sendy to describe a sentence stuffed with chained wombos.",
+      "part_of_speech": "Noun",
+      "theme": "food",
+      "example": "That paragraph wasn't a sentence, it was a wombo bufforgasbord."
     }
   ]
 }
