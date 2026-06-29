@@ -1,28 +1,30 @@
 {
-  "sentence": "Never answer sarcapstically mid-responchalashout. The inbox still sees your face.",
-  "date": "2026-06-28",
-  "theme": "emotion",
+  "sentence": "Tell your brousin what the pell booper never stayed long enough to learn.",
+  "date": "2026-06-29",
+  "theme": "romance",
   "wombos": [
     {
-      "word": "Responchalashout",
+      "word": "Pell Booper",
       "components": [
-        "Responsible",
-        "Nonchalashout"
+        "Peak",
+        "Chill",
+        "Boo",
+        "Hopper"
       ],
-      "definition": "The mature, adult version of a nonchalashout \u2014 crashing out internally while continuing to pay bills and answer emails on time.",
+      "definition": "Someone who dates around a lot \u2014 a pell bepper who hops between boos rather than besties. The romantic, date-hopping counterpart to the universally-liked pell bepper.",
       "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "She filed her taxes mid-responchalashout."
+      "theme": "romance",
+      "example": ""
     },
     {
-      "word": "Sarcapstically",
+      "word": "Brousin",
       "components": [
-        "Cap",
-        "Sarcastically"
+        "Bro",
+        "Cousin"
       ],
-      "definition": "Sarcastically, with an added layer of cap \u2014 saying something so sarcastic it signals the opposite is true. The verbal equivalent of air quotes plus a knowing side-eye.",
-      "part_of_speech": "Adverb",
-      "theme": "humor",
+      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
       "example": ""
     }
   ]
