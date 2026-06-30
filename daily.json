@@ -1,31 +1,30 @@
 {
-  "sentence": "Tell your brousin what the pell booper never stayed long enough to learn.",
-  "date": "2026-06-29",
-  "theme": "romance",
+  "sentence": "Eat loafmaxxed. Order Barby's. Let them wonder who you are.",
+  "date": "2026-06-30",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Pell Booper",
+      "word": "Loafmaxxed",
       "components": [
-        "Peak",
-        "Chill",
-        "Boo",
-        "Hopper"
+        "Lowkey AF",
+        "Maxxed"
       ],
-      "definition": "Someone who dates around a lot \u2014 a pell bepper who hops between boos rather than besties. The romantic, date-hopping counterpart to the universally-liked pell bepper.",
-      "part_of_speech": "Noun",
-      "theme": "romance",
-      "example": ""
+      "definition": "Maximally lowkey AF \u2014 pushing understatement to its highest possible setting. The meafloaf brought to full power.",
+      "part_of_speech": "Adjective",
+      "theme": "identity",
+      "example": "His whole fit was loafmaxxed \u2014 gray sweats, no logo, total assassin energy."
     },
     {
-      "word": "Brousin",
+      "word": "Barby's",
       "components": [
-        "Bro",
-        "Cousin"
+        "Big Arch",
+        "Genuinely",
+        "Arby's"
       ],
-      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
+      "definition": "Arby's in its big-arch, genuine form \u2014 Sendy's recurring reverent label for the platonic ideal of a roast beef sandwich.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": ""
+      "theme": "food",
+      "example": "Let's go nerpesmaxxing this tweekend and end the night at Barby's."
     }
   ]
 }
