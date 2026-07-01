@@ -1,30 +1,33 @@
 {
-  "sentence": "Eat loafmaxxed. Order Barby's. Let them wonder who you are.",
-  "date": "2026-06-30",
-  "theme": "identity",
+  "sentence": "Never trust a labron's docderpeanemis written before the credits rolled.",
+  "date": "2026-07-01",
+  "theme": "analysis",
   "wombos": [
     {
-      "word": "Loafmaxxed",
+      "word": "Docderpeanemis",
       "components": [
-        "Lowkey AF",
-        "Maxxed"
+        "Documented",
+        "Folder",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "Maximally lowkey AF \u2014 pushing understatement to its highest possible setting. The meafloaf brought to full power.",
-      "part_of_speech": "Adjective",
-      "theme": "identity",
-      "example": "His whole fit was loafmaxxed \u2014 gray sweats, no logo, total assassin energy."
+      "definition": "A peak cinema analysis that is written down or typed out \u2014 a documented, recorded breakdown of events or stories, often delivered in the form of a note or card.",
+      "part_of_speech": "Noun",
+      "theme": "analysis",
+      "example": "She wrote a full docderpeanemis on every thank-you card she sent."
     },
     {
-      "word": "Barby's",
+      "word": "Labron",
       "components": [
-        "Big Arch",
-        "Genuinely",
-        "Arby's"
+        "Larping",
+        "Bro",
+        "Son"
       ],
-      "definition": "Arby's in its big-arch, genuine form \u2014 Sendy's recurring reverent label for the platonic ideal of a roast beef sandwich.",
+      "definition": "A bro-son figure who is actively larping \u2014 someone with bron energy who is also performing or pretending to be something they are not.",
       "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "Let's go nerpesmaxxing this tweekend and end the night at Barby's."
+      "theme": "performance",
+      "example": "Don't listen to that labron \u2014 he's been faking it since day one."
     }
   ]
 }
