@@ -1,33 +1,32 @@
 {
-  "sentence": "Never trust a labron's docderpeanemis written before the credits rolled.",
-  "date": "2026-07-01",
-  "theme": "analysis",
+  "sentence": "Vagynversations will outlast any pareson foolish enough to sit through them.",
+  "date": "2026-07-02",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Docderpeanemis",
+      "word": "Pareson",
       "components": [
-        "Documented",
-        "Folder",
-        "Peak",
-        "Cinema",
-        "Analysis"
-      ],
-      "definition": "A peak cinema analysis that is written down or typed out \u2014 a documented, recorded breakdown of events or stories, often delivered in the form of a note or card.",
-      "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "She wrote a full docderpeanemis on every thank-you card she sent."
-    },
-    {
-      "word": "Labron",
-      "components": [
-        "Larping",
-        "Bro",
+        "Parent",
         "Son"
       ],
-      "definition": "A bro-son figure who is actively larping \u2014 someone with bron energy who is also performing or pretending to be something they are not.",
+      "definition": "A parent figure who also carries son energy \u2014 someone who is both a guiding presence and a peer.",
       "part_of_speech": "Noun",
-      "theme": "performance",
-      "example": "Don't listen to that labron \u2014 he's been faking it since day one."
+      "theme": "relationships",
+      "example": "He's not just a dad, he's a real pareson \u2014 always in your corner."
+    },
+    {
+      "word": "Vagynversations",
+      "components": [
+        "Vain",
+        "Edgy",
+        "Corny",
+        "Beta",
+        "Conversations"
+      ],
+      "definition": "Conversations dominated by vagynya energy \u2014 talk that revolves entirely around looksmaxxing, gym culture, or other vagynya obsessions. Best avoided unless you're also a vagynya.",
+      "part_of_speech": "Noun",
+      "theme": "humor",
+      "example": ""
     }
   ]
 }
