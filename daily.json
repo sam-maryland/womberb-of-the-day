@@ -1,32 +1,32 @@
 {
-  "sentence": "Vagynversations will outlast any pareson foolish enough to sit through them.",
-  "date": "2026-07-02",
-  "theme": "relationships",
+  "sentence": "Your bron can smell vagynyamaxxing before you finish the handshake.",
+  "date": "2026-07-03",
+  "theme": "relationship",
   "wombos": [
     {
-      "word": "Pareson",
+      "word": "Bron",
       "components": [
-        "Parent",
+        "Bro",
         "Son"
       ],
-      "definition": "A parent figure who also carries son energy \u2014 someone who is both a guiding presence and a peer.",
+      "definition": "A person who occupies the space between a bro and a son \u2014 someone younger who you treat like a bro, or a bro who carries son-coded energy.",
       "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "He's not just a dad, he's a real pareson \u2014 always in your corner."
+      "theme": "relationship",
+      "example": "He's not quite my bro and not quite my son \u2014 he's my bron."
     },
     {
-      "word": "Vagynversations",
+      "word": "Vagynyamaxxing",
       "components": [
         "Vain",
         "Edgy",
         "Corny",
         "Beta",
-        "Conversations"
+        "Maxxing"
       ],
-      "definition": "Conversations dominated by vagynya energy \u2014 talk that revolves entirely around looksmaxxing, gym culture, or other vagynya obsessions. Best avoided unless you're also a vagynya.",
-      "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "definition": "Maximally combining vanity, edge, cornball energy, and beta posturing into a single insufferable presentation. A vagynya maxxer is its practitioner.",
+      "part_of_speech": "Verb",
+      "theme": "personality",
+      "example": "I thought he was quiche but now all I see is vagynyamaxxing."
     }
   ]
 }
