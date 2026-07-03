@@ -325,17 +325,22 @@
       return `Womberb of the Day\n\n"${currentSentence}"\n\nwomberb.com`;
     }
 
+    function recordShare() {
+      fetch('https://womberb.com/api/share', { method: 'POST', keepalive: true }).catch(() => {});
+    }
+
     function share() {
       const text = buildShareText();
       const btn = document.getElementById("share-btn");
       const label = document.getElementById("share-label");
 
       if (navigator.share) {
-        navigator.share({ text }).catch(() => {});
+        navigator.share({ text }).then(recordShare).catch(() => {});
         return;
       }
 
       navigator.clipboard.writeText(text).then(() => {
+        recordShare();
         label.textContent = "Copied!";
         btn.classList.add("confirmed");
         setTimeout(() => {

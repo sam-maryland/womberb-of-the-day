@@ -1,0 +1,11 @@
+name = "womberb-share-counter"
+main = "share-counter.js"
+compatibility_date = "2026-07-01"
+
+routes = [
+  { pattern = "womberb.com/api/share", zone_name = "womberb.com" }
+]
+
+kv_namespaces = [
+  { binding = "SHARE_COUNTS", id = "c67f5d3d71d04010b8714972c4bbd4a2" }
+]
