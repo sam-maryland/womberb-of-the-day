@@ -1,29 +1,29 @@
 {
-  "sentence": "Kirkfuse the crowd before your testicule finds the podium.",
-  "date": "2026-07-04",
-  "theme": "opinion",
+  "sentence": "Only the balledgeable can name the enima before the lights come up.",
+  "date": "2026-07-05",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Testicule",
+      "word": "Enima",
       "components": [
-        "Testament",
-        "Ridicule"
+        "Enigma",
+        "Cinema"
       ],
-      "definition": "Something so objectively bad that it stands as a testament to failure and deserves to be ridiculed. A clear-cut example of awfulness. Used as a noun: 'that take is a testicule.'",
+      "definition": "A situation or thing that is both deeply confusing and weirdly cinematic \u2014 a spectacle you can't look away from even though you have no idea what's happening.",
       "part_of_speech": "Noun",
-      "theme": "opinion",
+      "theme": "cinema",
       "example": ""
     },
     {
-      "word": "Kirkfuse",
+      "word": "Balledgeable",
       "components": [
-        "Kirk",
-        "Confuse"
+        "Ball",
+        "Knowledgeable"
       ],
-      "definition": "To confuse someone in a distinctly Kirk-coded way \u2014 calmly, articulately, and with podium-level confidence. They walk away unsure what just happened.",
-      "part_of_speech": "Verb",
-      "theme": "debate",
-      "example": "He didn't argue with her, he just kirkfused her until she changed the subject."
+      "definition": "Possessing a deep, specialized knowledge about something; highly informed in a particular area of passion or expertise.",
+      "part_of_speech": "Adjective",
+      "theme": "knowledge",
+      "example": "He's so balledgeable he could teach a masterclass on the subject."
     }
   ]
 }
