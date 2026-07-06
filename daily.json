@@ -1,29 +1,29 @@
 {
-  "sentence": "Only the balledgeable can name the enima before the lights come up.",
-  "date": "2026-07-05",
-  "theme": "cinema",
+  "sentence": "FONO will follow your sonificant other into every quiet room you share.",
+  "date": "2026-07-06",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Enima",
+      "word": "Sonificant other",
       "components": [
-        "Enigma",
-        "Cinema"
+        "Son",
+        "Significant other"
       ],
-      "definition": "A situation or thing that is both deeply confusing and weirdly cinematic \u2014 a spectacle you can't look away from even though you have no idea what's happening.",
+      "definition": "A significant other who carries son energy \u2014 a romantic partner you regard with that grounded, familiar affection.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": ""
+      "theme": "relationships",
+      "example": "She's not just my girlfriend, she's my sonificant other."
     },
     {
-      "word": "Balledgeable",
+      "word": "FONO",
       "components": [
-        "Ball",
-        "Knowledgeable"
+        "Fear",
+        "Nonchalashout"
       ],
-      "definition": "Possessing a deep, specialized knowledge about something; highly informed in a particular area of passion or expertise.",
-      "part_of_speech": "Adjective",
-      "theme": "knowledge",
-      "example": "He's so balledgeable he could teach a masterclass on the subject."
+      "definition": "Fear of nonchalashout \u2014 the anxiety that someone around you is on the verge of a calm but unpredictable meltdown.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": "I had serious FONO watching him sit there silently at dinner."
     }
   ]
 }
