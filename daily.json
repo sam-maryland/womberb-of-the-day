@@ -1,29 +1,32 @@
 {
-  "sentence": "FONO will follow your sonificant other into every quiet room you share.",
-  "date": "2026-07-06",
-  "theme": "relationships",
+  "sentence": "Never mangoe a brousin who carried you home last winter.",
+  "date": "2026-07-07",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Sonificant other",
+      "word": "Brousin",
       "components": [
-        "Son",
-        "Significant other"
+        "Bro",
+        "Cousin"
       ],
-      "definition": "A significant other who carries son energy \u2014 a romantic partner you regard with that grounded, familiar affection.",
+      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
       "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "She's not just my girlfriend, she's my sonificant other."
+      "theme": "friendship",
+      "example": ""
     },
     {
-      "word": "FONO",
+      "word": "Mangoe",
       "components": [
-        "Fear",
-        "Nonchalashout"
+        "May",
+        "Go",
+        "Toe",
+        "To",
+        "Toe"
       ],
-      "definition": "Fear of nonchalashout \u2014 the anxiety that someone around you is on the verge of a calm but unpredictable meltdown.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "I had serious FONO watching him sit there silently at dinner."
+      "definition": "To potentially square up with someone \u2014 the conditional, fruit-coded form of 'may go toe to toe.' Implies a fight could break out but hasn't yet.",
+      "part_of_speech": "Verb",
+      "theme": "conflict",
+      "example": "Keep talking and we mangoe right here."
     }
   ]
 }
