@@ -1,32 +1,29 @@
 {
-  "sentence": "Never mangoe a brousin who carried you home last winter.",
-  "date": "2026-07-07",
-  "theme": "friendship",
+  "sentence": "Closeout years make you Nickelbackolas Caged before you even knock.",
+  "date": "2026-07-08",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Brousin",
+      "word": "Closeout",
       "components": [
-        "Bro",
-        "Cousin"
+        "Closeted",
+        "Out"
       ],
-      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": ""
+      "definition": "The state of being somewhere between closeted and out \u2014 the transitional identity space of moving from hiding one's queerness to living openly.",
+      "part_of_speech": "Adjective",
+      "theme": "identity",
+      "example": "I was fully closeout that year \u2014 out to friends but not to family."
     },
     {
-      "word": "Mangoe",
+      "word": "Nickelbackolas Caged",
       "components": [
-        "May",
-        "Go",
-        "Toe",
-        "To",
-        "Toe"
+        "Nickelback",
+        "Nicolas Cage"
       ],
-      "definition": "To potentially square up with someone \u2014 the conditional, fruit-coded form of 'may go toe to toe.' Implies a fight could break out but hasn't yet.",
-      "part_of_speech": "Verb",
-      "theme": "conflict",
-      "example": "Keep talking and we mangoe right here."
+      "definition": "The state of being simultaneously beloved and widely mocked \u2014 achieving a fame so polarizing that admiration and ridicule arrive in equal measure at the same time.",
+      "part_of_speech": "Adjective",
+      "theme": "fame",
+      "example": "After that speech went viral, he was fully Nickelbackolas Caged \u2014 half the internet loved him and the other half couldn't stop clowning him."
     }
   ]
 }
