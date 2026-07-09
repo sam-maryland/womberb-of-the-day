@@ -1,29 +1,29 @@
 {
-  "sentence": "Closeout years make you Nickelbackolas Caged before you even knock.",
-  "date": "2026-07-08",
-  "theme": "identity",
+  "sentence": "Feed an exquichite keesh to no one who hasn't earned the hunger.",
+  "date": "2026-07-09",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Closeout",
+      "word": "Keesh",
       "components": [
-        "Closeted",
-        "Out"
+        "Keen",
+        "Wish"
       ],
-      "definition": "The state of being somewhere between closeted and out \u2014 the transitional identity space of moving from hiding one's queerness to living openly.",
-      "part_of_speech": "Adjective",
-      "theme": "identity",
-      "example": "I was fully closeout that year \u2014 out to friends but not to family."
+      "definition": "A deeply desired, intensely specific want \u2014 a keen wish that is itself quiche in its niche particularity. Often delivered or diagnosed by a guyknowballogist with great wisdom.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": ""
     },
     {
-      "word": "Nickelbackolas Caged",
+      "word": "Exquichite",
       "components": [
-        "Nickelback",
-        "Nicolas Cage"
+        "Exquisite",
+        "Quiche"
       ],
-      "definition": "The state of being simultaneously beloved and widely mocked \u2014 achieving a fame so polarizing that admiration and ridicule arrive in equal measure at the same time.",
+      "definition": "Something so delicious or impressively good that it transcends ordinary quality \u2014 exquisite to the point of quiche-level richness and satisfaction.",
       "part_of_speech": "Adjective",
-      "theme": "fame",
-      "example": "After that speech went viral, he was fully Nickelbackolas Caged \u2014 half the internet loved him and the other half couldn't stop clowning him."
+      "theme": "food",
+      "example": "The ramen at that spot was absolutely exquichite \u2014 I couldn't stop eating."
     }
   ]
 }
