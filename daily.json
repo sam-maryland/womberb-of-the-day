@@ -1,29 +1,29 @@
 {
-  "sentence": "Feed an exquichite keesh to no one who hasn't earned the hunger.",
-  "date": "2026-07-09",
-  "theme": "emotion",
+  "sentence": "Eliche peashizz lands deaf in a room that never asked.",
+  "date": "2026-07-10",
+  "theme": "knowledge",
   "wombos": [
     {
-      "word": "Keesh",
+      "word": "Eliche",
       "components": [
-        "Keen",
-        "Wish"
+        "Elite",
+        "Niche"
       ],
-      "definition": "A deeply desired, intensely specific want \u2014 a keen wish that is itself quiche in its niche particularity. Often delivered or diagnosed by a guyknowballogist with great wisdom.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": ""
+      "definition": "Something so specialized it's only recognizable to a select few \u2014 elite-tier expertise in a niche domain.",
+      "part_of_speech": "Adjective",
+      "theme": "knowledge",
+      "example": "His knowledge of obscure vinyl pressings is peak eliche."
     },
     {
-      "word": "Exquichite",
+      "word": "Peashizz",
       "components": [
-        "Exquisite",
-        "Quiche"
+        "Peak",
+        "Shizz"
       ],
-      "definition": "Something so delicious or impressively good that it transcends ordinary quality \u2014 exquisite to the point of quiche-level richness and satisfaction.",
-      "part_of_speech": "Adjective",
-      "theme": "food",
-      "example": "The ramen at that spot was absolutely exquichite \u2014 I couldn't stop eating."
+      "definition": "The absolute peak of cool or impressive things. Used as a noun to refer to something undeniably excellent: 'this is the peashizz.'",
+      "part_of_speech": "Noun",
+      "theme": "excellence",
+      "example": ""
     }
   ]
 }
