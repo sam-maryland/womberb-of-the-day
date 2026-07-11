@@ -1,29 +1,29 @@
 {
-  "sentence": "Eliche peashizz lands deaf in a room that never asked.",
-  "date": "2026-07-10",
-  "theme": "knowledge",
+  "sentence": "Never let a brooksmaxxer sasslighting you convince you to leave the room.",
+  "date": "2026-07-11",
+  "theme": "confidence",
   "wombos": [
     {
-      "word": "Eliche",
+      "word": "Sasslighting",
       "components": [
-        "Elite",
-        "Niche"
+        "Sassy",
+        "Gaslighting"
       ],
-      "definition": "Something so specialized it's only recognizable to a select few \u2014 elite-tier expertise in a niche domain.",
-      "part_of_speech": "Adjective",
-      "theme": "knowledge",
-      "example": "His knowledge of obscure vinyl pressings is peak eliche."
+      "definition": "The act of being so bold, witty, and self-assured that you cause another person to doubt their own confidence and sense of self. The victim of sasslighting walks away convinced their aura is weaker than it actually is.",
+      "part_of_speech": "Verb",
+      "theme": "confidence",
+      "example": "She wasn't even trying, but she was sasslighting the entire room without breaking a sweat."
     },
     {
-      "word": "Peashizz",
+      "word": "Brooksmaxxer",
       "components": [
-        "Peak",
-        "Shizz"
+        "Bro",
+        "Looksmaxxer"
       ],
-      "definition": "The absolute peak of cool or impressive things. Used as a noun to refer to something undeniably excellent: 'this is the peashizz.'",
+      "definition": "A bro deep in the looksmaxxing pipeline \u2014 a friend who has optimized his face, jawline, and clavicles to maximum effect.",
       "part_of_speech": "Noun",
-      "theme": "excellence",
-      "example": ""
+      "theme": "friendship",
+      "example": "Ever since he became a brooksmaxxer, he won't leave the mirror."
     }
   ]
 }
