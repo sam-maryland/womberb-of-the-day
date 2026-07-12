@@ -1,29 +1,29 @@
 {
-  "sentence": "Never let a brooksmaxxer sasslighting you convince you to leave the room.",
-  "date": "2026-07-11",
-  "theme": "confidence",
+  "sentence": "Savvidad spent on someone who will only appricot it is savvidad wasted.",
+  "date": "2026-07-12",
+  "theme": "behavior",
   "wombos": [
     {
-      "word": "Sasslighting",
+      "word": "Appricot",
       "components": [
-        "Sassy",
-        "Gaslighting"
+        "Appreciate",
+        "Forgot"
       ],
-      "definition": "The act of being so bold, witty, and self-assured that you cause another person to doubt their own confidence and sense of self. The victim of sasslighting walks away convinced their aura is weaker than it actually is.",
+      "definition": "To genuinely appreciate someone or something and then immediately forget about it. The fond, distracted form of gratitude that never quite sticks.",
       "part_of_speech": "Verb",
-      "theme": "confidence",
-      "example": "She wasn't even trying, but she was sasslighting the entire room without breaking a sweat."
+      "theme": "behavior",
+      "example": "I appricotted his help \u2014 said thanks, walked off, never thought about it again."
     },
     {
-      "word": "Brooksmaxxer",
+      "word": "Savvidad",
       "components": [
-        "Bro",
-        "Looksmaxxer"
+        "Savvy",
+        "Habilidad"
       ],
-      "definition": "A bro deep in the looksmaxxing pipeline \u2014 a friend who has optimized his face, jawline, and clavicles to maximum effect.",
+      "definition": "Savvy skill or practical intelligence \u2014 a street-smart, capable mastery of a subject or situation, with habilidad (Spanish: ability) as its foundation.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "Ever since he became a brooksmaxxer, he won't leave the mirror."
+      "theme": "academics",
+      "example": "He navigated the whole system with pure savvidad."
     }
   ]
 }
