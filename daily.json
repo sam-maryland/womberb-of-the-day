@@ -1,29 +1,30 @@
 {
-  "sentence": "Savvidad spent on someone who will only appricot it is savvidad wasted.",
-  "date": "2026-07-12",
-  "theme": "behavior",
+  "sentence": "Never let a nonchalonversation bury the melonchalashout underneath it.",
+  "date": "2026-07-13",
+  "theme": "communication",
   "wombos": [
     {
-      "word": "Appricot",
+      "word": "Nonchalonversation",
       "components": [
-        "Appreciate",
-        "Forgot"
+        "Nonchalant",
+        "Conversation"
       ],
-      "definition": "To genuinely appreciate someone or something and then immediately forget about it. The fond, distracted form of gratitude that never quite sticks.",
-      "part_of_speech": "Verb",
-      "theme": "behavior",
-      "example": "I appricotted his help \u2014 said thanks, walked off, never thought about it again."
+      "definition": "A casual, low-stakes conversation carried out with nonchalant energy \u2014 a chill exchange that doesn't demand too much investment from either party.",
+      "part_of_speech": "Noun",
+      "theme": "communication",
+      "example": "We had a quick Nonchalonversation and kept it moving."
     },
     {
-      "word": "Savvidad",
+      "word": "Melonchalashout",
       "components": [
-        "Savvy",
-        "Habilidad"
+        "Melancholy",
+        "Nonchalant",
+        "Crashout"
       ],
-      "definition": "Savvy skill or practical intelligence \u2014 a street-smart, capable mastery of a subject or situation, with habilidad (Spanish: ability) as its foundation.",
+      "definition": "The emotional breakdown that results from masking deep sadness with a carefree attitude until it boils over. A crashout driven by suppressed melancholy. 'Crashout' means a sudden emotional spiral or breakdown.",
       "part_of_speech": "Noun",
-      "theme": "academics",
-      "example": "He navigated the whole system with pure savvidad."
+      "theme": "emotion",
+      "example": ""
     }
   ]
 }
