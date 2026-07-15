@@ -1,31 +1,29 @@
 {
-  "sentence": "Beafloaf before the loreraining starts or drown standing still.",
-  "date": "2026-07-14",
-  "theme": "attitude",
+  "sentence": "Lookstaxxing someone's lowkay is still theft.",
+  "date": "2026-07-15",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Beafloaf",
+      "word": "Lookstaxxing",
       "components": [
-        "Be",
-        "AF",
-        "Lowkey",
-        "AF"
+        "Looksmaxxing",
+        "Fanum Tax"
       ],
-      "definition": "To be extremely lowkey \u2014 to dial back one's energy, volume, or presence to the fullest possible degree.",
+      "definition": "Stealing or copying someone's look or style \u2014 taxing their appearance the way fanum tax works on food, but applied to aesthetics. 'He stole my sunglasses. He's just lookstaxxing.'",
       "part_of_speech": "Verb",
-      "theme": "attitude",
-      "example": "I told him to beafloaf during the movie, but he just kept talking."
+      "theme": "humor",
+      "example": ""
     },
     {
-      "word": "Loreraining",
+      "word": "Lowkay",
       "components": [
-        "Lore",
-        "Raining"
+        "Lowkey",
+        "Okay"
       ],
-      "definition": "Lore pouring down on you whether you asked for it or not \u2014 the meteorological form of being loreained.",
-      "part_of_speech": "Verb",
-      "theme": "wisdom",
-      "example": "Stepped into the group chat and it started loreraining immediately."
+      "definition": "Quietly acceptable \u2014 a lowkey okay. The kind of thing you tolerate without endorsing: somewhere between fine and unobjectionable.",
+      "part_of_speech": "Adjective",
+      "theme": "approval",
+      "example": "He nonchalashedout on my brarpet, but honestly? Lowkay."
     }
   ]
 }
