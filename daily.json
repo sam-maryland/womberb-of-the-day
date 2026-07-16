@@ -1,29 +1,29 @@
 {
-  "sentence": "Lookstaxxing someone's lowkay is still theft.",
-  "date": "2026-07-15",
-  "theme": "humor",
+  "sentence": "Even the brat knows when the cunninlinguist has nothing left to say.",
+  "date": "2026-07-16",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Lookstaxxing",
+      "word": "Cunninlinguist",
       "components": [
-        "Looksmaxxing",
-        "Fanum Tax"
+        "Cunning",
+        "Linguist"
       ],
-      "definition": "Stealing or copying someone's look or style \u2014 taxing their appearance the way fanum tax works on food, but applied to aesthetics. 'He stole my sunglasses. He's just lookstaxxing.'",
-      "part_of_speech": "Verb",
-      "theme": "humor",
+      "definition": "Someone masterfully skilled at putting words together \u2014 a cunning, precision-level wombo deployer. The highest tier of bangpoundulary. 'That cunninlinguist will deliver the quiche peanemis with no analvisions.'",
+      "part_of_speech": "Noun",
+      "theme": "wisdom",
       "example": ""
     },
     {
-      "word": "Lowkay",
+      "word": "Brat",
       "components": [
-        "Lowkey",
-        "Okay"
+        "Bro",
+        "Cat"
       ],
-      "definition": "Quietly acceptable \u2014 a lowkey okay. The kind of thing you tolerate without endorsing: somewhere between fine and unobjectionable.",
-      "part_of_speech": "Adjective",
-      "theme": "approval",
-      "example": "He nonchalashedout on my brarpet, but honestly? Lowkay."
+      "definition": "A cat that has bonded to a bro \u2014 a feline who has accepted bro-coded ownership and behaves accordingly. Often named something like Tank.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
+      "example": "His brat watches every game with him from the arm of the couch."
     }
   ]
 }
