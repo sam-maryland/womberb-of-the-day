@@ -1,29 +1,29 @@
 {
-  "sentence": "Even the brat knows when the cunninlinguist has nothing left to say.",
-  "date": "2026-07-16",
-  "theme": "wisdom",
+  "sentence": "Capstrating as it is, roll up their larpet and leave.",
+  "date": "2026-07-17",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Cunninlinguist",
+      "word": "Capstrating",
       "components": [
-        "Cunning",
-        "Linguist"
+        "Capping",
+        "Frustrating"
       ],
-      "definition": "Someone masterfully skilled at putting words together \u2014 a cunning, precision-level wombo deployer. The highest tier of bangpoundulary. 'That cunninlinguist will deliver the quiche peanemis with no analvisions.'",
-      "part_of_speech": "Noun",
-      "theme": "wisdom",
-      "example": ""
+      "definition": "The frustrating experience of someone capping relentlessly \u2014 the particular irritation caused when someone keeps lying or exaggerating beyond what you can tolerate.",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
+      "example": "It's so capstrating how he brags about stuff that never happened."
     },
     {
-      "word": "Brat",
+      "word": "Larpet",
       "components": [
-        "Bro",
-        "Cat"
+        "Larp",
+        "Carpet"
       ],
-      "definition": "A cat that has bonded to a bro \u2014 a feline who has accepted bro-coded ownership and behaves accordingly. Often named something like Tank.",
+      "definition": "The metaphorical carpet of someone who is deep in a larp \u2014 the performative stage or platform they stand on while pretending to be something they're not.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "His brat watches every game with him from the arm of the couch."
+      "theme": "performance",
+      "example": "Get off your larpet \u2014 nobody actually believes you went to Harvard."
     }
   ]
 }
