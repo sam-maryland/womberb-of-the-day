@@ -1,29 +1,30 @@
 {
-  "sentence": "Capstrating as it is, roll up their larpet and leave.",
-  "date": "2026-07-17",
-  "theme": "emotion",
+  "sentence": "Strong bangpoundulary means nothing if you waste it at the wrong brobeque.",
+  "date": "2026-07-18",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Capstrating",
+      "word": "Brobeque",
       "components": [
-        "Capping",
-        "Frustrating"
+        "Bro",
+        "Barbecue"
       ],
-      "definition": "The frustrating experience of someone capping relentlessly \u2014 the particular irritation caused when someone keeps lying or exaggerating beyond what you can tolerate.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "It's so capstrating how he brags about stuff that never happened."
+      "definition": "A barbecue attended entirely by bros \u2014 meat, lawn chairs, and minimal conversation. The cookout's male-coded form.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
+      "example": "Pulling up to the brobeque with a 24-pack and zero notes."
     },
     {
-      "word": "Larpet",
+      "word": "Bangpoundulary",
       "components": [
-        "Larp",
-        "Carpet"
+        "Banger",
+        "Compound",
+        "Vocabulary"
       ],
-      "definition": "The metaphorical carpet of someone who is deep in a larp \u2014 the performative stage or platform they stand on while pretending to be something they're not.",
+      "definition": "The skill and artistry of deploying wombos with perfect timing, precision, and elegance. Someone with strong bangpoundulary drops the right wombo at exactly the right moment.",
       "part_of_speech": "Noun",
-      "theme": "performance",
-      "example": "Get off your larpet \u2014 nobody actually believes you went to Harvard."
+      "theme": "wisdom",
+      "example": ""
     }
   ]
 }
