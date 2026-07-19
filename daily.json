@@ -1,30 +1,29 @@
 {
-  "sentence": "Strong bangpoundulary means nothing if you waste it at the wrong brobeque.",
-  "date": "2026-07-18",
+  "sentence": "Never skip brootball for a twousin who skipped yours.",
+  "date": "2026-07-19",
   "theme": "friendship",
   "wombos": [
     {
-      "word": "Brobeque",
+      "word": "Twousin",
       "components": [
-        "Bro",
-        "Barbecue"
+        "Twin",
+        "Cousin"
       ],
-      "definition": "A barbecue attended entirely by bros \u2014 meat, lawn chairs, and minimal conversation. The cookout's male-coded form.",
+      "definition": "A cousin so close they might as well be your twin \u2014 a family member with the intimacy of a twin sibling. Related to brousin but emphasizing the twin-level bond rather than the bro bond.",
       "part_of_speech": "Noun",
       "theme": "friendship",
-      "example": "Pulling up to the brobeque with a 24-pack and zero notes."
+      "example": ""
     },
     {
-      "word": "Bangpoundulary",
+      "word": "Brootball",
       "components": [
-        "Banger",
-        "Compound",
-        "Vocabulary"
+        "Bro",
+        "Football"
       ],
-      "definition": "The skill and artistry of deploying wombos with perfect timing, precision, and elegance. Someone with strong bangpoundulary drops the right wombo at exactly the right moment.",
+      "definition": "Football viewed through a hyper-masculine, bro-culture lens \u2014 the sport as a social bonding ritual among bros.",
       "part_of_speech": "Noun",
-      "theme": "wisdom",
-      "example": ""
+      "theme": "sports",
+      "example": "Every Sunday they gather for brootball, snacks, and absolutely no emotional vulnerability."
     }
   ]
 }
