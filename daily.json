@@ -1,29 +1,29 @@
 {
-  "sentence": "Never skip brootball for a twousin who skipped yours.",
-  "date": "2026-07-19",
+  "sentence": "Your gringbro will carry one end of the brarpet without being asked.",
+  "date": "2026-07-20",
   "theme": "friendship",
   "wombos": [
     {
-      "word": "Twousin",
+      "word": "Brarpet",
       "components": [
-        "Twin",
-        "Cousin"
+        "Bro",
+        "Carpet"
       ],
-      "definition": "A cousin so close they might as well be your twin \u2014 a family member with the intimacy of a twin sibling. Related to brousin but emphasizing the twin-level bond rather than the bro bond.",
+      "definition": "A carpet or shared household item jointly purchased with a friend in a roommate situation \u2014 it belongs to both of you equally. A symbol of bro-cohabitation.",
       "part_of_speech": "Noun",
       "theme": "friendship",
       "example": ""
     },
     {
-      "word": "Brootball",
+      "word": "Gringbro",
       "components": [
         "Bro",
-        "Football"
+        "Gringo"
       ],
-      "definition": "Football viewed through a hyper-masculine, bro-culture lens \u2014 the sport as a social bonding ritual among bros.",
+      "definition": "A gringo who is also undeniably your bro \u2014 a foreign or out-of-place friend who has fully earned their spot in the crew.",
       "part_of_speech": "Noun",
-      "theme": "sports",
-      "example": "Every Sunday they gather for brootball, snacks, and absolutely no emotional vulnerability."
+      "theme": "relationships",
+      "example": "He's from Ohio but he's been my gringbro since college."
     }
   ]
 }
