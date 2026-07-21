@@ -1,29 +1,29 @@
 {
-  "sentence": "Your gringbro will carry one end of the brarpet without being asked.",
-  "date": "2026-07-20",
-  "theme": "friendship",
+  "sentence": "Demimore men do not audition for a Clavito's approval.",
+  "date": "2026-07-21",
+  "theme": "status",
   "wombos": [
     {
-      "word": "Brarpet",
+      "word": "Clavito",
       "components": [
-        "Bro",
-        "Carpet"
+        "Clavicular",
+        "Vito"
       ],
-      "definition": "A carpet or shared household item jointly purchased with a friend in a roommate situation \u2014 it belongs to both of you equally. A symbol of bro-cohabitation.",
+      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": ""
+      "theme": "status",
+      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
     },
     {
-      "word": "Gringbro",
+      "word": "Demimore",
       "components": [
-        "Bro",
-        "Gringo"
+        "Demi",
+        "Evermore"
       ],
-      "definition": "A gringo who is also undeniably your bro \u2014 a foreign or out-of-place friend who has fully earned their spot in the crew.",
-      "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "He's from Ohio but he's been my gringbro since college."
+      "definition": "A state of being demi \u2014 demisexual or demiromantic \u2014 forever and without reservation, fully embracing that identity for the long haul.",
+      "part_of_speech": "Adjective",
+      "theme": "identity",
+      "example": "He's not questioning anymore \u2014 he's demimore and at peace with it."
     }
   ]
 }
