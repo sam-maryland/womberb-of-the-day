@@ -1,29 +1,29 @@
 {
-  "sentence": "Demimore men do not audition for a Clavito's approval.",
-  "date": "2026-07-21",
-  "theme": "status",
+  "sentence": "Fully meaf people get Nickelbackolas Caged. Shrink and get forgotten.",
+  "date": "2026-07-22",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Clavito",
+      "word": "Meaf",
       "components": [
-        "Clavicular",
-        "Vito"
+        "Me",
+        "AF"
       ],
-      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
-      "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
-    },
-    {
-      "word": "Demimore",
-      "components": [
-        "Demi",
-        "Evermore"
-      ],
-      "definition": "A state of being demi \u2014 demisexual or demiromantic \u2014 forever and without reservation, fully embracing that identity for the long haul.",
+      "definition": "The quality of being extremely, authentically oneself \u2014 me, to the absolute fullest degree.",
       "part_of_speech": "Adjective",
       "theme": "identity",
-      "example": "He's not questioning anymore \u2014 he's demimore and at peace with it."
+      "example": "Staying in on a Friday with snacks? That's meaf."
+    },
+    {
+      "word": "Nickelbackolas Caged",
+      "components": [
+        "Nickelback",
+        "Nicolas Cage"
+      ],
+      "definition": "The state of being simultaneously beloved and widely mocked \u2014 achieving a fame so polarizing that admiration and ridicule arrive in equal measure at the same time.",
+      "part_of_speech": "Adjective",
+      "theme": "fame",
+      "example": "After that speech went viral, he was fully Nickelbackolas Caged \u2014 half the internet loved him and the other half couldn't stop clowning him."
     }
   ]
 }
