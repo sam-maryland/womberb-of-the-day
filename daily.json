@@ -1,29 +1,29 @@
 {
-  "sentence": "Fully meaf people get Nickelbackolas Caged. Shrink and get forgotten.",
-  "date": "2026-07-22",
-  "theme": "identity",
+  "sentence": "Twinfo lands differently when you're already in your meafloaf state.",
+  "date": "2026-07-23",
+  "theme": "relationship",
   "wombos": [
     {
-      "word": "Meaf",
+      "word": "Twinfo",
       "components": [
-        "Me",
-        "AF"
+        "Twin",
+        "Info"
       ],
-      "definition": "The quality of being extremely, authentically oneself \u2014 me, to the absolute fullest degree.",
-      "part_of_speech": "Adjective",
-      "theme": "identity",
-      "example": "Staying in on a Friday with snacks? That's meaf."
+      "definition": "Information shared between twins, or insider knowledge passed between people with a twin-level connection.",
+      "part_of_speech": "Noun",
+      "theme": "relationship",
+      "example": "She slid me the twinfo before anyone else even knew what was happening."
     },
     {
-      "word": "Nickelbackolas Caged",
+      "word": "Meafloaf State",
       "components": [
-        "Nickelback",
-        "Nicolas Cage"
+        "Me AF",
+        "Flowstate AF"
       ],
-      "definition": "The state of being simultaneously beloved and widely mocked \u2014 achieving a fame so polarizing that admiration and ridicule arrive in equal measure at the same time.",
-      "part_of_speech": "Adjective",
-      "theme": "fame",
-      "example": "After that speech went viral, he was fully Nickelbackolas Caged \u2014 half the internet loved him and the other half couldn't stop clowning him."
+      "definition": "The flow state of being fully, effortlessly yourself \u2014 the condition in which authenticity and peak performance merge seamlessly.",
+      "part_of_speech": "Noun",
+      "theme": "identity",
+      "example": "I wasn't even thinking \u2014 I was deep in a meafloaf state."
     }
   ]
 }
