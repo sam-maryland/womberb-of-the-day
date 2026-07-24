@@ -1,29 +1,29 @@
 {
-  "sentence": "Twinfo lands differently when you're already in your meafloaf state.",
-  "date": "2026-07-23",
-  "theme": "relationship",
+  "sentence": "Sonnelvision makes cringema. Watch it anyway.",
+  "date": "2026-07-24",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Twinfo",
+      "word": "Cringema",
       "components": [
-        "Twin",
-        "Info"
+        "Cringe",
+        "Cinema"
       ],
-      "definition": "Information shared between twins, or insider knowledge passed between people with a twin-level connection.",
+      "definition": "Cinematic content that is deeply, specifically cringe \u2014 but so cinematic about it that you can't look away. The cringe version of a peanemis. 'Can't wait to drop their next cringema.'",
       "part_of_speech": "Noun",
-      "theme": "relationship",
-      "example": "She slid me the twinfo before anyone else even knew what was happening."
+      "theme": "cinema",
+      "example": ""
     },
     {
-      "word": "Meafloaf State",
+      "word": "Sonnelvision",
       "components": [
-        "Me AF",
-        "Flowstate AF"
+        "Son",
+        "Tunnelvision"
       ],
-      "definition": "The flow state of being fully, effortlessly yourself \u2014 the condition in which authenticity and peak performance merge seamlessly.",
+      "definition": "Tunnel vision but son-coded \u2014 a state of hyper-focused intensity directed through a son-energy lens, blocking out everything else.",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "I wasn't even thinking \u2014 I was deep in a meafloaf state."
+      "theme": "focus",
+      "example": "Once he locked in, it was pure sonnelvision \u2014 nothing else existed."
     }
   ]
 }
