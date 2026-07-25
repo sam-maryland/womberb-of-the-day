@@ -1,29 +1,31 @@
 {
-  "sentence": "Sonnelvision makes cringema. Watch it anyway.",
-  "date": "2026-07-24",
+  "sentence": "Peanemizz hits harder in Spanglish than it ever will in one tongue.",
+  "date": "2026-07-25",
   "theme": "cinema",
   "wombos": [
     {
-      "word": "Cringema",
+      "word": "Peanemizz",
       "components": [
-        "Cringe",
-        "Cinema"
+        "Peak",
+        "Cinema",
+        "Analysis",
+        "Rizz"
       ],
-      "definition": "Cinematic content that is deeply, specifically cringe \u2014 but so cinematic about it that you can't look away. The cringe version of a peanemis. 'Can't wait to drop their next cringema.'",
+      "definition": "A peanemis delivered with natural charm and rizz \u2014 not just an analysis but a magnetically smooth, effortlessly cool deep-dive. Someone with peanemizz makes the peanemis irresistible.",
       "part_of_speech": "Noun",
       "theme": "cinema",
       "example": ""
     },
     {
-      "word": "Sonnelvision",
+      "word": "Spanglish",
       "components": [
-        "Son",
-        "Tunnelvision"
+        "Spanish",
+        "English"
       ],
-      "definition": "Tunnel vision but son-coded \u2014 a state of hyper-focused intensity directed through a son-energy lens, blocking out everything else.",
+      "definition": "A hybrid mode of speech that blends Spanish and English, switching between or mixing the two languages within conversation.",
       "part_of_speech": "Noun",
-      "theme": "focus",
-      "example": "Once he locked in, it was pure sonnelvision \u2014 nothing else existed."
+      "theme": "language",
+      "example": "Growing up in a bilingual household, she naturally spoke Spanglish at home."
     }
   ]
 }
