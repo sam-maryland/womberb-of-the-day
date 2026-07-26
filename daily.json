@@ -1,31 +1,29 @@
 {
-  "sentence": "Peanemizz hits harder in Spanglish than it ever will in one tongue.",
-  "date": "2026-07-25",
+  "sentence": "Survive your peanathon first. The egrack will find you in the dark.",
+  "date": "2026-07-26",
   "theme": "cinema",
   "wombos": [
     {
-      "word": "Peanemizz",
+      "word": "Peanathon",
       "components": [
-        "Peak",
-        "Cinema",
-        "Analysis",
-        "Rizz"
+        "Pean",
+        "Marathon"
       ],
-      "definition": "A peanemis delivered with natural charm and rizz \u2014 not just an analysis but a magnetically smooth, effortlessly cool deep-dive. Someone with peanemizz makes the peanemis irresistible.",
+      "definition": "A marathon of peans \u2014 back-to-back peak cinema analyses run end-to-end without pause. The endurance event of the peanemis world.",
       "part_of_speech": "Noun",
       "theme": "cinema",
-      "example": ""
+      "example": "We're doing a peanathon this tweekend \u2014 three movies, two essays, one nap."
     },
     {
-      "word": "Spanglish",
+      "word": "Egrack",
       "components": [
-        "Spanish",
-        "English"
+        "Egg",
+        "Crack"
       ],
-      "definition": "A hybrid mode of speech that blends Spanish and English, switching between or mixing the two languages within conversation.",
+      "definition": "The moment a person realizes or comes to terms with their true gender identity \u2014 the cracking of the metaphorical egg.",
       "part_of_speech": "Noun",
-      "theme": "language",
-      "example": "Growing up in a bilingual household, she naturally spoke Spanglish at home."
+      "theme": "identity",
+      "example": "Looking back, that conversation was basically her egrack."
     }
   ]
 }
