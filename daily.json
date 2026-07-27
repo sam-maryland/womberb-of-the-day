@@ -1,29 +1,32 @@
 {
-  "sentence": "Survive your peanathon first. The egrack will find you in the dark.",
-  "date": "2026-07-26",
-  "theme": "cinema",
+  "sentence": "Send your brousin the docderpeanemis before the morning changes everything.",
+  "date": "2026-07-27",
+  "theme": "analysis",
   "wombos": [
     {
-      "word": "Peanathon",
+      "word": "Docderpeanemis",
       "components": [
-        "Pean",
-        "Marathon"
+        "Documented",
+        "Folder",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "A marathon of peans \u2014 back-to-back peak cinema analyses run end-to-end without pause. The endurance event of the peanemis world.",
+      "definition": "A peak cinema analysis that is written down or typed out \u2014 a documented, recorded breakdown of events or stories, often delivered in the form of a note or card.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "We're doing a peanathon this tweekend \u2014 three movies, two essays, one nap."
+      "theme": "analysis",
+      "example": "She wrote a full docderpeanemis on every thank-you card she sent."
     },
     {
-      "word": "Egrack",
+      "word": "Brousin",
       "components": [
-        "Egg",
-        "Crack"
+        "Bro",
+        "Cousin"
       ],
-      "definition": "The moment a person realizes or comes to terms with their true gender identity \u2014 the cracking of the metaphorical egg.",
+      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "Looking back, that conversation was basically her egrack."
+      "theme": "friendship",
+      "example": ""
     }
   ]
 }
