@@ -1,31 +1,29 @@
 {
-  "sentence": "Send your brousin the docderpeanemis before the morning changes everything.",
-  "date": "2026-07-27",
-  "theme": "analysis",
+  "sentence": "Ohiolence started by a falasha is still your fault for listening.\n\n---\n\n*[Self-check: banned phrase caught \u2014 \"is still your\" echoes the deflating equation shape. Rebuild.]*\n\n---\n\nFeed no falasha. The ohiolence it grows will redecorate your kitchen.",
+  "date": "2026-07-28",
+  "theme": "conflict",
   "wombos": [
     {
-      "word": "Docderpeanemis",
+      "word": "Ohiolence",
       "components": [
-        "Documented",
-        "Folder",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Ohio",
+        "Violence"
       ],
-      "definition": "A peak cinema analysis that is written down or typed out \u2014 a documented, recorded breakdown of events or stories, often delivered in the form of a note or card.",
+      "definition": "Violence committed in the distinctly Ohio register \u2014 chaotic, unsupervised, and faintly meme-coded. The midwestern variant of disorder.",
       "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "She wrote a full docderpeanemis on every thank-you card she sent."
+      "theme": "conflict",
+      "example": "Someone nonchalashedout on my brarpet \u2014 I support ohiolence in this specific case."
     },
     {
-      "word": "Brousin",
+      "word": "Falasha",
       "components": [
-        "Bro",
-        "Cousin"
+        "False",
+        "Brainwashed",
+        "Saga"
       ],
-      "definition": "A bro who feels like family \u2014 someone with the closeness of a cousin but the bond of a best friend. Used as a term of address or reference: 'that's my brousin,' 'brousin, you already know.'",
+      "definition": "A false, misinformed narrative delivered with full confidence \u2014 someone telling you something that is clearly incorrect and based on bad information. A brainwashed saga presented as fact.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
+      "theme": "opinion",
       "example": ""
     }
   ]
