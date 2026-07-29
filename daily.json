@@ -1,30 +1,31 @@
 {
-  "sentence": "Ohiolence started by a falasha is still your fault for listening.\n\n---\n\n*[Self-check: banned phrase caught \u2014 \"is still your\" echoes the deflating equation shape. Rebuild.]*\n\n---\n\nFeed no falasha. The ohiolence it grows will redecorate your kitchen.",
-  "date": "2026-07-28",
-  "theme": "conflict",
+  "sentence": "Chronchalashout will hold the room. Save your lowkeanemis for after.",
+  "date": "2026-07-29",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Ohiolence",
+      "word": "Lowkeanemis",
       "components": [
-        "Ohio",
-        "Violence"
+        "Lowkey",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "Violence committed in the distinctly Ohio register \u2014 chaotic, unsupervised, and faintly meme-coded. The midwestern variant of disorder.",
+      "definition": "A subtle or understated peak cinema analysis \u2014 a peanemis that operates quietly rather than boldly.",
       "part_of_speech": "Noun",
-      "theme": "conflict",
-      "example": "Someone nonchalashedout on my brarpet \u2014 I support ohiolence in this specific case."
+      "theme": "cinema",
+      "example": "She slipped in a lowkeanemis so smooth that nobody even clocked it."
     },
     {
-      "word": "Falasha",
+      "word": "Chronchalashout",
       "components": [
-        "False",
-        "Brainwashed",
-        "Saga"
+        "The Chronic",
+        "Nonchalashout"
       ],
-      "definition": "A false, misinformed narrative delivered with full confidence \u2014 someone telling you something that is clearly incorrect and based on bad information. A brainwashed saga presented as fact.",
+      "definition": "A weed-aided nonchalashout \u2014 composure held together by THC while the inner crashout simmers quietly underneath.",
       "part_of_speech": "Noun",
-      "theme": "opinion",
-      "example": ""
+      "theme": "emotion",
+      "example": "After the third bowl he settled into a slow chronchalashout."
     }
   ]
 }
