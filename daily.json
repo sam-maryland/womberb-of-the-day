@@ -1,31 +1,31 @@
 {
-  "sentence": "Chronchalashout will hold the room. Save your lowkeanemis for after.",
-  "date": "2026-07-29",
-  "theme": "cinema",
+  "sentence": "Shed the bunnion before the balledge dropout empties your whole floor.",
+  "date": "2026-07-30",
+  "theme": "knowledge",
   "wombos": [
     {
-      "word": "Lowkeanemis",
+      "word": "Balledge Dropout",
       "components": [
-        "Lowkey",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Ball",
+        "Knowledge",
+        "Drop",
+        "Crashout"
       ],
-      "definition": "A subtle or understated peak cinema analysis \u2014 a peanemis that operates quietly rather than boldly.",
+      "definition": "A breakdown caused by holding too much specialized knowledge (balledge) at once \u2014 dropping it all and crashing out under the weight.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "She slipped in a lowkeanemis so smooth that nobody even clocked it."
+      "theme": "knowledge",
+      "example": "He had a full balledge dropout trying to explain the entire lore in one breath."
     },
     {
-      "word": "Chronchalashout",
+      "word": "Bunnion",
       "components": [
-        "The Chronic",
-        "Nonchalashout"
+        "Bunk",
+        "Opinion"
       ],
-      "definition": "A weed-aided nonchalashout \u2014 composure held together by THC while the inner crashout simmers quietly underneath.",
+      "definition": "A bunk opinion \u2014 a take that is poorly reasoned, unfounded, or just wrong. The opposite of a goonion.",
       "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "After the third bowl he settled into a slow chronchalashout."
+      "theme": "opinion",
+      "example": "Can't stand that guy \u2014 every word out of his mouth is a bunnion."
     }
   ]
 }
