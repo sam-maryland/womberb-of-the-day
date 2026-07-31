@@ -1,31 +1,29 @@
 {
-  "sentence": "Shed the bunnion before the balledge dropout empties your whole floor.",
-  "date": "2026-07-30",
-  "theme": "knowledge",
+  "sentence": "Never get sherminated from a twitchen you helped stock.",
+  "date": "2026-07-31",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Balledge Dropout",
+      "word": "Twitchen",
       "components": [
-        "Ball",
-        "Knowledge",
-        "Drop",
-        "Crashout"
+        "Twin",
+        "Kitchen"
       ],
-      "definition": "A breakdown caused by holding too much specialized knowledge (balledge) at once \u2014 dropping it all and crashing out under the weight.",
+      "definition": "A kitchen shared with or belonging to your twin or twin-coded roommate. The twin version of a kitchen \u2014 where twin-coded cooking, crashing out, and loreaining happens.",
       "part_of_speech": "Noun",
-      "theme": "knowledge",
-      "example": "He had a full balledge dropout trying to explain the entire lore in one breath."
+      "theme": "friendship",
+      "example": ""
     },
     {
-      "word": "Bunnion",
+      "word": "Sherminated",
       "components": [
-        "Bunk",
-        "Opinion"
+        "Shocking",
+        "Terminated"
       ],
-      "definition": "A bunk opinion \u2014 a take that is poorly reasoned, unfounded, or just wrong. The opposite of a goonion.",
-      "part_of_speech": "Noun",
-      "theme": "opinion",
-      "example": "Can't stand that guy \u2014 every word out of his mouth is a bunnion."
+      "definition": "To be fired in a sudden, shocking, and frankly cinematic way. Not just terminated \u2014 shockingly terminated. Used as a verb: 'the manager quickly sherminated her.'",
+      "part_of_speech": "Verb",
+      "theme": "humor",
+      "example": ""
     }
   ]
 }
