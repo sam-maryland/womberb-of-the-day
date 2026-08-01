@@ -1,29 +1,28 @@
 {
-  "sentence": "Never get sherminated from a twitchen you helped stock.",
-  "date": "2026-07-31",
-  "theme": "friendship",
+  "sentence": "Ginormous oron in the room. Stop pointing. Sit down.",
+  "date": "2026-08-01",
+  "theme": "logic",
   "wombos": [
     {
-      "word": "Twitchen",
+      "word": "Oron",
       "components": [
-        "Twin",
-        "Kitchen"
+        "Oxymoron"
       ],
-      "definition": "A kitchen shared with or belonging to your twin or twin-coded roommate. The twin version of a kitchen \u2014 where twin-coded cooking, crashing out, and loreaining happens.",
+      "definition": "A compressed form of oxymoron \u2014 something that is self-contradictory or doesn't make sense. Used when a situation or thing contains two opposing qualities at once, like croggy food.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": ""
+      "theme": "logic",
+      "example": "Calling that a snack when it weighs five pounds is a total oron."
     },
     {
-      "word": "Sherminated",
+      "word": "Ginormous",
       "components": [
-        "Shocking",
-        "Terminated"
+        "Gigantic",
+        "Enormous"
       ],
-      "definition": "To be fired in a sudden, shocking, and frankly cinematic way. Not just terminated \u2014 shockingly terminated. Used as a verb: 'the manager quickly sherminated her.'",
-      "part_of_speech": "Verb",
-      "theme": "humor",
-      "example": ""
+      "definition": "Extremely large; of a size that exceeds what gigantic or enormous alone can adequately describe.",
+      "part_of_speech": "Adjective",
+      "theme": "size",
+      "example": "That burger was ginormous \u2014 I couldn't even finish half of it."
     }
   ]
 }
