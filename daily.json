@@ -1,28 +1,29 @@
 {
-  "sentence": "Ginormous oron in the room. Stop pointing. Sit down.",
-  "date": "2026-08-01",
-  "theme": "logic",
+  "sentence": "D'aven't earned your guybernation? The cave will know.",
+  "date": "2026-08-02",
+  "theme": "grammar",
   "wombos": [
     {
-      "word": "Oron",
+      "word": "D'aven't",
       "components": [
-        "Oxymoron"
+        "Don't",
+        "Haven't"
       ],
-      "definition": "A compressed form of oxymoron \u2014 something that is self-contradictory or doesn't make sense. Used when a situation or thing contains two opposing qualities at once, like croggy food.",
-      "part_of_speech": "Noun",
-      "theme": "logic",
-      "example": "Calling that a snack when it weighs five pounds is a total oron."
+      "definition": "A contraction of 'don't' and 'haven't,' used when you don't want to do a thing and also haven't done it. Captures procrastination and refusal in a single breath.",
+      "part_of_speech": "Phrase",
+      "theme": "grammar",
+      "example": "I d'aven't taken a shower since last Tuesday."
     },
     {
-      "word": "Ginormous",
+      "word": "Guybernation",
       "components": [
-        "Gigantic",
-        "Enormous"
+        "Guy",
+        "Hibernation"
       ],
-      "definition": "Extremely large; of a size that exceeds what gigantic or enormous alone can adequately describe.",
-      "part_of_speech": "Adjective",
-      "theme": "size",
-      "example": "That burger was ginormous \u2014 I couldn't even finish half of it."
+      "definition": "A period of deliberate social and romantic withdrawal that a guy undergoes in order to improve himself \u2014 a masculine hibernation focused on personal growth.",
+      "part_of_speech": "Noun",
+      "theme": "selfimprovement",
+      "example": "He went into full guybernation for six months and came out a completely different person."
     }
   ]
 }
