@@ -1,29 +1,29 @@
 {
-  "sentence": "D'aven't earned your guybernation? The cave will know.",
-  "date": "2026-08-02",
-  "theme": "grammar",
+  "sentence": "Your frenemy cannot find you in a weafloaf room.",
+  "date": "2026-08-03",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "D'aven't",
+      "word": "Weafloaf",
       "components": [
-        "Don't",
-        "Haven't"
+        "We AF",
+        "Lowkey AF"
       ],
-      "definition": "A contraction of 'don't' and 'haven't,' used when you don't want to do a thing and also haven't done it. Captures procrastination and refusal in a single breath.",
-      "part_of_speech": "Phrase",
-      "theme": "grammar",
-      "example": "I d'aven't taken a shower since last Tuesday."
+      "definition": "The lowkey, collective version of being fully yourselves together \u2014 a group operating at peak authenticity in a chill, understated way.",
+      "part_of_speech": "Adjective",
+      "theme": "identity",
+      "example": "No pressure, no performance \u2014 just the whole squad being weafloaf."
     },
     {
-      "word": "Guybernation",
+      "word": "Frenemy",
       "components": [
-        "Guy",
-        "Hibernation"
+        "Friend",
+        "Enemy"
       ],
-      "definition": "A period of deliberate social and romantic withdrawal that a guy undergoes in order to improve himself \u2014 a masculine hibernation focused on personal growth.",
+      "definition": "A person who acts as a friend but is simultaneously a rival or adversary \u2014 someone whose friendship is tinged with competition or hostility.",
       "part_of_speech": "Noun",
-      "theme": "selfimprovement",
-      "example": "He went into full guybernation for six months and came out a completely different person."
+      "theme": "relationships",
+      "example": "She congratulates me every time I win, but I know she's my frenemy."
     }
   ]
 }
