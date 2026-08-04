@@ -1,29 +1,31 @@
 {
-  "sentence": "Your frenemy cannot find you in a weafloaf room.",
-  "date": "2026-08-03",
-  "theme": "identity",
+  "sentence": "Nonbosis will keep you off the parkench when it matters most.",
+  "date": "2026-08-04",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Weafloaf",
+      "word": "Parkench",
       "components": [
-        "We AF",
-        "Lowkey AF"
+        "Park",
+        "Bench"
       ],
-      "definition": "The lowkey, collective version of being fully yourselves together \u2014 a group operating at peak authenticity in a chill, understated way.",
-      "part_of_speech": "Adjective",
-      "theme": "identity",
-      "example": "No pressure, no performance \u2014 just the whole squad being weafloaf."
+      "definition": "A park bench \u2014 the quintessential wombo setting for outdoor emotional events, breakups, ponchalashouts, and quiche loreaining sessions. Used as a noun for both the object and the vibe.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": ""
     },
     {
-      "word": "Frenemy",
+      "word": "Nonbosis",
       "components": [
-        "Friend",
-        "Enemy"
+        "No",
+        "Word",
+        "Combo",
+        "Diagnosis"
       ],
-      "definition": "A person who acts as a friend but is simultaneously a rival or adversary \u2014 someone whose friendship is tinged with competition or hostility.",
+      "definition": "The condition of refusing to use wombos \u2014 a diagnosed absence of wombosis. 'That bropp is a womboclat. He refuses to put words together. He's in a deep state of nonbosis.'",
       "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "She congratulates me every time I win, but I know she's my frenemy."
+      "theme": "humor",
+      "example": ""
     }
   ]
 }
