@@ -1,31 +1,30 @@
 {
-  "sentence": "Nonbosis will keep you off the parkench when it matters most.",
-  "date": "2026-08-04",
-  "theme": "emotion",
+  "sentence": "Five candidates (internal):\n\n1. \"No cisally delivers VQP to a crowd that came for the trailer.\" \u2014 12 words. Scores: Shareable(1), Concrete(1 \u2014 crowd, trailer), Tight(1), Clean(1) = 4/4\n\n2. \"Your VQP cannot land in a room a cisally hasn't warmed.\" \u2014 12 words. Scores: Shareable(1), Concrete(1 \u2014 room), Tight(1), Clean(1) = 4/4\n\n3. \"Bring your VQP. Let the cisally hold the door.\" \u2014 9 words. Scores: Shareable(1), Concrete(1 \u2014 door), Tight(1), Clean(1) = 4/4\n\n4. \"Never read your VQP aloud before the cisally finds a seat.\" \u2014 12 words. Scores: Shareable(1), Concrete(1 \u2014 seat), Tight(1), Clean(1) = 4/4\n\n5. \"Even VQP lands harder when a cisally carries it in.\" \u2014 10",
+  "date": "2026-08-05",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Parkench",
+      "word": "VQP",
       "components": [
-        "Park",
-        "Bench"
+        "Very",
+        "Quiche",
+        "Peanemis"
       ],
-      "definition": "A park bench \u2014 the quintessential wombo setting for outdoor emotional events, breakups, ponchalashouts, and quiche loreaining sessions. Used as a noun for both the object and the vibe.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": ""
+      "definition": "A very quiche peanemis \u2014 a peak cinema analysis that is distinctly quirky and niche in its angle or subject matter.",
+      "part_of_speech": "Phrase",
+      "theme": "cinema",
+      "example": "His deep dive into that obscure animated short was a VQP."
     },
     {
-      "word": "Nonbosis",
+      "word": "Cisally",
       "components": [
-        "No",
-        "Word",
-        "Combo",
-        "Diagnosis"
+        "Cisgender",
+        "Ally"
       ],
-      "definition": "The condition of refusing to use wombos \u2014 a diagnosed absence of wombosis. 'That bropp is a womboclat. He refuses to put words together. He's in a deep state of nonbosis.'",
+      "definition": "A cisgender person who is an active ally to LGBTQ+ people \u2014 someone who uses their cis identity as a platform for support and advocacy.",
       "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "theme": "identity",
+      "example": "She shows up to every pride event \u2014 she's a real cisally."
     }
   ]
 }
