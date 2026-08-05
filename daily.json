@@ -1,30 +1,31 @@
 {
-  "sentence": "Five candidates (internal):\n\n1. \"No cisally delivers VQP to a crowd that came for the trailer.\" \u2014 12 words. Scores: Shareable(1), Concrete(1 \u2014 crowd, trailer), Tight(1), Clean(1) = 4/4\n\n2. \"Your VQP cannot land in a room a cisally hasn't warmed.\" \u2014 12 words. Scores: Shareable(1), Concrete(1 \u2014 room), Tight(1), Clean(1) = 4/4\n\n3. \"Bring your VQP. Let the cisally hold the door.\" \u2014 9 words. Scores: Shareable(1), Concrete(1 \u2014 door), Tight(1), Clean(1) = 4/4\n\n4. \"Never read your VQP aloud before the cisally finds a seat.\" \u2014 12 words. Scores: Shareable(1), Concrete(1 \u2014 seat), Tight(1), Clean(1) = 4/4\n\n5. \"Even VQP lands harder when a cisally carries it in.\" \u2014 10",
+  "sentence": "Smilaria fills the room. Your lowkeyoui is enough \u2014 stay seated.",
   "date": "2026-08-05",
-  "theme": "cinema",
+  "theme": "personality",
   "wombos": [
     {
-      "word": "VQP",
+      "word": "Smilaria",
       "components": [
-        "Very",
-        "Quiche",
-        "Peanemis"
+        "Smile",
+        "Hilaria",
+        "Aura"
       ],
-      "definition": "A very quiche peanemis \u2014 a peak cinema analysis that is distinctly quirky and niche in its angle or subject matter.",
-      "part_of_speech": "Phrase",
-      "theme": "cinema",
-      "example": "His deep dive into that obscure animated short was a VQP."
+      "definition": "The radiant, hilarious aura of a person whose smile and energy fill a room \u2014 a charismatic presence that is both funny and warm.",
+      "part_of_speech": "Noun",
+      "theme": "personality",
+      "example": "She walked in and her smilaria had everyone loosening up immediately."
     },
     {
-      "word": "Cisally",
+      "word": "Lowkeyoui",
       "components": [
-        "Cisgender",
-        "Ally"
+        "Lowkey",
+        "Ouu",
+        "Shi"
       ],
-      "definition": "A cisgender person who is an active ally to LGBTQ+ people \u2014 someone who uses their cis identity as a platform for support and advocacy.",
-      "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "She shows up to every pride event \u2014 she's a real cisally."
+      "definition": "A subdued or understated ouu-shi reaction \u2014 the quiet, internal acknowledgment of something impressive or attractive, felt but not loudly expressed.",
+      "part_of_speech": "Phrase",
+      "theme": "attraction",
+      "example": "I didn't say anything, but it was lowkeyoui when she walked past."
     }
   ]
 }
