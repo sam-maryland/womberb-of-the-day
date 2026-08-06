@@ -1,31 +1,30 @@
 {
-  "sentence": "Smilaria fills the room. Your lowkeyoui is enough \u2014 stay seated.",
-  "date": "2026-08-05",
-  "theme": "personality",
+  "sentence": "Never enter a huzzitorium mid-twousinado.",
+  "date": "2026-08-06",
+  "theme": "romance",
   "wombos": [
     {
-      "word": "Smilaria",
+      "word": "Huzzitorium",
       "components": [
-        "Smile",
-        "Hilaria",
-        "Aura"
+        "Huzz",
+        "Auditorium"
       ],
-      "definition": "The radiant, hilarious aura of a person whose smile and energy fill a room \u2014 a charismatic presence that is both funny and warm.",
+      "definition": "A venue or setting full of eligible women \u2014 a place brimming with romantic potential. 'Huzz' is slang for a woman. Like an auditorium, but for meeting women.",
       "part_of_speech": "Noun",
-      "theme": "personality",
-      "example": "She walked in and her smilaria had everyone loosening up immediately."
+      "theme": "romance",
+      "example": ""
     },
     {
-      "word": "Lowkeyoui",
+      "word": "Twousinado",
       "components": [
-        "Lowkey",
-        "Ouu",
-        "Shi"
+        "Twin",
+        "Cousin",
+        "Tornado"
       ],
-      "definition": "A subdued or understated ouu-shi reaction \u2014 the quiet, internal acknowledgment of something impressive or attractive, felt but not loudly expressed.",
-      "part_of_speech": "Phrase",
-      "theme": "attraction",
-      "example": "I didn't say anything, but it was lowkeyoui when she walked past."
+      "definition": "A cousin who is so close they function as a twin, and together you two create a whirlwind of chaos \u2014 a tornado of twin-cousin energy wherever you go.",
+      "part_of_speech": "Noun",
+      "theme": "relationships",
+      "example": "Me and my twousinado showed up to the cookout and immediately caused a scene."
     }
   ]
 }
