@@ -1,30 +1,29 @@
 {
-  "sentence": "Nonchalaxxing fools no OuiG. Put the crash down first.",
-  "date": "2026-08-07",
-  "theme": "emotion",
+  "sentence": "Analvise cletty before the room does it for you.",
+  "date": "2026-08-08",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Nonchalaxxing",
+      "word": "Cletty",
       "components": [
-        "Nonchalant",
-        "Crashout",
-        "Maxxing"
+        "Clever",
+        "Petty"
       ],
-      "definition": "Leaning fully into nonchalashout behavior \u2014 maxxing out the performance of calm while internally spiraling. Going as nonchalashout as humanly possible.",
-      "part_of_speech": "Verb",
-      "theme": "emotion",
+      "definition": "Petty in a calculated, intelligent way \u2014 not just being small but being strategically, satisfyingly petty. The kind of move that is both lowkey impressive and completely unnecessary.",
+      "part_of_speech": "Adjective",
+      "theme": "humor",
       "example": ""
     },
     {
-      "word": "OuiG",
+      "word": "Analvise",
       "components": [
-        "Ouu Shi",
-        "OG"
+        "Analysis",
+        "Revise"
       ],
-      "definition": "An OG who also carries that premium, exclusive energy \u2014 someone who is both original and elite in status.",
-      "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "That man is not just an OG, he's a straight OuiG."
+      "definition": "The verb form of analvision \u2014 to analyze and revise something on the spot. Used when someone needs to rethink their approach in real time: 'You need to analvise yourself.'",
+      "part_of_speech": "Verb",
+      "theme": "cinema",
+      "example": ""
     }
   ]
 }
