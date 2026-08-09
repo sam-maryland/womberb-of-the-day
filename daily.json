@@ -1,29 +1,29 @@
 {
-  "sentence": "Analvise cletty before the room does it for you.",
-  "date": "2026-08-08",
-  "theme": "humor",
+  "sentence": "No peap lands on a peanius still clutching yesterday's ceiling.",
+  "date": "2026-08-09",
+  "theme": "intellect",
   "wombos": [
     {
-      "word": "Cletty",
+      "word": "Peanius",
       "components": [
-        "Clever",
-        "Petty"
+        "Peak",
+        "Genius"
       ],
-      "definition": "Petty in a calculated, intelligent way \u2014 not just being small but being strategically, satisfyingly petty. The kind of move that is both lowkey impressive and completely unnecessary.",
-      "part_of_speech": "Adjective",
-      "theme": "humor",
-      "example": ""
+      "definition": "A person who operates at the intersection of peak performance and genius-level intellect \u2014 someone both exceptionally intelligent and impressively capable.",
+      "part_of_speech": "Noun",
+      "theme": "intellect",
+      "example": "Everyone in the room knew they were dealing with a certified peanius."
     },
     {
-      "word": "Analvise",
+      "word": "Peap",
       "components": [
-        "Analysis",
-        "Revise"
+        "Peak",
+        "Pep"
       ],
-      "definition": "The verb form of analvision \u2014 to analyze and revise something on the spot. Used when someone needs to rethink their approach in real time: 'You need to analvise yourself.'",
-      "part_of_speech": "Verb",
-      "theme": "cinema",
-      "example": ""
+      "definition": "A peak pep talk \u2014 an exceptionally powerful or uplifting form of encouragement that brings someone to their best self.",
+      "part_of_speech": "Noun",
+      "theme": "motivation",
+      "example": "He wasn't feeling it, so I gave him a peap talk before the big moment."
     }
   ]
 }
