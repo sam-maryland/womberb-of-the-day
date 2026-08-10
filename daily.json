@@ -1,29 +1,30 @@
 {
-  "sentence": "No peap lands on a peanius still clutching yesterday's ceiling.",
-  "date": "2026-08-09",
-  "theme": "intellect",
+  "sentence": "Fui the auriche you cannot carry without borrowing someone else's room.",
+  "date": "2026-08-10",
+  "theme": "energy",
   "wombos": [
     {
-      "word": "Peanius",
+      "word": "Auriche",
       "components": [
-        "Peak",
-        "Genius"
+        "Aura",
+        "Niche"
       ],
-      "definition": "A person who operates at the intersection of peak performance and genius-level intellect \u2014 someone both exceptionally intelligent and impressively capable.",
+      "definition": "A highly specific, niche-flavored aura \u2014 the distinct presence someone carries that belongs to a very particular aesthetic or subculture.",
       "part_of_speech": "Noun",
-      "theme": "intellect",
-      "example": "Everyone in the room knew they were dealing with a certified peanius."
+      "theme": "energy",
+      "example": "Her whole fit gave off this very specific auriche that only a few people would even recognize."
     },
     {
-      "word": "Peap",
+      "word": "Fui",
       "components": [
-        "Peak",
-        "Pep"
+        "Fym",
+        "Ouu",
+        "Shi"
       ],
-      "definition": "A peak pep talk \u2014 an exceptionally powerful or uplifting form of encouragement that brings someone to their best self.",
-      "part_of_speech": "Noun",
-      "theme": "motivation",
-      "example": "He wasn't feeling it, so I gave him a peap talk before the big moment."
+      "definition": "An expression of disapproval directed at someone displaying unsolicited, overbearing, or inappropriate attraction toward another person \u2014 a sharper, more dismissive version of Oui.",
+      "part_of_speech": "Phrase",
+      "theme": "social",
+      "example": "He would not stop staring, so I just looked over and said, 'Fui.'"
     }
   ]
 }
