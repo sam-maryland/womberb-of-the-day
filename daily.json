@@ -1,30 +1,29 @@
 {
-  "sentence": "Sonrealistic plans dissolve. Only a wombersation will tell you which ones.",
-  "date": "2026-08-11",
-  "theme": "social",
+  "sentence": "Lookstaxxing at a brobeque guarantees you leave with someone else's shirt.",
+  "date": "2026-08-12",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Sonrealistic",
+      "word": "Lookstaxxing",
       "components": [
-        "Son",
-        "Unrealistic"
+        "Looksmaxxing",
+        "Fanum Tax"
       ],
-      "definition": "Unrealistic in a son-coded way \u2014 expectations or claims that are outlandish but delivered with full son confidence.",
-      "part_of_speech": "Adjective",
-      "theme": "social",
-      "example": "That plan is completely sonrealistic, but I respect the vision."
-    },
-    {
-      "word": "Wombersation",
-      "components": [
-        "Word",
-        "Combo",
-        "Conversation"
-      ],
-      "definition": "A conversation conducted entirely in wombos \u2014 a wombo-to-wombo exchange between two cunninlinguists. The highest form of meso communication.",
-      "part_of_speech": "Noun",
+      "definition": "Stealing or copying someone's look or style \u2014 taxing their appearance the way fanum tax works on food, but applied to aesthetics. 'He stole my sunglasses. He's just lookstaxxing.'",
+      "part_of_speech": "Verb",
       "theme": "humor",
       "example": ""
+    },
+    {
+      "word": "Brobeque",
+      "components": [
+        "Bro",
+        "Barbecue"
+      ],
+      "definition": "A barbecue attended entirely by bros \u2014 meat, lawn chairs, and minimal conversation. The cookout's male-coded form.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
+      "example": "Pulling up to the brobeque with a 24-pack and zero notes."
     }
   ]
 }
