@@ -1,29 +1,29 @@
 {
-  "sentence": "Lookstaxxing at a brobeque guarantees you leave with someone else's shirt.",
-  "date": "2026-08-12",
-  "theme": "humor",
+  "sentence": "Never let a twimposter near a buncin man's grill.",
+  "date": "2026-08-13",
+  "theme": "quality",
   "wombos": [
     {
-      "word": "Lookstaxxing",
+      "word": "Buncin",
       "components": [
-        "Looksmaxxing",
-        "Fanum Tax"
+        "Bussin",
+        "Unc"
       ],
-      "definition": "Stealing or copying someone's look or style \u2014 taxing their appearance the way fanum tax works on food, but applied to aesthetics. 'He stole my sunglasses. He's just lookstaxxing.'",
-      "part_of_speech": "Verb",
-      "theme": "humor",
-      "example": ""
+      "definition": "An unc who is bussin \u2014 an older man whose food, style, or energy is exceptionally good.",
+      "part_of_speech": "Adjective",
+      "theme": "quality",
+      "example": "Grandpa's ribs were buncin at the cookout."
     },
     {
-      "word": "Brobeque",
+      "word": "Twimposter",
       "components": [
-        "Bro",
-        "Barbecue"
+        "Twin",
+        "Imposter"
       ],
-      "definition": "A barbecue attended entirely by bros \u2014 meat, lawn chairs, and minimal conversation. The cookout's male-coded form.",
+      "definition": "Someone who pretends to be your twin or twin-coded equivalent \u2014 a fake counterpart who mimics your identity or vibe without the genuine connection.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "Pulling up to the brobeque with a 24-pack and zero notes."
+      "theme": "identity",
+      "example": "Don't trust him \u2014 he's a twimposter trying to copy everything I do."
     }
   ]
 }
