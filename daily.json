@@ -1,29 +1,33 @@
 {
-  "sentence": "Never let a twimposter near a buncin man's grill.",
-  "date": "2026-08-13",
-  "theme": "quality",
+  "sentence": "Jorkpeanemis deserves more than colledge ears in the room.",
+  "date": "2026-08-14",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Buncin",
+      "word": "Jorkpeanemis",
       "components": [
-        "Bussin",
-        "Unc"
+        "John",
+        "Pork",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "An unc who is bussin \u2014 an older man whose food, style, or energy is exceptionally good.",
-      "part_of_speech": "Adjective",
-      "theme": "quality",
-      "example": "Grandpa's ribs were buncin at the cookout."
+      "definition": "A peak cinema analysis specifically related to John Pork. A peanemis that centers on John Pork content, lore, or energy.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": "She broke down every John Pork video frame by frame \u2014 that's a full Jorkpeanemis."
     },
     {
-      "word": "Twimposter",
+      "word": "colledge",
       "components": [
-        "Twin",
-        "Imposter"
+        "Common",
+        "Ball",
+        "Knowledge"
       ],
-      "definition": "Someone who pretends to be your twin or twin-coded equivalent \u2014 a fake counterpart who mimics your identity or vibe without the genuine connection.",
+      "definition": "Common ball knowledge \u2014 a baseline level of balledge that is widely shared and unremarkable, the community-college tier of game and insight.",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "Don't trust him \u2014 he's a twimposter trying to copy everything I do."
+      "theme": "intelligence",
+      "example": "His takes on the situation were pure colledge \u2014 nothing we hadn't already heard."
     }
   ]
 }
