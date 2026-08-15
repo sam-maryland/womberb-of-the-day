@@ -1,33 +1,29 @@
 {
-  "sentence": "Jorkpeanemis deserves more than colledge ears in the room.",
-  "date": "2026-08-14",
-  "theme": "cinema",
+  "sentence": "Spend your lazernoon nonchalassionate. The work will still be there.",
+  "date": "2026-08-15",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Jorkpeanemis",
+      "word": "Nonchalassionate",
       "components": [
-        "John",
-        "Pork",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Nonchalant",
+        "Passionately"
       ],
-      "definition": "A peak cinema analysis specifically related to John Pork. A peanemis that centers on John Pork content, lore, or energy.",
-      "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "She broke down every John Pork video frame by frame \u2014 that's a full Jorkpeanemis."
+      "definition": "Deeply passionate about something but expressing it with total chill and ease \u2014 intensely into it without seeming try-hard or desperate. Passionate on the inside, unbothered on the outside.",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
+      "example": ""
     },
     {
-      "word": "colledge",
+      "word": "Lazernoon",
       "components": [
-        "Common",
-        "Ball",
-        "Knowledge"
+        "Lazy",
+        "Afternoon"
       ],
-      "definition": "Common ball knowledge \u2014 a baseline level of balledge that is widely shared and unremarkable, the community-college tier of game and insight.",
+      "definition": "A slow, unhurried afternoon spent doing little \u2014 the peak hours of a lazy day when productivity is fully abandoned.",
       "part_of_speech": "Noun",
-      "theme": "intelligence",
-      "example": "His takes on the situation were pure colledge \u2014 nothing we hadn't already heard."
+      "theme": "lifestyle",
+      "example": "I spent the whole lazernoon on the porch, not thinking about anything."
     }
   ]
 }
