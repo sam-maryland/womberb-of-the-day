@@ -1,29 +1,30 @@
 {
-  "sentence": "Spend your lazernoon nonchalassionate. The work will still be there.",
-  "date": "2026-08-15",
-  "theme": "emotion",
+  "sentence": "Lawnchalashout fools the street. Jork chiquin fools no one.",
+  "date": "2026-08-16",
+  "theme": "personality",
   "wombos": [
     {
-      "word": "Nonchalassionate",
+      "word": "Jork Chiquin",
       "components": [
-        "Nonchalant",
-        "Passionately"
+        "John Pork",
+        "Chill",
+        "Quintessential"
       ],
-      "definition": "Deeply passionate about something but expressing it with total chill and ease \u2014 intensely into it without seeming try-hard or desperate. Passionate on the inside, unbothered on the outside.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": ""
+      "definition": "The quintessentially chill John Pork \u2014 the most perfectly relaxed, archetypal expression of John Pork energy.",
+      "part_of_speech": "Noun",
+      "theme": "personality",
+      "example": "He wasn't stressed at all \u2014 full jork chiquin mode."
     },
     {
-      "word": "Lazernoon",
+      "word": "Lawnchalashout",
       "components": [
-        "Lazy",
-        "Afternoon"
+        "Front Lawn",
+        "Nonchalashout"
       ],
-      "definition": "A slow, unhurried afternoon spent doing little \u2014 the peak hours of a lazy day when productivity is fully abandoned.",
+      "definition": "A nonchalashout staged on the front lawn \u2014 outwardly cutting grass, inwardly unraveling. Suburban-coded.",
       "part_of_speech": "Noun",
-      "theme": "lifestyle",
-      "example": "I spent the whole lazernoon on the porch, not thinking about anything."
+      "theme": "emotion",
+      "example": "Dad's been mowing the same strip for an hour \u2014 full lawnchalashout."
     }
   ]
 }
