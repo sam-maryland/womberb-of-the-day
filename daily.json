@@ -1,29 +1,28 @@
 {
-  "sentence": "Wombosis without ball shweady is just noise wearing a lab coat.\n\n---\n\nThat trips the deflating equation ban (\"is just a\" shape). Restart.\n\n---\n\n**Five candidates (both words required):**\n\n1. You cannot cure wombosis in a room where nothing is ball shweady.\n2. Ball shweady first. Wombosis will find you soon enough.\n3. Bring your wombosis ball shweady or leave it in the car.\n4. No wombosis lands clean unless the mouth is ball shweady.\n5. Feed your wombosis only when you are ball shweady to catch what comes out.\n\n**Scoring:**\n\n1. Shareable 1, Concrete 0 (room is weak, no action), Tight 1 (11 words), Clean 1 \u2192 **3**\n2. Shareable 1, Concrete 0, Tight 1 (7 words), Clean 1 \u2192 **3**\n3. Shareable 1, Concrete 1 (leave it in the car), Tight 1 (11 words),",
-  "date": "2026-08-17",
-  "theme": "preparation",
+  "sentence": "Sarcapstically delivered, a ballpoint peanemis still lands in the chest.",
+  "date": "2026-08-18",
+  "theme": "analysis",
   "wombos": [
     {
-      "word": "Ball Shweady",
+      "word": "Ballpoint Peanemis",
       "components": [
-        "Sharp",
-        "Warmed Up",
-        "Ready"
+        "Ball",
+        "3-Pointer",
+        "Peanemis"
       ],
-      "definition": "The state of being sharp, warmed up, and fully ready \u2014 mentally and physically primed to perform or absorb at the highest level.",
-      "part_of_speech": "Adjective",
-      "theme": "preparation",
-      "example": "I can't walk into that lecture unless I'm ball shweady \u2014 I need to review my notes first."
+      "definition": "A precisely delivered breakdown or story that lands cleanly, like nailing a 3-pointer \u2014 a peak cinema analysis with perfect accuracy.",
+      "part_of_speech": "Noun",
+      "theme": "analysis",
+      "example": "He dropped such a ballpoint peanemis on the finale that the whole chat went silent."
     },
     {
-      "word": "Wombosis",
+      "word": "Sarcapstically",
       "components": [
-        "Word",
-        "Combo",
-        "Diagnosis"
+        "Cap",
+        "Sarcastically"
       ],
-      "definition": "The condition of being chronically addicted to wombos \u2014 a diagnosis for someone who can't stop combining words. 'He's got a deep case of wombosis.' The opposite condition is nonbosis.",
-      "part_of_speech": "Noun",
+      "definition": "Sarcastically, with an added layer of cap \u2014 saying something so sarcastic it signals the opposite is true. The verbal equivalent of air quotes plus a knowing side-eye.",
+      "part_of_speech": "Adverb",
       "theme": "humor",
       "example": ""
     }
