@@ -1,29 +1,30 @@
 {
-  "sentence": "Sarcapstically delivered, a ballpoint peanemis still lands in the chest.",
-  "date": "2026-08-18",
-  "theme": "analysis",
+  "sentence": "No peanemenomenon survives the clovid it never saw coming.",
+  "date": "2026-08-19",
+  "theme": "media",
   "wombos": [
     {
-      "word": "Ballpoint Peanemis",
+      "word": "Clovid",
       "components": [
-        "Ball",
-        "3-Pointer",
-        "Peanemis"
+        "Clocked",
+        "Video"
       ],
-      "definition": "A precisely delivered breakdown or story that lands cleanly, like nailing a 3-pointer \u2014 a peak cinema analysis with perfect accuracy.",
+      "definition": "A video that has been clocked \u2014 a recording that exposes or calls out exactly what is going on.",
       "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "He dropped such a ballpoint peanemis on the finale that the whole chat went silent."
+      "theme": "media",
+      "example": "He posted a clovid and now everyone knows what really happened."
     },
     {
-      "word": "Sarcapstically",
+      "word": "Peanemenomenon",
       "components": [
-        "Cap",
-        "Sarcastically"
+        "Peak",
+        "Cinema",
+        "Analysis",
+        "Phenomenon"
       ],
-      "definition": "Sarcastically, with an added layer of cap \u2014 saying something so sarcastic it signals the opposite is true. The verbal equivalent of air quotes plus a knowing side-eye.",
-      "part_of_speech": "Adverb",
-      "theme": "humor",
+      "definition": "The cultural phenomenon that is the peanemis \u2014 the viral, widespread explosion of the peanemis concept across the internet. 'The whole quiche peanemenomenon has led to a lot of bropportunities.'",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
       "example": ""
     }
   ]
