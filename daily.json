@@ -1,31 +1,29 @@
 {
-  "sentence": "No peanemenomenon survives the clovid it never saw coming.",
-  "date": "2026-08-19",
-  "theme": "media",
+  "sentence": "Capsolutely ruins a real nonchalaura faster than asking for one.",
+  "date": "2026-08-20",
+  "theme": "opinion",
   "wombos": [
     {
-      "word": "Clovid",
+      "word": "Capsolutely",
       "components": [
-        "Clocked",
-        "Video"
+        "Cap",
+        "Absolutely"
       ],
-      "definition": "A video that has been clocked \u2014 a recording that exposes or calls out exactly what is going on.",
-      "part_of_speech": "Noun",
-      "theme": "media",
-      "example": "He posted a clovid and now everyone knows what really happened."
+      "definition": "A sarcastic agreement that implies the opposite \u2014 used to call someone out for lying (capping) while appearing to agree. 'Cap' is internet slang for lying. Equivalent to 'yeah, sure, absolutely not.'",
+      "part_of_speech": "Adjective",
+      "theme": "opinion",
+      "example": ""
     },
     {
-      "word": "Peanemenomenon",
+      "word": "Nonchalaura",
       "components": [
-        "Peak",
-        "Cinema",
-        "Analysis",
-        "Phenomenon"
+        "Nonchalant",
+        "Aura"
       ],
-      "definition": "The cultural phenomenon that is the peanemis \u2014 the viral, widespread explosion of the peanemis concept across the internet. 'The whole quiche peanemenomenon has led to a lot of bropportunities.'",
+      "definition": "A cool, unbothered aura \u2014 the effortless, low-effort energy that someone naturally exudes without trying.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": ""
+      "theme": "energy",
+      "example": "He didn't say a word the whole time, but his nonchalaura was immaculate."
     }
   ]
 }
