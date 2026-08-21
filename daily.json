@@ -1,29 +1,29 @@
 {
-  "sentence": "Capsolutely ruins a real nonchalaura faster than asking for one.",
-  "date": "2026-08-20",
-  "theme": "opinion",
+  "sentence": "Brokeydokey at the curb beats a lawnchalashout in the driveway.",
+  "date": "2026-08-21",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Capsolutely",
+      "word": "Lawnchalashout",
       "components": [
-        "Cap",
-        "Absolutely"
+        "Front Lawn",
+        "Nonchalashout"
       ],
-      "definition": "A sarcastic agreement that implies the opposite \u2014 used to call someone out for lying (capping) while appearing to agree. 'Cap' is internet slang for lying. Equivalent to 'yeah, sure, absolutely not.'",
-      "part_of_speech": "Adjective",
-      "theme": "opinion",
-      "example": ""
+      "definition": "A nonchalashout staged on the front lawn \u2014 outwardly cutting grass, inwardly unraveling. Suburban-coded.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": "Dad's been mowing the same strip for an hour \u2014 full lawnchalashout."
     },
     {
-      "word": "Nonchalaura",
+      "word": "Brokeydokey",
       "components": [
-        "Nonchalant",
-        "Aura"
+        "Broke",
+        "Okey Dokey"
       ],
-      "definition": "A cool, unbothered aura \u2014 the effortless, low-effort energy that someone naturally exudes without trying.",
-      "part_of_speech": "Noun",
-      "theme": "energy",
-      "example": "He didn't say a word the whole time, but his nonchalaura was immaculate."
+      "definition": "An expression of agreement or acknowledgment that someone is broke. Used to accept or confirm a friend's lack of funds without judgment.",
+      "part_of_speech": "Phrase",
+      "theme": "finance",
+      "example": "He said he couldn't make it to the huzzitorium, and I just said brokeydokey."
     }
   ]
 }
