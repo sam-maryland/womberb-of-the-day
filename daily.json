@@ -1,29 +1,29 @@
 {
-  "sentence": "Brokeydokey at the curb beats a lawnchalashout in the driveway.",
-  "date": "2026-08-21",
-  "theme": "emotion",
+  "sentence": "Summadness left at the door won't reach your sonificant other by morning.",
+  "date": "2026-08-22",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Lawnchalashout",
+      "word": "Sonificant other",
       "components": [
-        "Front Lawn",
-        "Nonchalashout"
+        "Son",
+        "Significant other"
       ],
-      "definition": "A nonchalashout staged on the front lawn \u2014 outwardly cutting grass, inwardly unraveling. Suburban-coded.",
+      "definition": "A significant other who carries son energy \u2014 a romantic partner you regard with that grounded, familiar affection.",
       "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "Dad's been mowing the same strip for an hour \u2014 full lawnchalashout."
+      "theme": "relationships",
+      "example": "She's not just my girlfriend, she's my sonificant other."
     },
     {
-      "word": "Brokeydokey",
+      "word": "Summadness",
       "components": [
-        "Broke",
-        "Okey Dokey"
+        "Summertime Sadness",
+        "Sadness"
       ],
-      "definition": "An expression of agreement or acknowledgment that someone is broke. Used to accept or confirm a friend's lack of funds without judgment.",
-      "part_of_speech": "Phrase",
-      "theme": "finance",
-      "example": "He said he couldn't make it to the huzzitorium, and I just said brokeydokey."
+      "definition": "The particular melancholy of summertime \u2014 a bittersweet emotional haze that settles in during warm, long days, often tied to nostalgia or longing.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": "Watching the sun set over the lake hit me with a wave of summadness."
     }
   ]
 }
