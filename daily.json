@@ -1,29 +1,29 @@
 {
-  "sentence": "Summadness left at the door won't reach your sonificant other by morning.",
-  "date": "2026-08-22",
-  "theme": "relationships",
+  "sentence": "Boomered is no place to have your egrack.",
+  "date": "2026-08-23",
+  "theme": "social",
   "wombos": [
     {
-      "word": "Sonificant other",
+      "word": "Boomered",
       "components": [
-        "Son",
-        "Significant other"
+        "Boozy",
+        "Hammered"
       ],
-      "definition": "A significant other who carries son energy \u2014 a romantic partner you regard with that grounded, familiar affection.",
-      "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "She's not just my girlfriend, she's my sonificant other."
+      "definition": "The state of being both boozy and hammered \u2014 thoroughly intoxicated, beyond merely tipsy. A stronger, more emphatic form of being twinebriated.",
+      "part_of_speech": "Adjective",
+      "theme": "social",
+      "example": "He was completely boomered by halftime and could barely stand up."
     },
     {
-      "word": "Summadness",
+      "word": "Egrack",
       "components": [
-        "Summertime Sadness",
-        "Sadness"
+        "Egg",
+        "Crack"
       ],
-      "definition": "The particular melancholy of summertime \u2014 a bittersweet emotional haze that settles in during warm, long days, often tied to nostalgia or longing.",
+      "definition": "The moment a person realizes or comes to terms with their true gender identity \u2014 the cracking of the metaphorical egg.",
       "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "Watching the sun set over the lake hit me with a wave of summadness."
+      "theme": "identity",
+      "example": "Looking back, that conversation was basically her egrack."
     }
   ]
 }
