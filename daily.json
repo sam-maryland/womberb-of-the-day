@@ -1,29 +1,29 @@
 {
-  "sentence": "Boomered is no place to have your egrack.",
-  "date": "2026-08-23",
-  "theme": "social",
+  "sentence": "Brarpe diem dies the moment you name the yallpapiminace.",
+  "date": "2026-08-24",
+  "theme": "motivation",
   "wombos": [
     {
-      "word": "Boomered",
+      "word": "Brarpe Diem",
       "components": [
-        "Boozy",
-        "Hammered"
+        "Bro",
+        "Carpe Diem"
       ],
-      "definition": "The state of being both boozy and hammered \u2014 thoroughly intoxicated, beyond merely tipsy. A stronger, more emphatic form of being twinebriated.",
-      "part_of_speech": "Adjective",
-      "theme": "social",
-      "example": "He was completely boomered by halftime and could barely stand up."
+      "definition": "A casual, bro-inflected call to seize the day \u2014 the laid-back, buddy-addressed version of 'Carpe Diem.'",
+      "part_of_speech": "Phrase",
+      "theme": "motivation",
+      "example": "Stop overthinking it and just go talk to her \u2014 brarpe diem."
     },
     {
-      "word": "Egrack",
+      "word": "Yallpapiminace",
       "components": [
-        "Egg",
-        "Crack"
+        "Yellow Wallpapered",
+        "Liminal Space"
       ],
-      "definition": "The moment a person realizes or comes to terms with their true gender identity \u2014 the cracking of the metaphorical egg.",
+      "definition": "A yellow-wallpapered liminal space \u2014 an eerie, in-between environment that feels simultaneously familiar and deeply unsettling, like an endless backrooms hallway.",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "Looking back, that conversation was basically her egrack."
+      "theme": "atmosphere",
+      "example": "That empty mall food court at 7 a.m. was a total yallpapiminace."
     }
   ]
 }
