@@ -1,29 +1,29 @@
 {
-  "sentence": "Brarpe diem dies the moment you name the yallpapiminace.",
-  "date": "2026-08-24",
-  "theme": "motivation",
+  "sentence": "Demimore peadom cannot be handed to you. Go find the open road.",
+  "date": "2026-08-25",
+  "theme": "freedom",
   "wombos": [
     {
-      "word": "Brarpe Diem",
+      "word": "Peadom",
       "components": [
-        "Bro",
-        "Carpe Diem"
+        "Peak",
+        "Freedom"
       ],
-      "definition": "A casual, bro-inflected call to seize the day \u2014 the laid-back, buddy-addressed version of 'Carpe Diem.'",
-      "part_of_speech": "Phrase",
-      "theme": "motivation",
-      "example": "Stop overthinking it and just go talk to her \u2014 brarpe diem."
+      "definition": "The state of peak freedom \u2014 an unbounded, cinematic sense of liberty at its absolute highest.",
+      "part_of_speech": "Noun",
+      "theme": "freedom",
+      "example": "Firing off fireworks on an empty road \u2014 that's peadom."
     },
     {
-      "word": "Yallpapiminace",
+      "word": "Demimore",
       "components": [
-        "Yellow Wallpapered",
-        "Liminal Space"
+        "Demi",
+        "Evermore"
       ],
-      "definition": "A yellow-wallpapered liminal space \u2014 an eerie, in-between environment that feels simultaneously familiar and deeply unsettling, like an endless backrooms hallway.",
-      "part_of_speech": "Noun",
-      "theme": "atmosphere",
-      "example": "That empty mall food court at 7 a.m. was a total yallpapiminace."
+      "definition": "A state of being demi \u2014 demisexual or demiromantic \u2014 forever and without reservation, fully embracing that identity for the long haul.",
+      "part_of_speech": "Adjective",
+      "theme": "identity",
+      "example": "He's not questioning anymore \u2014 he's demimore and at peace with it."
     }
   ]
 }
