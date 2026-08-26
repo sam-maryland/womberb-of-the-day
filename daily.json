@@ -1,29 +1,29 @@
 {
-  "sentence": "Demimore peadom cannot be handed to you. Go find the open road.",
-  "date": "2026-08-25",
-  "theme": "freedom",
+  "sentence": "Every mogfather was once someone's sonsei first.",
+  "date": "2026-08-26",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Peadom",
+      "word": "Sonsei",
       "components": [
-        "Peak",
-        "Freedom"
+        "Son",
+        "Sensei"
       ],
-      "definition": "The state of peak freedom \u2014 an unbounded, cinematic sense of liberty at its absolute highest.",
+      "definition": "A respectable friend or mentor figure \u2014 someone you look up to who also moves with the energy of a 'son.' The authoritative counterpart to a sonbling.",
       "part_of_speech": "Noun",
-      "theme": "freedom",
-      "example": "Firing off fireworks on an empty road \u2014 that's peadom."
+      "theme": "relationships",
+      "example": "My sonsei walked in and immediately commanded the whole room."
     },
     {
-      "word": "Demimore",
+      "word": "Mogfather",
       "components": [
-        "Demi",
-        "Evermore"
+        "Mogging",
+        "Godfather"
       ],
-      "definition": "A state of being demi \u2014 demisexual or demiromantic \u2014 forever and without reservation, fully embracing that identity for the long haul.",
-      "part_of_speech": "Adjective",
-      "theme": "identity",
-      "example": "He's not questioning anymore \u2014 he's demimore and at peace with it."
+      "definition": "The undisputed master of mogging \u2014 someone who dominates in appearance or presence so thoroughly that they command respect the way a Godfather commands loyalty.",
+      "part_of_speech": "Noun",
+      "theme": "status",
+      "example": "Nobody steps into the room and owns it like he does \u2014 he's the Mogfather."
     }
   ]
 }
