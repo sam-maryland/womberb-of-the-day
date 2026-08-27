@@ -1,29 +1,29 @@
 {
-  "sentence": "Every mogfather was once someone's sonsei first.",
-  "date": "2026-08-26",
-  "theme": "relationships",
+  "sentence": "Kirkwalk now. Drop the IMHG after.",
+  "date": "2026-08-27",
+  "theme": "internet",
   "wombos": [
     {
-      "word": "Sonsei",
+      "word": "IMHG",
       "components": [
-        "Son",
-        "Sensei"
+        "In My Honest Opinion",
+        "Goonion"
       ],
-      "definition": "A respectable friend or mentor figure \u2014 someone you look up to who also moves with the energy of a 'son.' The authoritative counterpart to a sonbling.",
-      "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "My sonsei walked in and immediately commanded the whole room."
+      "definition": "In My Honest Goonion \u2014 the bro-internet acronym for staking a solid take. Used like IMHO, but specifically when you stand behind the opinion as a goonion (a genuinely good one).",
+      "part_of_speech": "Phrase",
+      "theme": "internet",
+      "example": "He drops a falasha 67 times a day, IMHG."
     },
     {
-      "word": "Mogfather",
+      "word": "Kirkwalk",
       "components": [
-        "Mogging",
-        "Godfather"
+        "Kirk",
+        "Cripwalk"
       ],
-      "definition": "The undisputed master of mogging \u2014 someone who dominates in appearance or presence so thoroughly that they command respect the way a Godfather commands loyalty.",
+      "definition": "A celebratory walk performed in the style of a cripwalk, done when excited \u2014 especially about scoring a Canebo at Cane's.",
       "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "Nobody steps into the room and owns it like he does \u2014 he's the Mogfather."
+      "theme": "movement",
+      "example": "He broke into a full Kirkwalk the moment he grabbed his Canebo."
     }
   ]
 }
