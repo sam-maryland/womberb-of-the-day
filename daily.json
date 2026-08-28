@@ -1,29 +1,29 @@
 {
-  "sentence": "Kirkwalk now. Drop the IMHG after.",
-  "date": "2026-08-27",
-  "theme": "internet",
+  "sentence": "Ouinergy fades. Don't be rizzappointed by the door you ran toward.",
+  "date": "2026-08-28",
+  "theme": "attraction",
   "wombos": [
     {
-      "word": "IMHG",
+      "word": "Ouinergy",
       "components": [
-        "In My Honest Opinion",
-        "Goonion"
+        "Ouu",
+        "Energy"
       ],
-      "definition": "In My Honest Goonion \u2014 the bro-internet acronym for staking a solid take. Used like IMHO, but specifically when you stand behind the opinion as a goonion (a genuinely good one).",
-      "part_of_speech": "Phrase",
-      "theme": "internet",
-      "example": "He drops a falasha 67 times a day, IMHG."
+      "definition": "The electrifying, excited energy that rushes through you when an attractive person walks into the room. Often a shared experience \u2014 two people can be ouinergistic simultaneously.",
+      "part_of_speech": "Noun",
+      "theme": "attraction",
+      "example": "The second she walked in, I felt pure ouinergy."
     },
     {
-      "word": "Kirkwalk",
+      "word": "Rizzappointed",
       "components": [
-        "Kirk",
-        "Cripwalk"
+        "Rizz",
+        "Disappointed"
       ],
-      "definition": "A celebratory walk performed in the style of a cripwalk, done when excited \u2014 especially about scoring a Canebo at Cane's.",
-      "part_of_speech": "Noun",
-      "theme": "movement",
-      "example": "He broke into a full Kirkwalk the moment he grabbed his Canebo."
+      "definition": "Let down by someone's rizz \u2014 disappointment that lands specifically because the charm-game was weaker than advertised.",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
+      "example": "You d'aven't held your own \u2014 I'm really rizzappointed."
     }
   ]
 }
