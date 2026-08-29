@@ -1,29 +1,30 @@
 {
-  "sentence": "Ouinergy fades. Don't be rizzappointed by the door you ran toward.",
-  "date": "2026-08-28",
-  "theme": "attraction",
+  "sentence": "Never ELIC a nonchalorkout already walking out the door.",
+  "date": "2026-08-29",
+  "theme": "johnpork",
   "wombos": [
     {
-      "word": "Ouinergy",
+      "word": "Nonchalorkout",
       "components": [
-        "Ouu",
-        "Energy"
+        "Nonchalant",
+        "John Pork",
+        "Crashout"
       ],
-      "definition": "The electrifying, excited energy that rushes through you when an attractive person walks into the room. Often a shared experience \u2014 two people can be ouinergistic simultaneously.",
+      "definition": "A nonchalant John Pork-style crashout \u2014 a meltdown delivered with unsettling calm.",
       "part_of_speech": "Noun",
-      "theme": "attraction",
-      "example": "The second she walked in, I felt pure ouinergy."
+      "theme": "johnpork",
+      "example": "He quit his job in a full nonchalorkout \u2014 no emotion, just walked out."
     },
     {
-      "word": "Rizzappointed",
+      "word": "ELIC",
       "components": [
-        "Rizz",
-        "Disappointed"
+        "Explain It Like I'm",
+        "Clavic"
       ],
-      "definition": "Let down by someone's rizz \u2014 disappointment that lands specifically because the charm-game was weaker than advertised.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "You d'aven't held your own \u2014 I'm really rizzappointed."
+      "definition": "Explain it like I'm Clavic \u2014 a request to break something down at a foundational, beginner-friendly level, as if explaining it to someone who is clavic on the topic.",
+      "part_of_speech": "Phrase",
+      "theme": "communication",
+      "example": "I've never seen the show \u2014 can you ELIC the whole plot?"
     }
   ]
 }
