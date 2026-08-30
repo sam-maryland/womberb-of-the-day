@@ -1,30 +1,29 @@
 {
-  "sentence": "Never ELIC a nonchalorkout already walking out the door.",
-  "date": "2026-08-29",
-  "theme": "johnpork",
+  "sentence": "Your redox won't happen twice. Enter the huzzitorium the first time.",
+  "date": "2026-08-30",
+  "theme": "experience",
   "wombos": [
     {
-      "word": "Nonchalorkout",
+      "word": "Redox",
       "components": [
-        "Nonchalant",
-        "John Pork",
-        "Crashout"
+        "Red Rocks",
+        "Reaction"
       ],
-      "definition": "A nonchalant John Pork-style crashout \u2014 a meltdown delivered with unsettling calm.",
+      "definition": "A powerful, almost chemical reaction one has upon visiting Red Rocks for the first time \u2014 an overwhelming sense of awe at the venue's natural beauty and atmosphere.",
       "part_of_speech": "Noun",
-      "theme": "johnpork",
-      "example": "He quit his job in a full nonchalorkout \u2014 no emotion, just walked out."
+      "theme": "experience",
+      "example": "The moment I walked into the amphitheater, I had a full redox \u2014 nothing could have prepared me for that view."
     },
     {
-      "word": "ELIC",
+      "word": "Huzzitorium",
       "components": [
-        "Explain It Like I'm",
-        "Clavic"
+        "Huzz",
+        "Auditorium"
       ],
-      "definition": "Explain it like I'm Clavic \u2014 a request to break something down at a foundational, beginner-friendly level, as if explaining it to someone who is clavic on the topic.",
-      "part_of_speech": "Phrase",
-      "theme": "communication",
-      "example": "I've never seen the show \u2014 can you ELIC the whole plot?"
+      "definition": "A venue or setting full of eligible women \u2014 a place brimming with romantic potential. 'Huzz' is slang for a woman. Like an auditorium, but for meeting women.",
+      "part_of_speech": "Noun",
+      "theme": "romance",
+      "example": ""
     }
   ]
 }
