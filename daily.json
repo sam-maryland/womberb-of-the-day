@@ -1,28 +1,28 @@
 {
-  "sentence": "Your redox won't happen twice. Enter the huzzitorium the first time.",
-  "date": "2026-08-30",
-  "theme": "experience",
+  "sentence": "Frogging ends. Don't ligurative choke on the opinion you swallowed.",
+  "date": "2026-08-31",
+  "theme": "opinion",
   "wombos": [
     {
-      "word": "Redox",
+      "word": "Ligurative",
       "components": [
-        "Red Rocks",
-        "Reaction"
+        "Literally",
+        "Figuratively"
       ],
-      "definition": "A powerful, almost chemical reaction one has upon visiting Red Rocks for the first time \u2014 an overwhelming sense of awe at the venue's natural beauty and atmosphere.",
-      "part_of_speech": "Noun",
-      "theme": "experience",
-      "example": "The moment I walked into the amphitheater, I had a full redox \u2014 nothing could have prepared me for that view."
+      "definition": "Halfway between literal and figurative \u2014 a statement that is partly meant literally but not entirely. Used like 'literally' or 'figuratively' when neither is quite right: 'I ligurative lost my mind.'",
+      "part_of_speech": "Adjective",
+      "theme": "opinion",
+      "example": ""
     },
     {
-      "word": "Huzzitorium",
+      "word": "Frogging",
       "components": [
-        "Huzz",
-        "Auditorium"
+        "Frame",
+        "Mogging"
       ],
-      "definition": "A venue or setting full of eligible women \u2014 a place brimming with romantic potential. 'Huzz' is slang for a woman. Like an auditorium, but for meeting women.",
-      "part_of_speech": "Noun",
-      "theme": "romance",
+      "definition": "Being frame-mogged \u2014 when someone's physical build, posture, or presence completely outclasses yours in a given setting. 'Bro was frogging. It was absolute gloujee peanema.'",
+      "part_of_speech": "Verb",
+      "theme": "excellence",
       "example": ""
     }
   ]
