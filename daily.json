@@ -1,29 +1,31 @@
 {
-  "sentence": "Frogging ends. Don't ligurative choke on the opinion you swallowed.",
-  "date": "2026-08-31",
-  "theme": "opinion",
+  "sentence": "Peaoui fades by morning. Shekira needs no second look.",
+  "date": "2026-09-01",
+  "theme": "personality",
   "wombos": [
     {
-      "word": "Ligurative",
+      "word": "Shekira",
       "components": [
-        "Literally",
-        "Figuratively"
+        "She",
+        "Kirk",
+        "Aura"
       ],
-      "definition": "Halfway between literal and figurative \u2014 a statement that is partly meant literally but not entirely. Used like 'literally' or 'figuratively' when neither is quite right: 'I ligurative lost my mind.'",
-      "part_of_speech": "Adjective",
-      "theme": "opinion",
-      "example": ""
+      "definition": "A feminine Kirk Aura \u2014 the twin or female-coded counterpart to Kira, radiating high-level presence and magnetism.",
+      "part_of_speech": "Noun",
+      "theme": "personality",
+      "example": "She walked in with full Shekira and everyone noticed immediately."
     },
     {
-      "word": "Frogging",
+      "word": "Peaoui",
       "components": [
-        "Frame",
-        "Mogging"
+        "Peak",
+        "Ouu",
+        "Shi"
       ],
-      "definition": "Being frame-mogged \u2014 when someone's physical build, posture, or presence completely outclasses yours in a given setting. 'Bro was frogging. It was absolute gloujee peanema.'",
-      "part_of_speech": "Verb",
-      "theme": "excellence",
-      "example": ""
+      "definition": "An exclamation of attraction directed at someone who is peak \u2014 a catcall or expression of awe at an exceptionally attractive person.",
+      "part_of_speech": "Phrase",
+      "theme": "attraction",
+      "example": "A serendookie walked by and he just said 'Peaoui' under his breath."
     }
   ]
 }
