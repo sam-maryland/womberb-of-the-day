@@ -1,31 +1,30 @@
 {
-  "sentence": "Peaoui fades by morning. Shekira needs no second look.",
-  "date": "2026-09-01",
-  "theme": "personality",
+  "sentence": "No serendookie survives a room still smelling of Jork Nickelbackolson.",
+  "date": "2026-09-02",
+  "theme": "culture",
   "wombos": [
     {
-      "word": "Shekira",
+      "word": "Jork Nickelbackolson",
       "components": [
-        "She",
-        "Kirk",
-        "Aura"
+        "John Pork",
+        "Nickelback",
+        "Jack Nicholson"
       ],
-      "definition": "A feminine Kirk Aura \u2014 the twin or female-coded counterpart to Kira, radiating high-level presence and magnetism.",
+      "definition": "A fusion of John Pork, Nickelback, and Jack Nicholson \u2014 the ultimate crossover figure blending pork lore, rock infamy, and Hollywood legend.",
       "part_of_speech": "Noun",
-      "theme": "personality",
-      "example": "She walked in with full Shekira and everyone noticed immediately."
+      "theme": "culture",
+      "example": "The fan art was unhinged \u2014 full Jork Nickelbackolson energy."
     },
     {
-      "word": "Peaoui",
+      "word": "Serendookie",
       "components": [
-        "Peak",
-        "Ouu",
-        "Shi"
+        "Serendipity",
+        "Pookie"
       ],
-      "definition": "An exclamation of attraction directed at someone who is peak \u2014 a catcall or expression of awe at an exceptionally attractive person.",
-      "part_of_speech": "Phrase",
-      "theme": "attraction",
-      "example": "A serendookie walked by and he just said 'Peaoui' under his breath."
+      "definition": "A serendipitous romantic encounter \u2014 stumbling into someone sweet completely by chance. 'Pookie' is an affectionate term; 'serendipity' is a happy accident. Your serendipitous boo.",
+      "part_of_speech": "Noun",
+      "theme": "romance",
+      "example": ""
     }
   ]
 }
