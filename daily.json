@@ -1,30 +1,29 @@
 {
-  "sentence": "No serendookie survives a room still smelling of Jork Nickelbackolson.",
-  "date": "2026-09-02",
-  "theme": "culture",
+  "sentence": "Jorkenuinely delectious things don't wait for you to finish chewing.",
+  "date": "2026-09-03",
+  "theme": "authenticity",
   "wombos": [
     {
-      "word": "Jork Nickelbackolson",
+      "word": "Jorkenuinely",
       "components": [
         "John Pork",
-        "Nickelback",
-        "Jack Nicholson"
+        "Genuinely"
       ],
-      "definition": "A fusion of John Pork, Nickelback, and Jack Nicholson \u2014 the ultimate crossover figure blending pork lore, rock infamy, and Hollywood legend.",
-      "part_of_speech": "Noun",
-      "theme": "culture",
-      "example": "The fan art was unhinged \u2014 full Jork Nickelbackolson energy."
+      "definition": "In a manner that is genuinely John Pork \u2014 authentically and sincerely aligned with John Pork energy or lore.",
+      "part_of_speech": "Adverb",
+      "theme": "authenticity",
+      "example": "He was jorkenuinely excited about that video."
     },
     {
-      "word": "Serendookie",
+      "word": "Delectious",
       "components": [
-        "Serendipity",
-        "Pookie"
+        "Delectable",
+        "Delicious"
       ],
-      "definition": "A serendipitous romantic encounter \u2014 stumbling into someone sweet completely by chance. 'Pookie' is an affectionate term; 'serendipity' is a happy accident. Your serendipitous boo.",
-      "part_of_speech": "Noun",
-      "theme": "romance",
-      "example": ""
+      "definition": "A state of being both delectable and delicious simultaneously \u2014 food or an experience so good that one superlative is not enough.",
+      "part_of_speech": "Adjective",
+      "theme": "food",
+      "example": "Those chicken tenders were absolutely delectious."
     }
   ]
 }
