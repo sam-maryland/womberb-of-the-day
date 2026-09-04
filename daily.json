@@ -1,29 +1,30 @@
 {
-  "sentence": "Jorkenuinely delectious things don't wait for you to finish chewing.",
-  "date": "2026-09-03",
-  "theme": "authenticity",
+  "sentence": "Your sonbrella cannot hold a rizztraining order over you forever.",
+  "date": "2026-09-04",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Jorkenuinely",
+      "word": "Sonbrella",
       "components": [
-        "John Pork",
-        "Genuinely"
+        "Son",
+        "Bro",
+        "Fella"
       ],
-      "definition": "In a manner that is genuinely John Pork \u2014 authentically and sincerely aligned with John Pork energy or lore.",
-      "part_of_speech": "Adverb",
-      "theme": "authenticity",
-      "example": "He was jorkenuinely excited about that video."
+      "definition": "A catch-all term for a close companion who embodies son, bro, and fella energy simultaneously \u2014 a versatile term of endearment for a trusted friend.",
+      "part_of_speech": "Noun",
+      "theme": "relationships",
+      "example": "Me and my sonbrella have been rolling together for years."
     },
     {
-      "word": "Delectious",
+      "word": "Rizztraining order",
       "components": [
-        "Delectable",
-        "Delicious"
+        "Rizz",
+        "Restraining order"
       ],
-      "definition": "A state of being both delectable and delicious simultaneously \u2014 food or an experience so good that one superlative is not enough.",
-      "part_of_speech": "Adjective",
-      "theme": "food",
-      "example": "Those chicken tenders were absolutely delectious."
+      "definition": "A figurative legal order imposed on someone whose rizz is so overwhelming or aggressive that others need formal protection from it \u2014 issued when someone's charm becomes an uncontrollable hazard.",
+      "part_of_speech": "Noun",
+      "theme": "rizz",
+      "example": "Someone get this man a rizztraining order before he charms the whole venue."
     }
   ]
 }
