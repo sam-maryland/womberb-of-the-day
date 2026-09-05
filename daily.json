@@ -1,30 +1,29 @@
 {
-  "sentence": "Your sonbrella cannot hold a rizztraining order over you forever.",
-  "date": "2026-09-04",
-  "theme": "relationships",
+  "sentence": "Gendoria found in jorgy light is still gendoria.",
+  "date": "2026-09-05",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Sonbrella",
+      "word": "Gendoria",
       "components": [
-        "Son",
-        "Bro",
-        "Fella"
+        "Gender Euphoria",
+        "Gloria"
       ],
-      "definition": "A catch-all term for a close companion who embodies son, bro, and fella energy simultaneously \u2014 a versatile term of endearment for a trusted friend.",
+      "definition": "Gender euphoria \u2014 the profound joy and rightness felt when one's gender expression aligns with their true self.",
       "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "Me and my sonbrella have been rolling together for years."
+      "theme": "identity",
+      "example": "She put on the outfit and felt pure gendoria for the first time."
     },
     {
-      "word": "Rizztraining order",
+      "word": "Jorgy",
       "components": [
-        "Rizz",
-        "Restraining order"
+        "John Pork",
+        "Edgy"
       ],
-      "definition": "A figurative legal order imposed on someone whose rizz is so overwhelming or aggressive that others need formal protection from it \u2014 issued when someone's charm becomes an uncontrollable hazard.",
-      "part_of_speech": "Noun",
-      "theme": "rizz",
-      "example": "Someone get this man a rizztraining order before he charms the whole venue."
+      "definition": "Edgy in a John Pork way \u2014 a distinctly unconventional, slightly dark, and provocative energy that is uniquely associated with the John Pork aesthetic.",
+      "part_of_speech": "Adjective",
+      "theme": "culture",
+      "example": "That album cover is giving very jorgy \u2014 I respect the vision."
     }
   ]
 }
