@@ -1,29 +1,31 @@
 {
-  "sentence": "Gendoria found in jorgy light is still gendoria.",
-  "date": "2026-09-05",
-  "theme": "identity",
+  "sentence": "Peanemizz without jorogan is just notes left on an empty stage.",
+  "date": "2026-09-06",
+  "theme": "culture",
   "wombos": [
     {
-      "word": "Gendoria",
-      "components": [
-        "Gender Euphoria",
-        "Gloria"
-      ],
-      "definition": "Gender euphoria \u2014 the profound joy and rightness felt when one's gender expression aligns with their true self.",
-      "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "She put on the outfit and felt pure gendoria for the first time."
-    },
-    {
-      "word": "Jorgy",
+      "word": "Jorogan",
       "components": [
         "John Pork",
-        "Edgy"
+        "Hulk Hogan"
       ],
-      "definition": "Edgy in a John Pork way \u2014 a distinctly unconventional, slightly dark, and provocative energy that is uniquely associated with the John Pork aesthetic.",
-      "part_of_speech": "Adjective",
+      "definition": "The combined energy of John Pork and Hulk Hogan \u2014 an iconic, larger-than-life, powerfully charismatic presence with an unmistakable legendary quality.",
+      "part_of_speech": "Noun",
       "theme": "culture",
-      "example": "That album cover is giving very jorgy \u2014 I respect the vision."
+      "example": "He walked in flexing like a full jorogan \u2014 nobody in the room could look away."
+    },
+    {
+      "word": "Peanemizz",
+      "components": [
+        "Peak",
+        "Cinema",
+        "Analysis",
+        "Rizz"
+      ],
+      "definition": "A peanemis delivered with natural charm and rizz \u2014 not just an analysis but a magnetically smooth, effortlessly cool deep-dive. Someone with peanemizz makes the peanemis irresistible.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": ""
     }
   ]
 }
