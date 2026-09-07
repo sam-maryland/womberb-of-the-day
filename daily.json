@@ -1,31 +1,29 @@
 {
-  "sentence": "Peanemizz without jorogan is just notes left on an empty stage.",
-  "date": "2026-09-06",
-  "theme": "culture",
+  "sentence": "Feed a frenemy your sasslit and watch them feast on nothing.",
+  "date": "2026-09-07",
+  "theme": "confidence",
   "wombos": [
     {
-      "word": "Jorogan",
+      "word": "Sasslit",
       "components": [
-        "John Pork",
-        "Hulk Hogan"
+        "Sassy",
+        "Gaslit"
       ],
-      "definition": "The combined energy of John Pork and Hulk Hogan \u2014 an iconic, larger-than-life, powerfully charismatic presence with an unmistakable legendary quality.",
-      "part_of_speech": "Noun",
-      "theme": "culture",
-      "example": "He walked in flexing like a full jorogan \u2014 nobody in the room could look away."
+      "definition": "The state of having been successfully sasslighted \u2014 left questioning your own confidence and aura after an encounter with someone of overwhelming wit and boldness.",
+      "part_of_speech": "Adjective",
+      "theme": "confidence",
+      "example": "I walked out of that conversation completely sasslit."
     },
     {
-      "word": "Peanemizz",
+      "word": "Frenemy",
       "components": [
-        "Peak",
-        "Cinema",
-        "Analysis",
-        "Rizz"
+        "Friend",
+        "Enemy"
       ],
-      "definition": "A peanemis delivered with natural charm and rizz \u2014 not just an analysis but a magnetically smooth, effortlessly cool deep-dive. Someone with peanemizz makes the peanemis irresistible.",
+      "definition": "A person who acts as a friend but is simultaneously a rival or adversary \u2014 someone whose friendship is tinged with competition or hostility.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": ""
+      "theme": "relationships",
+      "example": "She congratulates me every time I win, but I know she's my frenemy."
     }
   ]
 }
