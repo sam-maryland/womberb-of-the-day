@@ -1,29 +1,29 @@
 {
-  "sentence": "Feed a frenemy your sasslit and watch them feast on nothing.",
-  "date": "2026-09-07",
-  "theme": "confidence",
+  "sentence": "Kirkelligence that leaves you frine needs no encore.",
+  "date": "2026-09-08",
+  "theme": "personality",
   "wombos": [
     {
-      "word": "Sasslit",
+      "word": "Kirkelligence",
       "components": [
-        "Sassy",
-        "Gaslit"
+        "Kirk",
+        "Intelligence"
       ],
-      "definition": "The state of having been successfully sasslighted \u2014 left questioning your own confidence and aura after an encounter with someone of overwhelming wit and boldness.",
-      "part_of_speech": "Adjective",
-      "theme": "confidence",
-      "example": "I walked out of that conversation completely sasslit."
+      "definition": "A sharp, Kirk-coded form of intelligence \u2014 the kind of wit and awareness that carries an effortlessly cool energy.",
+      "part_of_speech": "Noun",
+      "theme": "personality",
+      "example": "You could tell by the way he handled it \u2014 pure Kirkelligence."
     },
     {
-      "word": "Frenemy",
+      "word": "Frine",
       "components": [
-        "Friend",
-        "Enemy"
+        "Fried",
+        "Crine"
       ],
-      "definition": "A person who acts as a friend but is simultaneously a rival or adversary \u2014 someone whose friendship is tinged with competition or hostility.",
-      "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "She congratulates me every time I win, but I know she's my frenemy."
+      "definition": "A breathless, fried state of laughter \u2014 so amused you're basically crying. One level up from just being \"fine.\"",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
+      "example": "The blooper reel had me full-on frine \u2014 I couldn't breathe."
     }
   ]
 }
