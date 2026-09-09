@@ -1,29 +1,29 @@
 {
-  "sentence": "Kirkelligence that leaves you frine needs no encore.",
-  "date": "2026-09-08",
-  "theme": "personality",
+  "sentence": "Your nonchalashout will not pass a slibe check you weren't dressed for.",
+  "date": "2026-09-09",
+  "theme": "excellence",
   "wombos": [
     {
-      "word": "Kirkelligence",
+      "word": "Slibe Check",
       "components": [
-        "Kirk",
-        "Intelligence"
+        "Slay",
+        "Vibe Check"
       ],
-      "definition": "A sharp, Kirk-coded form of intelligence \u2014 the kind of wit and awareness that carries an effortlessly cool energy.",
+      "definition": "A vibe check that also assesses your slay \u2014 sizing someone up for both their energy and their look, then letting them know the verdict deadassionately.",
       "part_of_speech": "Noun",
-      "theme": "personality",
-      "example": "You could tell by the way he handled it \u2014 pure Kirkelligence."
+      "theme": "excellence",
+      "example": ""
     },
     {
-      "word": "Frine",
+      "word": "Nonchalashout",
       "components": [
-        "Fried",
-        "Crine"
+        "Nonchalant",
+        "Crashout"
       ],
-      "definition": "A breathless, fried state of laughter \u2014 so amused you're basically crying. One level up from just being \"fine.\"",
-      "part_of_speech": "Adjective",
+      "definition": "The state of appearing calm and unbothered on the outside while internally spiraling or having a full emotional breakdown. Performing nonchalance while crashing out inside.",
+      "part_of_speech": "Noun",
       "theme": "emotion",
-      "example": "The blooper reel had me full-on frine \u2014 I couldn't breathe."
+      "example": ""
     }
   ]
 }
