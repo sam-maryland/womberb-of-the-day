@@ -1,32 +1,29 @@
 {
-  "sentence": "Never order at your favoutsestaurant without first completing your lowkeanemis.",
-  "date": "2026-09-10",
+  "sentence": "Never drag your larpet across someone else's restaurarpet.",
+  "date": "2026-09-11",
   "theme": "food",
   "wombos": [
     {
-      "word": "Favoutsestaurant",
+      "word": "Restaurarpet",
       "components": [
-        "favorite",
-        "outside",
-        "restaurant"
+        "Restaurant",
+        "Carpet"
       ],
-      "definition": "One's favorite restaurant for eating out \u2014 the compressed form of 'favorite outside restaurant,' capturing the idea of a preferred dine-out destination.",
+      "definition": "The carpet inside a restaurant \u2014 specifically invoked in the context of a messy or chaotic scene unfolding on it.",
       "part_of_speech": "Noun",
       "theme": "food",
-      "example": "Wherever we travel, I always scout out my favoutsestaurant first."
+      "example": "Don't spill that on the restaurarpet \u2014 they just cleaned it."
     },
     {
-      "word": "Lowkeanemis",
+      "word": "Larpet",
       "components": [
-        "Lowkey",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Larp",
+        "Carpet"
       ],
-      "definition": "A subtle or understated peak cinema analysis \u2014 a peanemis that operates quietly rather than boldly.",
+      "definition": "The metaphorical carpet of someone who is deep in a larp \u2014 the performative stage or platform they stand on while pretending to be something they're not.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "She slipped in a lowkeanemis so smooth that nobody even clocked it."
+      "theme": "performance",
+      "example": "Get off your larpet \u2014 nobody actually believes you went to Harvard."
     }
   ]
 }
