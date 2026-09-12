@@ -1,29 +1,32 @@
 {
-  "sentence": "Never drag your larpet across someone else's restaurarpet.",
-  "date": "2026-09-11",
+  "sentence": "Every froastypeanemis deserves a wousee heater in the front row.",
+  "date": "2026-09-12",
   "theme": "food",
   "wombos": [
     {
-      "word": "Restaurarpet",
+      "word": "Wousee Heater",
       "components": [
-        "Restaurant",
-        "Carpet"
+        "Waffle House",
+        "Hashbrown Eater"
       ],
-      "definition": "The carpet inside a restaurant \u2014 specifically invoked in the context of a messy or chaotic scene unfolding on it.",
+      "definition": "A dedicated Waffle House hashbrown eater \u2014 someone who frequents the wousee specifically for the hashbrowns and knows exactly how they want them prepared.",
       "part_of_speech": "Noun",
       "theme": "food",
-      "example": "Don't spill that on the restaurarpet \u2014 they just cleaned it."
+      "example": "She walked in, sat down, and ordered without even looking at the menu \u2014 a true wousee heater."
     },
     {
-      "word": "Larpet",
+      "word": "Froastypeanemis",
       "components": [
-        "Larp",
-        "Carpet"
+        "Fried",
+        "Toasty",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "The metaphorical carpet of someone who is deep in a larp \u2014 the performative stage or platform they stand on while pretending to be something they're not.",
+      "definition": "A peak cinema analysis delivered warm \u2014 fried, toasty, and comforting rather than icy. The cozy counterpart to a spicypeanemis.",
       "part_of_speech": "Noun",
-      "theme": "performance",
-      "example": "Get off your larpet \u2014 nobody actually believes you went to Harvard."
+      "theme": "analysis",
+      "example": "I expected a spicy one, but instead he delivered a froastypeanemis."
     }
   ]
 }
