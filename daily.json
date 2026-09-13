@@ -1,32 +1,29 @@
 {
-  "sentence": "Every froastypeanemis deserves a wousee heater in the front row.",
-  "date": "2026-09-12",
-  "theme": "food",
+  "sentence": "Never walk your auntpeanemis into a room still warm with aurall.",
+  "date": "2026-09-13",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Wousee Heater",
+      "word": "Auntpeanemis",
       "components": [
-        "Waffle House",
-        "Hashbrown Eater"
+        "Automatic Can't",
+        "Peak Cinema Analysis"
       ],
-      "definition": "A dedicated Waffle House hashbrown eater \u2014 someone who frequents the wousee specifically for the hashbrowns and knows exactly how they want them prepared.",
+      "definition": "A peak cinema analysis characterized by an automatic, reflexive rejection \u2014 a breakdown that leads inevitably to a 'can't' verdict.",
       "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "She walked in, sat down, and ordered without even looking at the menu \u2014 a true wousee heater."
+      "theme": "cinema",
+      "example": "One look at the trailer and she launched straight into the auntpeanemis."
     },
     {
-      "word": "Froastypeanemis",
+      "word": "Aurall",
       "components": [
-        "Fried",
-        "Toasty",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Aura",
+        "Ball"
       ],
-      "definition": "A peak cinema analysis delivered warm \u2014 fried, toasty, and comforting rather than icy. The cozy counterpart to a spicypeanemis.",
+      "definition": "The collective aura of a group \u2014 the combined presence and energy that a squad radiates together.",
       "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "I expected a spicy one, but instead he delivered a froastypeanemis."
+      "theme": "energy",
+      "example": "When the whole crew linked up, the aurall was unmatched."
     }
   ]
 }
