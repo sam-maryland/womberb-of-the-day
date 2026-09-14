@@ -1,29 +1,31 @@
 {
-  "sentence": "Never walk your auntpeanemis into a room still warm with aurall.",
-  "date": "2026-09-13",
-  "theme": "cinema",
+  "sentence": "Kirkle Back to the guyknowballogist before the room forgets you asked.",
+  "date": "2026-09-14",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Auntpeanemis",
+      "word": "Guyknowballogist",
       "components": [
-        "Automatic Can't",
-        "Peak Cinema Analysis"
+        "Guy",
+        "Knows",
+        "Ball",
+        "-ologist"
       ],
-      "definition": "A peak cinema analysis characterized by an automatic, reflexive rejection \u2014 a breakdown that leads inevitably to a 'can't' verdict.",
+      "definition": "A person who is genuinely, deeply knowledgeable in their field \u2014 a true expert who 'knows ball' (understands the game at a high level). Derived from 'guy who knows ball' + '-ologist.' Used as a noun: 'she's a certified guyknowballogist,' 'don't argue with him, he's a guyknowballogist.'",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "One look at the trailer and she launched straight into the auntpeanemis."
+      "theme": "wisdom",
+      "example": ""
     },
     {
-      "word": "Aurall",
+      "word": "Kirkle Back",
       "components": [
-        "Aura",
-        "Ball"
+        "Kirk",
+        "Circle Back"
       ],
-      "definition": "The collective aura of a group \u2014 the combined presence and energy that a squad radiates together.",
-      "part_of_speech": "Noun",
-      "theme": "energy",
-      "example": "When the whole crew linked up, the aurall was unmatched."
+      "definition": "To circle back on something with Kirk energy \u2014 returning to a topic or moment in a cool, composed manner.",
+      "part_of_speech": "Phrase",
+      "theme": "communication",
+      "example": "Let me Kirkle Back to what I said earlier, because I think it matters."
     }
   ]
 }
