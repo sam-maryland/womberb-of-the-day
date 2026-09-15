@@ -1,31 +1,30 @@
 {
-  "sentence": "Kirkle Back to the guyknowballogist before the room forgets you asked.",
-  "date": "2026-09-14",
-  "theme": "wisdom",
+  "sentence": "Never appricot the hand that survived your peanemis.",
+  "date": "2026-09-15",
+  "theme": "behavior",
   "wombos": [
     {
-      "word": "Guyknowballogist",
+      "word": "Appricot",
       "components": [
-        "Guy",
-        "Knows",
-        "Ball",
-        "-ologist"
+        "Appreciate",
+        "Forgot"
       ],
-      "definition": "A person who is genuinely, deeply knowledgeable in their field \u2014 a true expert who 'knows ball' (understands the game at a high level). Derived from 'guy who knows ball' + '-ologist.' Used as a noun: 'she's a certified guyknowballogist,' 'don't argue with him, he's a guyknowballogist.'",
-      "part_of_speech": "Noun",
-      "theme": "wisdom",
-      "example": ""
+      "definition": "To genuinely appreciate someone or something and then immediately forget about it. The fond, distracted form of gratitude that never quite sticks.",
+      "part_of_speech": "Verb",
+      "theme": "behavior",
+      "example": "I appricotted his help \u2014 said thanks, walked off, never thought about it again."
     },
     {
-      "word": "Kirkle Back",
+      "word": "Peanemis",
       "components": [
-        "Kirk",
-        "Circle Back"
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "To circle back on something with Kirk energy \u2014 returning to a topic or moment in a cool, composed manner.",
-      "part_of_speech": "Phrase",
-      "theme": "communication",
-      "example": "Let me Kirkle Back to what I said earlier, because I think it matters."
+      "definition": "An obsessive, over-the-top deep-dive analysis of any subject \u2014 often a movie, show, event, or cultural moment. The kind of breakdown that goes way further than anyone asked for.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": ""
     }
   ]
 }
