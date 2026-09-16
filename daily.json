@@ -1,30 +1,29 @@
 {
-  "sentence": "Never appricot the hand that survived your peanemis.",
-  "date": "2026-09-15",
-  "theme": "behavior",
+  "sentence": "No teesepeanemis outlasts the room the Mogfather already owns.",
+  "date": "2026-09-16",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Appricot",
+      "word": "Teesepeanemis",
       "components": [
-        "Appreciate",
-        "Forgot"
+        "Tim Cheese",
+        "Peak Cinema Analysis"
       ],
-      "definition": "To genuinely appreciate someone or something and then immediately forget about it. The fond, distracted form of gratitude that never quite sticks.",
-      "part_of_speech": "Verb",
-      "theme": "behavior",
-      "example": "I appricotted his help \u2014 said thanks, walked off, never thought about it again."
-    },
-    {
-      "word": "Peanemis",
-      "components": [
-        "Peak",
-        "Cinema",
-        "Analysis"
-      ],
-      "definition": "An obsessive, over-the-top deep-dive analysis of any subject \u2014 often a movie, show, event, or cultural moment. The kind of breakdown that goes way further than anyone asked for.",
+      "definition": "A peak cinema analysis centered on Tim Cheese \u2014 a focused critical breakdown of the Tim Cheese canon.",
       "part_of_speech": "Noun",
       "theme": "cinema",
-      "example": ""
+      "example": "The teesepeanemis had everyone in the room speechless."
+    },
+    {
+      "word": "Mogfather",
+      "components": [
+        "Mogging",
+        "Godfather"
+      ],
+      "definition": "The undisputed master of mogging \u2014 someone who dominates in appearance or presence so thoroughly that they command respect the way a Godfather commands loyalty.",
+      "part_of_speech": "Noun",
+      "theme": "status",
+      "example": "Nobody steps into the room and owns it like he does \u2014 he's the Mogfather."
     }
   ]
 }
