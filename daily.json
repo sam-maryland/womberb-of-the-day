@@ -1,29 +1,32 @@
 {
-  "sentence": "No teesepeanemis outlasts the room the Mogfather already owns.",
-  "date": "2026-09-16",
+  "sentence": "Never bring your queanemis into a room still owed brotection.",
+  "date": "2026-09-17",
   "theme": "cinema",
   "wombos": [
     {
-      "word": "Teesepeanemis",
+      "word": "Queanemis",
       "components": [
-        "Tim Cheese",
-        "Peak Cinema Analysis"
+        "Quirky",
+        "Niche",
+        "Peak",
+        "Cinema",
+        "Analysis"
       ],
-      "definition": "A peak cinema analysis centered on Tim Cheese \u2014 a focused critical breakdown of the Tim Cheese canon.",
+      "definition": "A peanemis that is specifically quiche in nature \u2014 an obsessive deep-dive analysis of something intensely niche and eccentric. A peanemis for the truly quiche subject.",
       "part_of_speech": "Noun",
       "theme": "cinema",
-      "example": "The teesepeanemis had everyone in the room speechless."
+      "example": ""
     },
     {
-      "word": "Mogfather",
+      "word": "Brotection",
       "components": [
-        "Mogging",
-        "Godfather"
+        "Bro",
+        "Protection"
       ],
-      "definition": "The undisputed master of mogging \u2014 someone who dominates in appearance or presence so thoroughly that they command respect the way a Godfather commands loyalty.",
+      "definition": "Protective measures taken on behalf of, or by, a bro \u2014 the bro-coded form of having someone's back.",
       "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "Nobody steps into the room and owns it like he does \u2014 he's the Mogfather."
+      "theme": "friendship",
+      "example": "When it comes to my friends, I always use brotection."
     }
   ]
 }
