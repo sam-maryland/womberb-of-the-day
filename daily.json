@@ -1,32 +1,29 @@
 {
-  "sentence": "Never bring your queanemis into a room still owed brotection.",
-  "date": "2026-09-17",
-  "theme": "cinema",
+  "sentence": "Heartacks don't care whose bile you're standing on.",
+  "date": "2026-09-18",
+  "theme": "lifestyle",
   "wombos": [
     {
-      "word": "Queanemis",
-      "components": [
-        "Quirky",
-        "Niche",
-        "Peak",
-        "Cinema",
-        "Analysis"
-      ],
-      "definition": "A peanemis that is specifically quiche in nature \u2014 an obsessive deep-dive analysis of something intensely niche and eccentric. A peanemis for the truly quiche subject.",
-      "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": ""
-    },
-    {
-      "word": "Brotection",
+      "word": "Bile",
       "components": [
         "Bro",
-        "Protection"
+        "Tile"
       ],
-      "definition": "Protective measures taken on behalf of, or by, a bro \u2014 the bro-coded form of having someone's back.",
+      "definition": "A bro's tile \u2014 the floor or general surface area belonging to or associated with a guy's space.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "When it comes to my friends, I always use brotection."
+      "theme": "lifestyle",
+      "example": "Don't spill that on the bile, I just cleaned in here."
+    },
+    {
+      "word": "heartacks",
+      "components": [
+        "Heart",
+        "Attacks"
+      ],
+      "definition": "Emotional heart attacks \u2014 the overwhelming, chest-tightening effect that an excess of Kira or gorgeautiful energy can have on those around you.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": "Too much Kira in one room will start giving people heartacks."
     }
   ]
 }
