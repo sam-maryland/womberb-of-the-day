@@ -1,29 +1,29 @@
 {
-  "sentence": "Heartacks don't care whose bile you're standing on.",
-  "date": "2026-09-18",
-  "theme": "lifestyle",
+  "sentence": "Jorked in deep enough, twintuition will do the rest.",
+  "date": "2026-09-19",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Bile",
+      "word": "Twintuition",
       "components": [
-        "Bro",
-        "Tile"
+        "Twin",
+        "Intuition"
       ],
-      "definition": "A bro's tile \u2014 the floor or general surface area belonging to or associated with a guy's space.",
+      "definition": "The uncanny shared instinct between twins or a twin-coded inner circle \u2014 knowing what the other is thinking without a word exchanged.",
       "part_of_speech": "Noun",
-      "theme": "lifestyle",
-      "example": "Don't spill that on the bile, I just cleaned in here."
+      "theme": "wisdom",
+      "example": "My twintuition told me he'd bail before he even texted."
     },
     {
-      "word": "heartacks",
+      "word": "Jorked In",
       "components": [
-        "Heart",
-        "Attacks"
+        "John Pork",
+        "Locked In"
       ],
-      "definition": "Emotional heart attacks \u2014 the overwhelming, chest-tightening effect that an excess of Kira or gorgeautiful energy can have on those around you.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "Too much Kira in one room will start giving people heartacks."
+      "definition": "The state of being locked in through a John Pork lens \u2014 fully focused and immersed, specifically in pork-coded activity or lore.",
+      "part_of_speech": "Adjective",
+      "theme": "focus",
+      "example": "He's been jorked in studying the lore for three hours straight."
     }
   ]
 }
