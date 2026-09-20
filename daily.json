@@ -1,29 +1,29 @@
 {
-  "sentence": "Jorked in deep enough, twintuition will do the rest.",
-  "date": "2026-09-19",
-  "theme": "wisdom",
+  "sentence": "Don't ELIC what you've already given the sonaround.",
+  "date": "2026-09-20",
+  "theme": "communication",
   "wombos": [
     {
-      "word": "Twintuition",
+      "word": "ELIC",
       "components": [
-        "Twin",
-        "Intuition"
+        "Explain It Like I'm",
+        "Clavic"
       ],
-      "definition": "The uncanny shared instinct between twins or a twin-coded inner circle \u2014 knowing what the other is thinking without a word exchanged.",
-      "part_of_speech": "Noun",
-      "theme": "wisdom",
-      "example": "My twintuition told me he'd bail before he even texted."
+      "definition": "Explain it like I'm Clavic \u2014 a request to break something down at a foundational, beginner-friendly level, as if explaining it to someone who is clavic on the topic.",
+      "part_of_speech": "Phrase",
+      "theme": "communication",
+      "example": "I've never seen the show \u2014 can you ELIC the whole plot?"
     },
     {
-      "word": "Jorked In",
+      "word": "Sonaround",
       "components": [
-        "John Pork",
-        "Locked In"
+        "Son",
+        "The Runaround"
       ],
-      "definition": "The state of being locked in through a John Pork lens \u2014 fully focused and immersed, specifically in pork-coded activity or lore.",
-      "part_of_speech": "Adjective",
-      "theme": "focus",
-      "example": "He's been jorked in studying the lore for three hours straight."
+      "definition": "The son-coded version of being given the runaround \u2014 being stalled, deflected, or strung along by someone operating on son energy.",
+      "part_of_speech": "Noun",
+      "theme": "social",
+      "example": "Don't give me the sonaround \u2014 just tell me what's happening."
     }
   ]
 }
