@@ -1,29 +1,32 @@
 {
-  "sentence": "Don't ELIC what you've already given the sonaround.",
-  "date": "2026-09-20",
-  "theme": "communication",
+  "sentence": "Nonbosis will hollow out the deepest aurchanic in any room.",
+  "date": "2026-09-21",
+  "theme": "personality",
   "wombos": [
     {
-      "word": "ELIC",
+      "word": "Aurchanic",
       "components": [
-        "Explain It Like I'm",
-        "Clavic"
+        "Aura",
+        "Charming",
+        "Authentic"
       ],
-      "definition": "Explain it like I'm Clavic \u2014 a request to break something down at a foundational, beginner-friendly level, as if explaining it to someone who is clavic on the topic.",
-      "part_of_speech": "Phrase",
-      "theme": "communication",
-      "example": "I've never seen the show \u2014 can you ELIC the whole plot?"
+      "definition": "An aura that is both genuinely charming and authentically itself \u2014 a magnetic presence that never feels forced or performative.",
+      "part_of_speech": "Noun",
+      "theme": "personality",
+      "example": "People gravitate toward him because his energy is completely aurchanic."
     },
     {
-      "word": "Sonaround",
+      "word": "Nonbosis",
       "components": [
-        "Son",
-        "The Runaround"
+        "No",
+        "Word",
+        "Combo",
+        "Diagnosis"
       ],
-      "definition": "The son-coded version of being given the runaround \u2014 being stalled, deflected, or strung along by someone operating on son energy.",
+      "definition": "The condition of refusing to use wombos \u2014 a diagnosed absence of wombosis. 'That bropp is a womboclat. He refuses to put words together. He's in a deep state of nonbosis.'",
       "part_of_speech": "Noun",
-      "theme": "social",
-      "example": "Don't give me the sonaround \u2014 just tell me what's happening."
+      "theme": "humor",
+      "example": ""
     }
   ]
 }
