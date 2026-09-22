@@ -1,32 +1,30 @@
 {
-  "sentence": "Nonbosis will hollow out the deepest aurchanic in any room.",
-  "date": "2026-09-21",
-  "theme": "personality",
+  "sentence": "Thrustrated hands never hold a nonballashout with any grace.",
+  "date": "2026-09-22",
+  "theme": "ball",
   "wombos": [
     {
-      "word": "Aurchanic",
+      "word": "Nonballashout",
       "components": [
-        "Aura",
-        "Charming",
-        "Authentic"
+        "Nonchalant",
+        "Ball",
+        "Crashout"
       ],
-      "definition": "An aura that is both genuinely charming and authentically itself \u2014 a magnetic presence that never feels forced or performative.",
+      "definition": "A nonchalant ball crashout \u2014 the act of losing composure over ball in a calm, unbothered, almost casual way.",
       "part_of_speech": "Noun",
-      "theme": "personality",
-      "example": "People gravitate toward him because his energy is completely aurchanic."
+      "theme": "ball",
+      "example": "He walked off the court mid-game \u2014 that was a full nonballashout."
     },
     {
-      "word": "Nonbosis",
+      "word": "Thrustrated",
       "components": [
-        "No",
-        "Word",
-        "Combo",
-        "Diagnosis"
+        "Thoroughly",
+        "Frustrated"
       ],
-      "definition": "The condition of refusing to use wombos \u2014 a diagnosed absence of wombosis. 'That bropp is a womboclat. He refuses to put words together. He's in a deep state of nonbosis.'",
-      "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "definition": "Thoroughly and completely frustrated \u2014 a level of frustration so deep and total that it borders on a full sonchalashout.",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
+      "example": "After the third delay, I was absolutely thrustrated and needed a meat mountain immediately."
     }
   ]
 }
