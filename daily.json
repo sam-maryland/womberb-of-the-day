@@ -1,30 +1,30 @@
 {
-  "sentence": "Thrustrated hands never hold a nonballashout with any grace.",
-  "date": "2026-09-22",
-  "theme": "ball",
+  "sentence": "Meaf jorky truth lands different from a Clavito's mouth.",
+  "date": "2026-09-23",
+  "theme": "culture",
   "wombos": [
     {
-      "word": "Nonballashout",
+      "word": "Meaf Jorky",
       "components": [
-        "Nonchalant",
-        "Ball",
-        "Crashout"
+        "Me AF",
+        "John Pork",
+        "Funny"
       ],
-      "definition": "A nonchalant ball crashout \u2014 the act of losing composure over ball in a calm, unbothered, almost casual way.",
-      "part_of_speech": "Noun",
-      "theme": "ball",
-      "example": "He walked off the court mid-game \u2014 that was a full nonballashout."
+      "definition": "Hilariously and personally relatable John Pork energy \u2014 something that is both extremely funny and deeply, authentically self-identifying in the spirit of John Pork.",
+      "part_of_speech": "Phrase",
+      "theme": "culture",
+      "example": "That meme is so meaf jorky I had to save it immediately."
     },
     {
-      "word": "Thrustrated",
+      "word": "Clavito",
       "components": [
-        "Thoroughly",
-        "Frustrated"
+        "Clavicular",
+        "Vito"
       ],
-      "definition": "Thoroughly and completely frustrated \u2014 a level of frustration so deep and total that it borders on a full sonchalashout.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "After the third delay, I was absolutely thrustrated and needed a meat mountain immediately."
+      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
+      "part_of_speech": "Noun",
+      "theme": "status",
+      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
     }
   ]
 }
