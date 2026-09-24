@@ -1,30 +1,29 @@
 {
-  "sentence": "Meaf jorky truth lands different from a Clavito's mouth.",
-  "date": "2026-09-23",
-  "theme": "culture",
+  "sentence": "Dubistgutgenugenuinely carried, a lowkaura never needs to raise its voice.",
+  "date": "2026-09-24",
+  "theme": "energy",
   "wombos": [
     {
-      "word": "Meaf Jorky",
+      "word": "Lowkaura",
       "components": [
-        "Me AF",
-        "John Pork",
-        "Funny"
+        "Lowkey",
+        "Aura"
       ],
-      "definition": "Hilariously and personally relatable John Pork energy \u2014 something that is both extremely funny and deeply, authentically self-identifying in the spirit of John Pork.",
-      "part_of_speech": "Phrase",
-      "theme": "culture",
-      "example": "That meme is so meaf jorky I had to save it immediately."
+      "definition": "A subtle, understated aura \u2014 the kind of presence that is quietly powerful without demanding attention.",
+      "part_of_speech": "Noun",
+      "theme": "energy",
+      "example": "He never brags, but the lowkaura he carries speaks for itself."
     },
     {
-      "word": "Clavito",
+      "word": "Dubistgutgenugenuinely",
       "components": [
-        "Clavicular",
-        "Vito"
+        "Genug",
+        "Genuinely"
       ],
-      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
-      "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
+      "definition": "The state of doing something genuinely while also being fully aware of your own peanematic capability \u2014 acting with authentic confidence in your peak form.",
+      "part_of_speech": "Adverb",
+      "theme": "mindset",
+      "example": "He walked into that debate dubistgutgenugenuinely and left no doubts."
     }
   ]
 }
