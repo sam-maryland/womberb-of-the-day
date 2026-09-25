@@ -1,29 +1,29 @@
 {
-  "sentence": "Dubistgutgenugenuinely carried, a lowkaura never needs to raise its voice.",
-  "date": "2026-09-24",
-  "theme": "energy",
+  "sentence": "Nischiterily balledgeable people rarely need to raise their hand.",
+  "date": "2026-09-25",
+  "theme": "expression",
   "wombos": [
     {
-      "word": "Lowkaura",
+      "word": "Nischiterily",
       "components": [
-        "Lowkey",
-        "Aura"
+        "Niche",
+        "Literally"
       ],
-      "definition": "A subtle, understated aura \u2014 the kind of presence that is quietly powerful without demanding attention.",
-      "part_of_speech": "Noun",
-      "theme": "energy",
-      "example": "He never brags, but the lowkaura he carries speaks for itself."
+      "definition": "So niche that it is literally, undeniably right in front of you \u2014 used to describe something ultra-specific that is also undeniably present and real.",
+      "part_of_speech": "Adverb",
+      "theme": "expression",
+      "example": "That reference was nischiterily the most specific thing I've ever heard."
     },
     {
-      "word": "Dubistgutgenugenuinely",
+      "word": "Balledgeable",
       "components": [
-        "Genug",
-        "Genuinely"
+        "Ball",
+        "Knowledgeable"
       ],
-      "definition": "The state of doing something genuinely while also being fully aware of your own peanematic capability \u2014 acting with authentic confidence in your peak form.",
-      "part_of_speech": "Adverb",
-      "theme": "mindset",
-      "example": "He walked into that debate dubistgutgenugenuinely and left no doubts."
+      "definition": "Possessing a deep, specialized knowledge about something; highly informed in a particular area of passion or expertise.",
+      "part_of_speech": "Adjective",
+      "theme": "knowledge",
+      "example": "He's so balledgeable he could teach a masterclass on the subject."
     }
   ]
 }
