@@ -1,29 +1,29 @@
 {
-  "sentence": "Nischiterily balledgeable people rarely need to raise their hand.",
-  "date": "2026-09-25",
-  "theme": "expression",
+  "sentence": "Kirkle Back before you loreain what nobody asked to hear.",
+  "date": "2026-09-26",
+  "theme": "communication",
   "wombos": [
     {
-      "word": "Nischiterily",
+      "word": "Kirkle Back",
       "components": [
-        "Niche",
-        "Literally"
+        "Kirk",
+        "Circle Back"
       ],
-      "definition": "So niche that it is literally, undeniably right in front of you \u2014 used to describe something ultra-specific that is also undeniably present and real.",
-      "part_of_speech": "Adverb",
-      "theme": "expression",
-      "example": "That reference was nischiterily the most specific thing I've ever heard."
+      "definition": "To circle back on something with Kirk energy \u2014 returning to a topic or moment in a cool, composed manner.",
+      "part_of_speech": "Phrase",
+      "theme": "communication",
+      "example": "Let me Kirkle Back to what I said earlier, because I think it matters."
     },
     {
-      "word": "Balledgeable",
+      "word": "Loreain",
       "components": [
-        "Ball",
-        "Knowledgeable"
+        "Lore",
+        "Explain"
       ],
-      "definition": "Possessing a deep, specialized knowledge about something; highly informed in a particular area of passion or expertise.",
-      "part_of_speech": "Adjective",
-      "theme": "knowledge",
-      "example": "He's so balledgeable he could teach a masterclass on the subject."
+      "definition": "To over-explain the backstory, mythology, or concept behind something. Used as a verb: 'let me loreain this,' 'stop loreaining me,' 'she loreained the whole thing.'",
+      "part_of_speech": "Verb",
+      "theme": "wisdom",
+      "example": ""
     }
   ]
 }
