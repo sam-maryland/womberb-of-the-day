@@ -1,29 +1,29 @@
 {
-  "sentence": "Kirkle Back before you loreain what nobody asked to hear.",
-  "date": "2026-09-26",
-  "theme": "communication",
+  "sentence": "Quishe keesh, ungiven, sours in the pocket.",
+  "date": "2026-09-27",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Kirkle Back",
+      "word": "Keesh",
       "components": [
-        "Kirk",
-        "Circle Back"
+        "Keen",
+        "Wish"
       ],
-      "definition": "To circle back on something with Kirk energy \u2014 returning to a topic or moment in a cool, composed manner.",
-      "part_of_speech": "Phrase",
-      "theme": "communication",
-      "example": "Let me Kirkle Back to what I said earlier, because I think it matters."
+      "definition": "A deeply desired, intensely specific want \u2014 a keen wish that is itself quiche in its niche particularity. Often delivered or diagnosed by a guyknowballogist with great wisdom.",
+      "part_of_speech": "Noun",
+      "theme": "emotion",
+      "example": ""
     },
     {
-      "word": "Loreain",
+      "word": "Quishe",
       "components": [
-        "Lore",
-        "Explain"
+        "Quirky",
+        "Niche"
       ],
-      "definition": "To over-explain the backstory, mythology, or concept behind something. Used as a verb: 'let me loreain this,' 'stop loreaining me,' 'she loreained the whole thing.'",
-      "part_of_speech": "Verb",
-      "theme": "wisdom",
-      "example": ""
+      "definition": "Something that is both quirky and niche \u2014 occupying an oddly specific, offbeat corner of culture or taste.",
+      "part_of_speech": "Adjective",
+      "theme": "personality",
+      "example": "That underground zine festival is extremely quishe, but I love it."
     }
   ]
 }
