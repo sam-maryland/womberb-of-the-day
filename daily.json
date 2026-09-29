@@ -1,29 +1,30 @@
 {
-  "sentence": "Strong aureanemis has never needed a nintento to clear the room.",
-  "date": "2026-09-28",
-  "theme": "refusal",
+  "sentence": "No barbebisket forgives tailored swifts bought at the gas station.",
+  "date": "2026-09-29",
+  "theme": "food",
   "wombos": [
     {
-      "word": "Nintento",
+      "word": "Barbebisket",
       "components": [
-        "Nintendo",
-        "No"
+        "Barbecue",
+        "Brisket"
       ],
-      "definition": "An emphatic refusal or expression of extreme unwillingness. Scalable in intensity: 'Nintento' for a strong no, 'Super Nintento' for a stronger no, and 'Nintento 64' for the most absolute refusal.",
-      "part_of_speech": "Phrase",
-      "theme": "refusal",
-      "example": "You want me to wake up at 5 AM? Nintento 64."
+      "definition": "Barbecue brisket elevated to peak cookout status \u2014 the cinematic centerpiece of any serious barbecue spread.",
+      "part_of_speech": "Noun",
+      "theme": "food",
+      "example": "He smoked it for twelve hours \u2014 that barbebisket was unreal."
     },
     {
-      "word": "Aureanemis",
+      "word": "Tailored Swifts",
       "components": [
-        "Aura",
-        "Peanemis"
+        "Tailored",
+        "Sweet",
+        "Gifts"
       ],
-      "definition": "The focused, locked-in energy that radiates outward as aura \u2014 the peanemis expressed through one's presence and vibe.",
+      "definition": "A thoughtful, personalized gift picked specifically for the recipient \u2014 the opposite of generic, one-size-fits-all giving.",
       "part_of_speech": "Noun",
-      "theme": "energy",
-      "example": "She walked in and the whole room shifted \u2014 pure aureanemis."
+      "theme": "relationships",
+      "example": "Skip the average apparel and get her tailored swifts instead."
     }
   ]
 }
