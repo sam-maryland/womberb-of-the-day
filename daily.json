@@ -1,30 +1,30 @@
 {
-  "sentence": "No barbebisket forgives tailored swifts bought at the gas station.",
-  "date": "2026-09-29",
-  "theme": "food",
+  "sentence": "Never clavaxxmaxx for a sonificant other who hasn't looked up yet.",
+  "date": "2026-09-30",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Barbebisket",
+      "word": "Sonificant other",
       "components": [
-        "Barbecue",
-        "Brisket"
+        "Son",
+        "Significant other"
       ],
-      "definition": "Barbecue brisket elevated to peak cookout status \u2014 the cinematic centerpiece of any serious barbecue spread.",
-      "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "He smoked it for twelve hours \u2014 that barbebisket was unreal."
-    },
-    {
-      "word": "Tailored Swifts",
-      "components": [
-        "Tailored",
-        "Sweet",
-        "Gifts"
-      ],
-      "definition": "A thoughtful, personalized gift picked specifically for the recipient \u2014 the opposite of generic, one-size-fits-all giving.",
+      "definition": "A significant other who carries son energy \u2014 a romantic partner you regard with that grounded, familiar affection.",
       "part_of_speech": "Noun",
       "theme": "relationships",
-      "example": "Skip the average apparel and get her tailored swifts instead."
+      "example": "She's not just my girlfriend, she's my sonificant other."
+    },
+    {
+      "word": "Clavaxxmaxx",
+      "components": [
+        "Clavicular",
+        "Vacuum",
+        "Maxx"
+      ],
+      "definition": "To maximally vacuum or define the clavicular area \u2014 an extreme form of looksmaxxing targeting the collarbone region.",
+      "part_of_speech": "Verb",
+      "theme": "looksmaxxing",
+      "example": "He pulled out the Black and Decker and started to clavaxxmaxx like his life depended on it."
     }
   ]
 }
