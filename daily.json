@@ -1,29 +1,30 @@
 {
-  "sentence": "FONO will choke your tuutledge before the fourth quarter arrives.",
-  "date": "2026-10-01",
-  "theme": "ball",
+  "sentence": "Espressopotamianmaxxing cannot cure a ponchalashout you walked into dry.",
+  "date": "2026-10-02",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Tuutledge",
+      "word": "Ponchalashout",
       "components": [
-        "Clutch Ball Knowledge",
-        "College"
-      ],
-      "definition": "The advanced, high-pressure knowledge of ball that only comes from studying clutch moments \u2014 the elite tier of ball education.",
-      "part_of_speech": "Noun",
-      "theme": "ball",
-      "example": "You can't learn tuutledge from just watching highlights \u2014 you have to study the game."
-    },
-    {
-      "word": "FONO",
-      "components": [
-        "Fear",
+        "Poncho",
         "Nonchalashout"
       ],
-      "definition": "Fear of nonchalashout \u2014 the anxiety that someone around you is on the verge of a calm but unpredictable meltdown.",
+      "definition": "A nonchalashout undertaken while wearing a poncho \u2014 a softly draped, slightly damp version of internal collapse.",
       "part_of_speech": "Noun",
       "theme": "emotion",
-      "example": "I had serious FONO watching him sit there silently at dinner."
+      "example": "Caught in the rain at the bus stop, he eased into a ponchalashout."
+    },
+    {
+      "word": "Espressopotamianmaxxing",
+      "components": [
+        "Espresso",
+        "Mesopotamian",
+        "Maxxing"
+      ],
+      "definition": "Maximally combining espresso intake with Mesopotamian-coded historical depth \u2014 caffeinating yourself into ancient-civilization-tier focus.",
+      "part_of_speech": "Verb",
+      "theme": "focus",
+      "example": "We were supposed to go espressopotamianmaxxing but he never showed."
     }
   ]
 }
