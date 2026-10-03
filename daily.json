@@ -1,30 +1,18 @@
 {
-  "sentence": "Espressopotamianmaxxing cannot cure a ponchalashout you walked into dry.",
-  "date": "2026-10-02",
+  "sentence": "Wombersations do not belong in nonchalontexts. Save them.",
+  "date": "2026-10-03",
   "theme": "emotion",
   "wombos": [
     {
-      "word": "Ponchalashout",
+      "word": "Nonchalontexts",
       "components": [
-        "Poncho",
-        "Nonchalashout"
+        "Nonchalant",
+        "Contexts"
       ],
-      "definition": "A nonchalashout undertaken while wearing a poncho \u2014 a softly draped, slightly damp version of internal collapse.",
+      "definition": "Situations in which a nonchalant disposition is appropriate or expected \u2014 the specific contexts that call for a measured, unbothered posture.",
       "part_of_speech": "Noun",
       "theme": "emotion",
-      "example": "Caught in the rain at the bus stop, he eased into a ponchalashout."
-    },
-    {
-      "word": "Espressopotamianmaxxing",
-      "components": [
-        "Espresso",
-        "Mesopotamian",
-        "Maxxing"
-      ],
-      "definition": "Maximally combining espresso intake with Mesopotamian-coded historical depth \u2014 caffeinating yourself into ancient-civilization-tier focus.",
-      "part_of_speech": "Verb",
-      "theme": "focus",
-      "example": "We were supposed to go espressopotamianmaxxing but he never showed."
+      "example": "Funerals, first dates, and HR meetings are classic nonchalontexts."
     }
   ]
 }
