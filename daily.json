@@ -1,18 +1,29 @@
 {
-  "sentence": "Wombersations do not belong in nonchalontexts. Save them.",
-  "date": "2026-10-03",
-  "theme": "emotion",
+  "sentence": "Peterpeanemis lands harder than dripage you've been sitting on all night.",
+  "date": "2026-10-04",
+  "theme": "style",
   "wombos": [
     {
-      "word": "Nonchalontexts",
+      "word": "Dripage",
       "components": [
-        "Nonchalant",
-        "Contexts"
+        "Drip",
+        "Leverage"
       ],
-      "definition": "Situations in which a nonchalant disposition is appropriate or expected \u2014 the specific contexts that call for a measured, unbothered posture.",
+      "definition": "The competitive advantage gained through superior drip \u2014 style as a form of social leverage that puts you above others in a given setting.",
       "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "Funerals, first dates, and HR meetings are classic nonchalontexts."
+      "theme": "style",
+      "example": "We showed up to the party with more dripage than anyone else there."
+    },
+    {
+      "word": "Peterpeanemis",
+      "components": [
+        "Petite Faster",
+        "Peak Cinema Analysis"
+      ],
+      "definition": "A peak cinema analysis delivered at a quick, compact pace \u2014 a small but rapid critical breakdown.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": "Give me the peterpeanemis \u2014 I only have two minutes before the movie starts."
     }
   ]
 }
