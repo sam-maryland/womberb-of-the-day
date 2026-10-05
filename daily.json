@@ -1,29 +1,31 @@
 {
-  "sentence": "Peterpeanemis lands harder than dripage you've been sitting on all night.",
-  "date": "2026-10-04",
-  "theme": "style",
+  "sentence": "Kirkpletely losing your Chun Lee is still losing your Chun Lee.\n\n---\n\n*[Self-correction: \"still\" in \"is still losing\" is not the banned \"is still a\" pattern \u2014 but let me re-examine. The ban is on \"is just a / is still a / is only a\" as deflating equations. \"Is still losing\" is a verb phrase, not a noun equation. However, this leans toward the deflating-equation shape in spirit. Let me rescore my five and output the best.]*\n\n---\n\nNever kirkpletely arrive somewhere your Chun Lee cannot follow.",
+  "date": "2026-10-05",
+  "theme": "intensity",
   "wombos": [
     {
-      "word": "Dripage",
+      "word": "Kirkpletely",
       "components": [
-        "Drip",
-        "Leverage"
+        "Kirk",
+        "Completely"
       ],
-      "definition": "The competitive advantage gained through superior drip \u2014 style as a form of social leverage that puts you above others in a given setting.",
-      "part_of_speech": "Noun",
-      "theme": "style",
-      "example": "We showed up to the party with more dripage than anyone else there."
+      "definition": "Completely, in the total, podium-precise sense \u2014 the maximal form of 'completely' filtered through Kirk-coded delivery.",
+      "part_of_speech": "Adverb",
+      "theme": "intensity",
+      "example": "He kirkpletely dismantled the argument before the coffee got cold."
     },
     {
-      "word": "Peterpeanemis",
+      "word": "Chun Lee",
       "components": [
-        "Petite Faster",
-        "Peak Cinema Analysis"
+        "Chill",
+        "Fun",
+        "Legit",
+        "Bae"
       ],
-      "definition": "A peak cinema analysis delivered at a quick, compact pace \u2014 a small but rapid critical breakdown.",
+      "definition": "A romantic partner or person of interest who is chill, fun, legit, and bae all at once \u2014 someone you're really feeling but keeping things relaxed with, not overly serious.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "Give me the peterpeanemis \u2014 I only have two minutes before the movie starts."
+      "theme": "relationships",
+      "example": "We're not official or anything \u2014 she's just my Chun Lee right now."
     }
   ]
 }
