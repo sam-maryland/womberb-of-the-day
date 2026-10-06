@@ -1,31 +1,31 @@
 {
-  "sentence": "Kirkpletely losing your Chun Lee is still losing your Chun Lee.\n\n---\n\n*[Self-correction: \"still\" in \"is still losing\" is not the banned \"is still a\" pattern \u2014 but let me re-examine. The ban is on \"is just a / is still a / is only a\" as deflating equations. \"Is still losing\" is a verb phrase, not a noun equation. However, this leans toward the deflating-equation shape in spirit. Let me rescore my five and output the best.]*\n\n---\n\nNever kirkpletely arrive somewhere your Chun Lee cannot follow.",
-  "date": "2026-10-05",
-  "theme": "intensity",
+  "sentence": "No gokew lands twice in the same brarpetorium.",
+  "date": "2026-10-06",
+  "theme": "friendship",
   "wombos": [
     {
-      "word": "Kirkpletely",
+      "word": "Brarpetorium",
       "components": [
-        "Kirk",
-        "Completely"
+        "Bro",
+        "Carpet",
+        "Auditorium"
       ],
-      "definition": "Completely, in the total, podium-precise sense \u2014 the maximal form of 'completely' filtered through Kirk-coded delivery.",
-      "part_of_speech": "Adverb",
-      "theme": "intensity",
-      "example": "He kirkpletely dismantled the argument before the coffee got cold."
+      "definition": "A frat house, apartment, or dorm dominated by bro energy \u2014 a brarpet-lined venue for all bro social events. The large-scale indoor bro-coded equivalent of a gazebro.",
+      "part_of_speech": "Noun",
+      "theme": "friendship",
+      "example": ""
     },
     {
-      "word": "Chun Lee",
+      "word": "Gokew",
       "components": [
-        "Chill",
-        "Fun",
-        "Legit",
-        "Bae"
+        "Gag",
+        "Joke",
+        "New"
       ],
-      "definition": "A romantic partner or person of interest who is chill, fun, legit, and bae all at once \u2014 someone you're really feeling but keeping things relaxed with, not overly serious.",
+      "definition": "A fresh, unexpected comedic moment that functions as both a gag and a joke \u2014 a new-tier bit that catches everyone off guard.",
       "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "We're not official or anything \u2014 she's just my Chun Lee right now."
+      "theme": "humor",
+      "example": "Tripping and playing it off like that was an unintentional level-seven gokew."
     }
   ]
 }
