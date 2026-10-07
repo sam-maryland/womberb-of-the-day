@@ -1,31 +1,29 @@
 {
-  "sentence": "No gokew lands twice in the same brarpetorium.",
-  "date": "2026-10-06",
-  "theme": "friendship",
+  "sentence": "Jorked in on beautifunc energy hits different than being ready.\n\n---\n\nThat failed my own process. Let me rescore silently and restart.\n\n---\n\nStay jorked in. No beautifunc walks through unbothered.",
+  "date": "2026-10-07",
+  "theme": "appearance",
   "wombos": [
     {
-      "word": "Brarpetorium",
+      "word": "Beautifunc",
       "components": [
-        "Bro",
-        "Carpet",
-        "Auditorium"
+        "Beautiful",
+        "Unc"
       ],
-      "definition": "A frat house, apartment, or dorm dominated by bro energy \u2014 a brarpet-lined venue for all bro social events. The large-scale indoor bro-coded equivalent of a gazebro.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": ""
+      "definition": "A beautiful unc \u2014 an older man who carries himself with an attractive, distinguished energy.",
+      "part_of_speech": "Adjective",
+      "theme": "appearance",
+      "example": "He walked in looking all beautifunc with that silver hair."
     },
     {
-      "word": "Gokew",
+      "word": "Jorked In",
       "components": [
-        "Gag",
-        "Joke",
-        "New"
+        "John Pork",
+        "Locked In"
       ],
-      "definition": "A fresh, unexpected comedic moment that functions as both a gag and a joke \u2014 a new-tier bit that catches everyone off guard.",
-      "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": "Tripping and playing it off like that was an unintentional level-seven gokew."
+      "definition": "The state of being locked in through a John Pork lens \u2014 fully focused and immersed, specifically in pork-coded activity or lore.",
+      "part_of_speech": "Adjective",
+      "theme": "focus",
+      "example": "He's been jorked in studying the lore for three hours straight."
     }
   ]
 }
