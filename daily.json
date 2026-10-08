@@ -1,29 +1,29 @@
 {
-  "sentence": "Jorked in on beautifunc energy hits different than being ready.\n\n---\n\nThat failed my own process. Let me rescore silently and restart.\n\n---\n\nStay jorked in. No beautifunc walks through unbothered.",
-  "date": "2026-10-07",
-  "theme": "appearance",
+  "sentence": "Clevarious lands differently when the transformer earned the room.",
+  "date": "2026-10-08",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Beautifunc",
+      "word": "Clevarious",
       "components": [
-        "Beautiful",
-        "Unc"
+        "Clever",
+        "Hilarious"
       ],
-      "definition": "A beautiful unc \u2014 an older man who carries himself with an attractive, distinguished energy.",
+      "definition": "Both clever and hilarious at once \u2014 describing a person, remark, or moment that is impressively witty and genuinely funny.",
       "part_of_speech": "Adjective",
-      "theme": "appearance",
-      "example": "He walked in looking all beautifunc with that silver hair."
+      "theme": "humor",
+      "example": "Her response was so clevarious that the whole room lost it."
     },
     {
-      "word": "Jorked In",
+      "word": "Transformer",
       "components": [
-        "John Pork",
-        "Locked In"
+        "Trans",
+        "Performer"
       ],
-      "definition": "The state of being locked in through a John Pork lens \u2014 fully focused and immersed, specifically in pork-coded activity or lore.",
-      "part_of_speech": "Adjective",
-      "theme": "focus",
-      "example": "He's been jorked in studying the lore for three hours straight."
+      "definition": "A trans performer \u2014 someone who is both trans and a performer, holding and celebrating both identities.",
+      "part_of_speech": "Noun",
+      "theme": "identity",
+      "example": "She's a transformer who's been killing it on stage since her debut."
     }
   ]
 }
