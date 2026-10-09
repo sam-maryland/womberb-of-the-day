@@ -1,29 +1,30 @@
 {
-  "sentence": "Clevarious lands differently when the transformer earned the room.",
-  "date": "2026-10-08",
-  "theme": "humor",
+  "sentence": "Never take your lowkesbian into a brarpetorium still deciding if it's welcome.",
+  "date": "2026-10-09",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Clevarious",
+      "word": "Lowkesbian",
       "components": [
-        "Clever",
-        "Hilarious"
+        "Lowkey",
+        "Lesbian"
       ],
-      "definition": "Both clever and hilarious at once \u2014 describing a person, remark, or moment that is impressively witty and genuinely funny.",
+      "definition": "Lowkey lesbian \u2014 someone who is subtly or quietly lesbian, whether in identity, vibe, or presentation.",
       "part_of_speech": "Adjective",
-      "theme": "humor",
-      "example": "Her response was so clevarious that the whole room lost it."
+      "theme": "identity",
+      "example": "She never made a big announcement \u2014 just fully lowkesbian and at peace with it."
     },
     {
-      "word": "Transformer",
+      "word": "Brarpetorium",
       "components": [
-        "Trans",
-        "Performer"
+        "Bro",
+        "Carpet",
+        "Auditorium"
       ],
-      "definition": "A trans performer \u2014 someone who is both trans and a performer, holding and celebrating both identities.",
+      "definition": "A frat house, apartment, or dorm dominated by bro energy \u2014 a brarpet-lined venue for all bro social events. The large-scale indoor bro-coded equivalent of a gazebro.",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "She's a transformer who's been killing it on stage since her debut."
+      "theme": "friendship",
+      "example": ""
     }
   ]
 }
