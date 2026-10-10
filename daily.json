@@ -1,30 +1,32 @@
 {
-  "sentence": "Never take your lowkesbian into a brarpetorium still deciding if it's welcome.",
-  "date": "2026-10-09",
-  "theme": "identity",
+  "sentence": "Deliver your spicypeanemis before the brofessor calls on someone else.",
+  "date": "2026-10-10",
+  "theme": "academia",
   "wombos": [
     {
-      "word": "Lowkesbian",
-      "components": [
-        "Lowkey",
-        "Lesbian"
-      ],
-      "definition": "Lowkey lesbian \u2014 someone who is subtly or quietly lesbian, whether in identity, vibe, or presentation.",
-      "part_of_speech": "Adjective",
-      "theme": "identity",
-      "example": "She never made a big announcement \u2014 just fully lowkesbian and at peace with it."
-    },
-    {
-      "word": "Brarpetorium",
+      "word": "Brofessor",
       "components": [
         "Bro",
-        "Carpet",
-        "Auditorium"
+        "Professor"
       ],
-      "definition": "A frat house, apartment, or dorm dominated by bro energy \u2014 a brarpet-lined venue for all bro social events. The large-scale indoor bro-coded equivalent of a gazebro.",
+      "definition": "A professor who operates with bro energy \u2014 an instructor who is knowledgeable but also approachable and chill in their delivery.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": ""
+      "theme": "academia",
+      "example": "My Brofessor assigned 67 pages but at least he's cool about it."
+    },
+    {
+      "word": "Spicypeanemis",
+      "components": [
+        "Spine-Chilling",
+        "Icy",
+        "Peak",
+        "Cinema",
+        "Analysis"
+      ],
+      "definition": "A peak cinema analysis delivered cold and cutting \u2014 spine-chilling, icy, and surgical. The icy counterpart to a froastypeanemis.",
+      "part_of_speech": "Noun",
+      "theme": "analysis",
+      "example": "He didn't soften a single word \u2014 pure spicypeanemis."
     }
   ]
 }
