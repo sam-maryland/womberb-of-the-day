@@ -1,32 +1,29 @@
 {
-  "sentence": "Deliver your spicypeanemis before the brofessor calls on someone else.",
-  "date": "2026-10-10",
-  "theme": "academia",
+  "sentence": "Luncked in men do not stop for peaneworks.",
+  "date": "2026-10-11",
+  "theme": "focus",
   "wombos": [
     {
-      "word": "Brofessor",
+      "word": "Luncked In",
       "components": [
-        "Bro",
-        "Professor"
+        "Locked In",
+        "Unc"
       ],
-      "definition": "A professor who operates with bro energy \u2014 an instructor who is knowledgeable but also approachable and chill in their delivery.",
-      "part_of_speech": "Noun",
-      "theme": "academia",
-      "example": "My Brofessor assigned 67 pages but at least he's cool about it."
+      "definition": "The state of an unc who is deeply focused, dialed in, and operating at full capacity.",
+      "part_of_speech": "Adjective",
+      "theme": "focus",
+      "example": "Don't disturb him \u2014 he's completely luncked in right now."
     },
     {
-      "word": "Spicypeanemis",
+      "word": "Peaneworks",
       "components": [
-        "Spine-Chilling",
-        "Icy",
-        "Peak",
-        "Cinema",
-        "Analysis"
+        "Peak Cinema",
+        "Fireworks"
       ],
-      "definition": "A peak cinema analysis delivered cold and cutting \u2014 spine-chilling, icy, and surgical. The icy counterpart to a froastypeanemis.",
+      "definition": "Peak cinema fireworks \u2014 a display so visually spectacular and emotionally resonant that it reaches full cinematic achievement.",
       "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "He didn't soften a single word \u2014 pure spicypeanemis."
+      "theme": "celebration",
+      "example": "The grand finale was straight peaneworks \u2014 I almost cried."
     }
   ]
 }
