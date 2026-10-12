@@ -1,29 +1,30 @@
 {
-  "sentence": "Luncked in men do not stop for peaneworks.",
-  "date": "2026-10-11",
-  "theme": "focus",
+  "sentence": "Texticular dysfunction cannot guide a babay through a door they must read themselves.",
+  "date": "2026-10-12",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Luncked In",
+      "word": "Babay",
       "components": [
-        "Locked In",
-        "Unc"
+        "Baby Gay",
+        "Okay"
       ],
-      "definition": "The state of an unc who is deeply focused, dialed in, and operating at full capacity.",
-      "part_of_speech": "Adjective",
-      "theme": "focus",
-      "example": "Don't disturb him \u2014 he's completely luncked in right now."
+      "definition": "A baby gay \u2014 someone newly exploring or embracing their queer identity, still in the early, tender stages of that journey.",
+      "part_of_speech": "Noun",
+      "theme": "identity",
+      "example": "She just came out last month \u2014 total babay, and thriving."
     },
     {
-      "word": "Peaneworks",
+      "word": "Texticular Dysfunction",
       "components": [
-        "Peak Cinema",
-        "Fireworks"
+        "Text",
+        "Particular",
+        "Dysfunction"
       ],
-      "definition": "Peak cinema fireworks \u2014 a display so visually spectacular and emotionally resonant that it reaches full cinematic achievement.",
+      "definition": "A self-diagnosed condition of strongly preferring to have text read aloud rather than reading it yourself. A play on \"testicular dysfunction.\"",
       "part_of_speech": "Noun",
-      "theme": "celebration",
-      "example": "The grand finale was straight peaneworks \u2014 I almost cried."
+      "theme": "lifestyle",
+      "example": "I've got severe texticular dysfunction \u2014 just let the app read it to me."
     }
   ]
 }
