@@ -1,30 +1,30 @@
 {
-  "sentence": "Texticular dysfunction cannot guide a babay through a door they must read themselves.",
-  "date": "2026-10-12",
-  "theme": "identity",
+  "sentence": "Feed your goonies before they get hangry. Feed yourself first.",
+  "date": "2026-10-13",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Babay",
+      "word": "Hangry",
       "components": [
-        "Baby Gay",
-        "Okay"
+        "Hungry",
+        "Angry"
       ],
-      "definition": "A baby gay \u2014 someone newly exploring or embracing their queer identity, still in the early, tender stages of that journey.",
-      "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "She just came out last month \u2014 total babay, and thriving."
+      "definition": "Irritable or short-tempered as a direct result of being hungry.",
+      "part_of_speech": "Adjective",
+      "theme": "emotion",
+      "example": "Sorry I snapped at you \u2014 I was just hangry before dinner."
     },
     {
-      "word": "Texticular Dysfunction",
+      "word": "Goonies",
       "components": [
-        "Text",
-        "Particular",
-        "Dysfunction"
+        "Good",
+        "Opinion",
+        "Homies"
       ],
-      "definition": "A self-diagnosed condition of strongly preferring to have text read aloud rather than reading it yourself. A play on \"testicular dysfunction.\"",
+      "definition": "Genuine, grounded friends who consistently have good opinions (goonions) \u2014 the opposite of looksmaxxers, clout chasers, and pick-mes.",
       "part_of_speech": "Noun",
-      "theme": "lifestyle",
-      "example": "I've got severe texticular dysfunction \u2014 just let the app read it to me."
+      "theme": "friendship",
+      "example": "Skip the clout chasers and stick with your goonies."
     }
   ]
 }
