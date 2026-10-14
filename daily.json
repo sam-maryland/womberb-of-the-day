@@ -1,30 +1,29 @@
 {
-  "sentence": "Feed your goonies before they get hangry. Feed yourself first.",
-  "date": "2026-10-13",
-  "theme": "emotion",
+  "sentence": "Deadassonate like a John Kork or don't open your mouth.",
+  "date": "2026-10-14",
+  "theme": "culture",
   "wombos": [
     {
-      "word": "Hangry",
+      "word": "John Kork",
       "components": [
-        "Hungry",
-        "Angry"
+        "John Pork",
+        "Kirk"
       ],
-      "definition": "Irritable or short-tempered as a direct result of being hungry.",
-      "part_of_speech": "Adjective",
-      "theme": "emotion",
-      "example": "Sorry I snapped at you \u2014 I was just hangry before dinner."
+      "definition": "A John Pork and Kirk crossover figure \u2014 someone who embodies both the pork lore of John Pork and the commanding presence of a Kirk.",
+      "part_of_speech": "Noun",
+      "theme": "culture",
+      "example": "The edit had him looking like a total John Kork."
     },
     {
-      "word": "Goonies",
+      "word": "Deadassonate",
       "components": [
-        "Good",
-        "Opinion",
-        "Homies"
+        "Deadassionate",
+        "Son"
       ],
-      "definition": "Genuine, grounded friends who consistently have good opinions (goonions) \u2014 the opposite of looksmaxxers, clout chasers, and pick-mes.",
-      "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "Skip the clout chasers and stick with your goonies."
+      "definition": "To be deadassionate in a son-coded register \u2014 expressing total sincerity with the energy of someone younger or in a subordinate position.",
+      "part_of_speech": "Verb",
+      "theme": "emotion",
+      "example": "He deadassonated his way through the whole speech and I believed every word."
     }
   ]
 }
