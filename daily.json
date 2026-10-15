@@ -1,29 +1,29 @@
 {
-  "sentence": "Deadassonate like a John Kork or don't open your mouth.",
-  "date": "2026-10-14",
-  "theme": "culture",
+  "sentence": "Nail the Frodoandalf. The spork can wait.",
+  "date": "2026-10-15",
+  "theme": "sports",
   "wombos": [
     {
-      "word": "John Kork",
+      "word": "Frodoandalf",
       "components": [
-        "John Pork",
-        "Kirk"
+        "Frodo",
+        "Gandalf"
       ],
-      "definition": "A John Pork and Kirk crossover figure \u2014 someone who embodies both the pork lore of John Pork and the commanding presence of a Kirk.",
+      "definition": "A front two-and-a-half dive \u2014 a gymnastic or diving move that blends the small, committed energy of Frodo with the powerful, sweeping arc of Gandalf.",
       "part_of_speech": "Noun",
-      "theme": "culture",
-      "example": "The edit had him looking like a total John Kork."
+      "theme": "sports",
+      "example": "He stepped up to the board and launched into a clean Frodoandalf."
     },
     {
-      "word": "Deadassonate",
+      "word": "Spork",
       "components": [
-        "Deadassionate",
-        "Son"
+        "Spoon",
+        "Fork"
       ],
-      "definition": "To be deadassionate in a son-coded register \u2014 expressing total sincerity with the energy of someone younger or in a subordinate position.",
-      "part_of_speech": "Verb",
-      "theme": "emotion",
-      "example": "He deadassonated his way through the whole speech and I believed every word."
+      "definition": "A utensil that combines the bowl of a spoon with the tines of a fork, functioning as both simultaneously.",
+      "part_of_speech": "Noun",
+      "theme": "food",
+      "example": "The school cafeteria only had sporks, so I used one for the whole meal."
     }
   ]
 }
