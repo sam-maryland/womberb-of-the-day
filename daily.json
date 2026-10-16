@@ -1,29 +1,29 @@
 {
-  "sentence": "Nail the Frodoandalf. The spork can wait.",
-  "date": "2026-10-15",
-  "theme": "sports",
+  "sentence": "Ginormous borkledge means nothing if you flinch at the pig.",
+  "date": "2026-10-16",
+  "theme": "size",
   "wombos": [
     {
-      "word": "Frodoandalf",
+      "word": "Ginormous",
       "components": [
-        "Frodo",
-        "Gandalf"
+        "Gigantic",
+        "Enormous"
       ],
-      "definition": "A front two-and-a-half dive \u2014 a gymnastic or diving move that blends the small, committed energy of Frodo with the powerful, sweeping arc of Gandalf.",
-      "part_of_speech": "Noun",
-      "theme": "sports",
-      "example": "He stepped up to the board and launched into a clean Frodoandalf."
+      "definition": "Extremely large; of a size that exceeds what gigantic or enormous alone can adequately describe.",
+      "part_of_speech": "Adjective",
+      "theme": "size",
+      "example": "That burger was ginormous \u2014 I couldn't even finish half of it."
     },
     {
-      "word": "Spork",
+      "word": "Borkledge",
       "components": [
-        "Spoon",
-        "Fork"
+        "John Pork",
+        "Knowledge"
       ],
-      "definition": "A utensil that combines the bowl of a spoon with the tines of a fork, functioning as both simultaneously.",
+      "definition": "Knowledge about John Pork \u2014 an understanding of his lore and world.",
       "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "The school cafeteria only had sporks, so I used one for the whole meal."
+      "theme": "johnpork",
+      "example": "She passed the quiz because her borkledge was unmatched."
     }
   ]
 }
