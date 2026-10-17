@@ -1,29 +1,30 @@
 {
-  "sentence": "Ginormous borkledge means nothing if you flinch at the pig.",
-  "date": "2026-10-16",
-  "theme": "size",
+  "sentence": "Capstrating noise will drown out your suzookie's voice.",
+  "date": "2026-10-17",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Ginormous",
+      "word": "Capstrating",
       "components": [
-        "Gigantic",
-        "Enormous"
+        "Capping",
+        "Frustrating"
       ],
-      "definition": "Extremely large; of a size that exceeds what gigantic or enormous alone can adequately describe.",
+      "definition": "The frustrating experience of someone capping relentlessly \u2014 the particular irritation caused when someone keeps lying or exaggerating beyond what you can tolerate.",
       "part_of_speech": "Adjective",
-      "theme": "size",
-      "example": "That burger was ginormous \u2014 I couldn't even finish half of it."
+      "theme": "emotion",
+      "example": "It's so capstrating how he brags about stuff that never happened."
     },
     {
-      "word": "Borkledge",
+      "word": "Suzookie",
       "components": [
-        "John Pork",
-        "Knowledge"
+        "Special",
+        "Huzz",
+        "Pookie"
       ],
-      "definition": "Knowledge about John Pork \u2014 an understanding of his lore and world.",
+      "definition": "A special, huzz-worthy pookie \u2014 the ideal romantic partner, someone uniquely suited to be your person.",
       "part_of_speech": "Noun",
-      "theme": "johnpork",
-      "example": "She passed the quiz because her borkledge was unmatched."
+      "theme": "romance",
+      "example": "After all that guybernation, he finally manifested his suzookie."
     }
   ]
 }
