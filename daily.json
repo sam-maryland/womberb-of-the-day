@@ -1,29 +1,31 @@
 {
-  "sentence": "Fares mean Nathan when you're the one not looking back.",
-  "date": "2026-10-18",
-  "theme": "social",
+  "sentence": "Nocomprendi costs nothing. Your Chun Lee will remember exactly how you spent it.",
+  "date": "2026-10-19",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Fares",
+      "word": "Chun Lee",
       "components": [
-        "Fast",
-        "Stares"
+        "Chill",
+        "Fun",
+        "Legit",
+        "Bae"
       ],
-      "definition": "Quick, darting glances from strangers \u2014 the fast stares you catch out of the corner of your eye that vanish the moment you look back.",
+      "definition": "A romantic partner or person of interest who is chill, fun, legit, and bae all at once \u2014 someone you're really feeling but keeping things relaxed with, not overly serious.",
       "part_of_speech": "Noun",
-      "theme": "social",
-      "example": "I was getting so many fares at the grocery store I checked if something was on my face."
+      "theme": "relationships",
+      "example": "We're not official or anything \u2014 she's just my Chun Lee right now."
     },
     {
-      "word": "Nathan",
+      "word": "Nocomprendi",
       "components": [
-        "Nada",
-        "Nothing"
+        "No compromise",
+        "No comprendo"
       ],
-      "definition": "A bilingual intensifier meaning absolutely nothing \u2014 a blend of the Spanish nada and the English nothing used for emphatic negation.",
-      "part_of_speech": "Noun",
-      "theme": "bilingual",
-      "example": "I have Nathan to wear to this party."
+      "definition": "A firm, bilingual refusal to engage with a request or complaint \u2014 a declaration that you will not be changing, explaining, or accommodating. The Professor Sendy equivalent of 'not my problem.'",
+      "part_of_speech": "Phrase",
+      "theme": "refusal",
+      "example": "You want me to redo the whole thing? No comprendi."
     }
   ]
 }
