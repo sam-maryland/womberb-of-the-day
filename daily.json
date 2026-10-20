@@ -1,31 +1,29 @@
 {
-  "sentence": "Nocomprendi costs nothing. Your Chun Lee will remember exactly how you spent it.",
-  "date": "2026-10-19",
+  "sentence": "Your broppelganger cannot deliver your peterpeanemis for you.",
+  "date": "2026-10-20",
   "theme": "relationships",
   "wombos": [
     {
-      "word": "Chun Lee",
+      "word": "Broppelganger",
       "components": [
-        "Chill",
-        "Fun",
-        "Legit",
-        "Bae"
+        "Bro",
+        "Doppelganger"
       ],
-      "definition": "A romantic partner or person of interest who is chill, fun, legit, and bae all at once \u2014 someone you're really feeling but keeping things relaxed with, not overly serious.",
+      "definition": "A bro who looks strikingly similar to you \u2014 your bro-coded double, a friend who could pass as your twin.",
       "part_of_speech": "Noun",
       "theme": "relationships",
-      "example": "We're not official or anything \u2014 she's just my Chun Lee right now."
+      "example": "Everyone thinks we're brothers \u2014 he's literally my broppelganger."
     },
     {
-      "word": "Nocomprendi",
+      "word": "Peterpeanemis",
       "components": [
-        "No compromise",
-        "No comprendo"
+        "Petite Faster",
+        "Peak Cinema Analysis"
       ],
-      "definition": "A firm, bilingual refusal to engage with a request or complaint \u2014 a declaration that you will not be changing, explaining, or accommodating. The Professor Sendy equivalent of 'not my problem.'",
-      "part_of_speech": "Phrase",
-      "theme": "refusal",
-      "example": "You want me to redo the whole thing? No comprendi."
+      "definition": "A peak cinema analysis delivered at a quick, compact pace \u2014 a small but rapid critical breakdown.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": "Give me the peterpeanemis \u2014 I only have two minutes before the movie starts."
     }
   ]
 }
