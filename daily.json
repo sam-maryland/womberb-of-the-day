@@ -1,29 +1,18 @@
 {
-  "sentence": "Your broppelganger cannot deliver your peterpeanemis for you.",
-  "date": "2026-10-20",
-  "theme": "relationships",
+  "sentence": "Wu pappenin' means nothing without the unclepeanemis to answer it.",
+  "date": "2026-10-21",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Broppelganger",
+      "word": "Unclepeanemis",
       "components": [
-        "Bro",
-        "Doppelganger"
-      ],
-      "definition": "A bro who looks strikingly similar to you \u2014 your bro-coded double, a friend who could pass as your twin.",
-      "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "Everyone thinks we're brothers \u2014 he's literally my broppelganger."
-    },
-    {
-      "word": "Peterpeanemis",
-      "components": [
-        "Petite Faster",
+        "Unc Clever",
         "Peak Cinema Analysis"
       ],
-      "definition": "A peak cinema analysis delivered at a quick, compact pace \u2014 a small but rapid critical breakdown.",
+      "definition": "A peak cinema analysis delivered with the energy of Unc Clever \u2014 a wise, seasoned critical breakdown.",
       "part_of_speech": "Noun",
       "theme": "cinema",
-      "example": "Give me the peterpeanemis \u2014 I only have two minutes before the movie starts."
+      "example": "Grandpa walked in and dropped the most unexpected unclepeanemis."
     }
   ]
 }
