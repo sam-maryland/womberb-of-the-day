@@ -1,18 +1,30 @@
 {
-  "sentence": "Wu pappenin' means nothing without the unclepeanemis to answer it.",
-  "date": "2026-10-21",
-  "theme": "cinema",
+  "sentence": "Jorky ehh energy will smother a lowkaura before noon.",
+  "date": "2026-10-22",
+  "theme": "energy",
   "wombos": [
     {
-      "word": "Unclepeanemis",
+      "word": "Lowkaura",
       "components": [
-        "Unc Clever",
-        "Peak Cinema Analysis"
+        "Lowkey",
+        "Aura"
       ],
-      "definition": "A peak cinema analysis delivered with the energy of Unc Clever \u2014 a wise, seasoned critical breakdown.",
+      "definition": "A subtle, understated aura \u2014 the kind of presence that is quietly powerful without demanding attention.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "Grandpa walked in and dropped the most unexpected unclepeanemis."
+      "theme": "energy",
+      "example": "He never brags, but the lowkaura he carries speaks for itself."
+    },
+    {
+      "word": "Jorky Ehh",
+      "components": [
+        "John Pork",
+        "Funky",
+        "Ehh"
+      ],
+      "definition": "Funky in a John Pork way, but only sort of \u2014 a vibe that is simultaneously off-beat and lukewarm, distinctly pork-coded but not fully committing.",
+      "part_of_speech": "Adjective",
+      "theme": "vibe",
+      "example": "The beat was jorky ehh \u2014 had potential but didn't fully land."
     }
   ]
 }
