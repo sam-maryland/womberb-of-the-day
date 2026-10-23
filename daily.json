@@ -1,30 +1,31 @@
 {
-  "sentence": "Jorky ehh energy will smother a lowkaura before noon.",
-  "date": "2026-10-22",
-  "theme": "energy",
+  "sentence": "No Sanutyzabushwazoo completes itself for a jorkesbian still hiding at the gate.",
+  "date": "2026-10-23",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Lowkaura",
+      "word": "Jorkesbian",
       "components": [
-        "Lowkey",
-        "Aura"
+        "Jork",
+        "Lesbian"
       ],
-      "definition": "A subtle, understated aura \u2014 the kind of presence that is quietly powerful without demanding attention.",
+      "definition": "A John Pork lesbian \u2014 a queer identity existing within the Jork cinematic universe.",
       "part_of_speech": "Noun",
-      "theme": "energy",
-      "example": "He never brags, but the lowkaura he carries speaks for itself."
+      "theme": "identity",
+      "example": "She came out as a jorkesbian at the jorkedding reception."
     },
     {
-      "word": "Jorky Ehh",
+      "word": "Sanutyzabushwazoo",
       "components": [
-        "John Pork",
-        "Funky",
-        "Ehh"
+        "Sanutyza",
+        "Busch",
+        "Gaewach",
+        "Saint Louis Zoo"
       ],
-      "definition": "Funky in a John Pork way, but only sort of \u2014 a vibe that is simultaneously off-beat and lukewarm, distinctly pork-coded but not fully committing.",
-      "part_of_speech": "Adjective",
-      "theme": "vibe",
-      "example": "The beat was jorky ehh \u2014 had potential but didn't fully land."
+      "definition": "Saint Louis, Anheuser-Busch, the Gateway Arch, and the Saint Louis Zoo \u2014 an expanded wombo capturing the full Saint Louis landmark experience.",
+      "part_of_speech": "Noun",
+      "theme": "places",
+      "example": "A true Saint Louis day is a full Sanutyzabushwazoo experience."
     }
   ]
 }
