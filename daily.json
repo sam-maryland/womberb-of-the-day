@@ -1,31 +1,29 @@
 {
-  "sentence": "No Sanutyzabushwazoo completes itself for a jorkesbian still hiding at the gate.",
-  "date": "2026-10-23",
+  "sentence": "Every dollaryon needed a cisally in the crowd first.",
+  "date": "2026-10-24",
   "theme": "identity",
   "wombos": [
     {
-      "word": "Jorkesbian",
+      "word": "Cisally",
       "components": [
-        "Jork",
-        "Lesbian"
+        "Cisgender",
+        "Ally"
       ],
-      "definition": "A John Pork lesbian \u2014 a queer identity existing within the Jork cinematic universe.",
+      "definition": "A cisgender person who is an active ally to LGBTQ+ people \u2014 someone who uses their cis identity as a platform for support and advocacy.",
       "part_of_speech": "Noun",
       "theme": "identity",
-      "example": "She came out as a jorkesbian at the jorkedding reception."
+      "example": "She shows up to every pride event \u2014 she's a real cisally."
     },
     {
-      "word": "Sanutyzabushwazoo",
+      "word": "Dollaryon",
       "components": [
-        "Sanutyza",
-        "Busch",
-        "Gaewach",
-        "Saint Louis Zoo"
+        "Dollar",
+        "Icon"
       ],
-      "definition": "Saint Louis, Anheuser-Busch, the Gateway Arch, and the Saint Louis Zoo \u2014 an expanded wombo capturing the full Saint Louis landmark experience.",
+      "definition": "A high-value, legendary icon \u2014 someone whose cultural and personal worth is immeasurable. Used specifically to honor figures of Dolly Parton's caliber.",
       "part_of_speech": "Noun",
-      "theme": "places",
-      "example": "A true Saint Louis day is a full Sanutyzabushwazoo experience."
+      "theme": "celebrity",
+      "example": "She's not just famous \u2014 she's a true Dollaryon."
     }
   ]
 }
