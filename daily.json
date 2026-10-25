@@ -1,29 +1,29 @@
 {
-  "sentence": "Every dollaryon needed a cisally in the crowd first.",
-  "date": "2026-10-24",
-  "theme": "identity",
+  "sentence": "Nihowdy opens the door. Bring a tailored swift anyway.",
+  "date": "2026-10-25",
+  "theme": "kindness",
   "wombos": [
     {
-      "word": "Cisally",
+      "word": "Tailored Swift",
       "components": [
-        "Cisgender",
-        "Ally"
+        "Sweet",
+        "Gift"
       ],
-      "definition": "A cisgender person who is an active ally to LGBTQ+ people \u2014 someone who uses their cis identity as a platform for support and advocacy.",
+      "definition": "A thoughtful, personalized gift delivered quickly \u2014 a sweet gesture that is both perfectly suited to the recipient and given without delay.",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "She shows up to every pride event \u2014 she's a real cisally."
+      "theme": "kindness",
+      "example": "She showed up with a tailored swift that was exactly what I needed that day."
     },
     {
-      "word": "Dollaryon",
+      "word": "Nihowdy",
       "components": [
-        "Dollar",
-        "Icon"
+        "Ni Hao",
+        "Howdy"
       ],
-      "definition": "A high-value, legendary icon \u2014 someone whose cultural and personal worth is immeasurable. Used specifically to honor figures of Dolly Parton's caliber.",
-      "part_of_speech": "Noun",
-      "theme": "celebrity",
-      "example": "She's not just famous \u2014 she's a true Dollaryon."
+      "definition": "A bilingual greeting blending the Mandarin 'Ni Hao' and the American 'Howdy' \u2014 a friendly hello that bridges Chinese and Southern American culture.",
+      "part_of_speech": "Phrase",
+      "theme": "bilingual",
+      "example": "He walked into the international mixer and opened with nihowdy \u2014 the whole room loved it."
     }
   ]
 }
