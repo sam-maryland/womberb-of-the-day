@@ -1,29 +1,29 @@
 {
-  "sentence": "Nihowdy opens the door. Bring a tailored swift anyway.",
-  "date": "2026-10-25",
-  "theme": "kindness",
+  "sentence": "Read no guyography before your first rendezboos.",
+  "date": "2026-10-26",
+  "theme": "romance",
   "wombos": [
     {
-      "word": "Tailored Swift",
+      "word": "Rendezboos",
       "components": [
-        "Sweet",
-        "Gift"
+        "Rendezvous",
+        "Baby Boos"
       ],
-      "definition": "A thoughtful, personalized gift delivered quickly \u2014 a sweet gesture that is both perfectly suited to the recipient and given without delay.",
+      "definition": "A planned or spontaneous meetup with romantic interests \u2014 a rendezvous specifically involving boos or potential boos.",
       "part_of_speech": "Noun",
-      "theme": "kindness",
-      "example": "She showed up with a tailored swift that was exactly what I needed that day."
+      "theme": "romance",
+      "example": "The event turned into a full rendezboos situation \u2014 everybody was linking up."
     },
     {
-      "word": "Nihowdy",
+      "word": "Guyography",
       "components": [
-        "Ni Hao",
-        "Howdy"
+        "Guy",
+        "Biography"
       ],
-      "definition": "A bilingual greeting blending the Mandarin 'Ni Hao' and the American 'Howdy' \u2014 a friendly hello that bridges Chinese and Southern American culture.",
-      "part_of_speech": "Phrase",
-      "theme": "bilingual",
-      "example": "He walked into the international mixer and opened with nihowdy \u2014 the whole room loved it."
+      "definition": "A biography centered on a guy \u2014 a life story or written account about a notable man.",
+      "part_of_speech": "Noun",
+      "theme": "academia",
+      "example": "We had to read the whole Guyography before the midterm."
     }
   ]
 }
