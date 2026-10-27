@@ -1,29 +1,29 @@
 {
-  "sentence": "Read no guyography before your first rendezboos.",
-  "date": "2026-10-26",
-  "theme": "romance",
+  "sentence": "Never serve your sigmuff whole to someone who goes croggy under pressure.",
+  "date": "2026-10-27",
+  "theme": "excellence",
   "wombos": [
     {
-      "word": "Rendezboos",
+      "word": "Sigmuff",
       "components": [
-        "Rendezvous",
-        "Baby Boos"
+        "Sigma",
+        "Tuff"
       ],
-      "definition": "A planned or spontaneous meetup with romantic interests \u2014 a rendezvous specifically involving boos or potential boos.",
-      "part_of_speech": "Noun",
-      "theme": "romance",
-      "example": "The event turned into a full rendezboos situation \u2014 everybody was linking up."
+      "definition": "Tough and rough in a sigma way \u2014 so lone-wolf independent that it comes across as gruff and unpolished. 'The rizzonance coming off him was sigmuff after he ate that burger.'",
+      "part_of_speech": "Adjective",
+      "theme": "excellence",
+      "example": ""
     },
     {
-      "word": "Guyography",
+      "word": "Croggy",
       "components": [
-        "Guy",
-        "Biography"
+        "Crunchy",
+        "Soggy"
       ],
-      "definition": "A biography centered on a guy \u2014 a life story or written account about a notable man.",
-      "part_of_speech": "Noun",
-      "theme": "academia",
-      "example": "We had to read the whole Guyography before the midterm."
+      "definition": "The contradictory state of something that was once crunchy but has become soggy \u2014 typically food that has been sauced or dipped until its texture is an uncomfortable mix of both. A type of oron.",
+      "part_of_speech": "Adjective",
+      "theme": "food",
+      "example": "I left the chicken in the sauce too long and now it's fully croggy."
     }
   ]
 }
