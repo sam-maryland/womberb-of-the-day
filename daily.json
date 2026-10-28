@@ -1,29 +1,30 @@
 {
-  "sentence": "Never serve your sigmuff whole to someone who goes croggy under pressure.",
-  "date": "2026-10-27",
-  "theme": "excellence",
+  "sentence": "Leave A Jorker in the Rye on Sinead O'Pringle's doorstep unread.",
+  "date": "2026-10-28",
+  "theme": "literature",
   "wombos": [
     {
-      "word": "Sigmuff",
+      "word": "A Jorker in the Rye",
       "components": [
-        "Sigma",
-        "Tuff"
+        "John Pork",
+        "The Catcher in the Rye"
       ],
-      "definition": "Tough and rough in a sigma way \u2014 so lone-wolf independent that it comes across as gruff and unpolished. 'The rizzonance coming off him was sigmuff after he ate that burger.'",
-      "part_of_speech": "Adjective",
-      "theme": "excellence",
-      "example": ""
+      "definition": "The John Pork reimagining of The Catcher in the Rye \u2014 the novel's title recast with 'Jorker' replacing 'Catcher'.",
+      "part_of_speech": "Noun",
+      "theme": "literature",
+      "example": "She said A Jorker in the Rye changed her whole perspective on classic American fiction."
     },
     {
-      "word": "Croggy",
+      "word": "Sinead O'Pringle",
       "components": [
-        "Crunchy",
-        "Soggy"
+        "Sinead O'Connor",
+        "Professionally Single",
+        "Pringle"
       ],
-      "definition": "The contradictory state of something that was once crunchy but has become soggy \u2014 typically food that has been sauced or dipped until its texture is an uncomfortable mix of both. A type of oron.",
-      "part_of_speech": "Adjective",
-      "theme": "food",
-      "example": "I left the chicken in the sauce too long and now it's fully croggy."
+      "definition": "The ultimate icon of being professionally single and ready to mingle \u2014 a person who has elevated solo life to legendary, almost celebrity-level status.",
+      "part_of_speech": "Noun",
+      "theme": "romance",
+      "example": "She turned down every situationship this year \u2014 a true Sinead O'Pringle."
     }
   ]
 }
