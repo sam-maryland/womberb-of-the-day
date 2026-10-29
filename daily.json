@@ -1,30 +1,30 @@
 {
-  "sentence": "Leave A Jorker in the Rye on Sinead O'Pringle's doorstep unread.",
-  "date": "2026-10-28",
-  "theme": "literature",
+  "sentence": "Paurming without extendopeanemis is a field no one walks through.",
+  "date": "2026-10-29",
+  "theme": "selfimprovement",
   "wombos": [
     {
-      "word": "A Jorker in the Rye",
+      "word": "Paurming",
       "components": [
-        "John Pork",
-        "The Catcher in the Rye"
+        "Prime",
+        "Aura",
+        "Farming"
       ],
-      "definition": "The John Pork reimagining of The Catcher in the Rye \u2014 the novel's title recast with 'Jorker' replacing 'Catcher'.",
-      "part_of_speech": "Noun",
-      "theme": "literature",
-      "example": "She said A Jorker in the Rye changed her whole perspective on classic American fiction."
+      "definition": "The act of actively cultivating a peak aura \u2014 putting in the work to build and project your most elite energy.",
+      "part_of_speech": "Verb",
+      "theme": "selfimprovement",
+      "example": "He's been paurming all semester and now everyone notices when he walks in."
     },
     {
-      "word": "Sinead O'Pringle",
+      "word": "Extendopeanemis",
       "components": [
-        "Sinead O'Connor",
-        "Professionally Single",
-        "Pringle"
+        "Extreme Innuendo",
+        "Peak Cinema Analysis"
       ],
-      "definition": "The ultimate icon of being professionally single and ready to mingle \u2014 a person who has elevated solo life to legendary, almost celebrity-level status.",
+      "definition": "A peak cinema analysis loaded with extreme innuendo \u2014 a critical breakdown that leans heavily into suggestive subtext.",
       "part_of_speech": "Noun",
-      "theme": "romance",
-      "example": "She turned down every situationship this year \u2014 a true Sinead O'Pringle."
+      "theme": "cinema",
+      "example": "The extendopeanemis had the whole comment section losing it."
     }
   ]
 }
