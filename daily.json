@@ -1,29 +1,30 @@
 {
-  "sentence": "Never offer Nathan to a Clavito expecting small bones.",
-  "date": "2026-10-30",
-  "theme": "bilingual",
+  "sentence": "Chillax first. Jorkumcision finds you; you do not find it.",
+  "date": "2026-10-31",
+  "theme": "lifestyle",
   "wombos": [
     {
-      "word": "Nathan",
+      "word": "Chillax",
       "components": [
-        "Nada",
-        "Nothing"
+        "Chill",
+        "Relax"
       ],
-      "definition": "A bilingual intensifier meaning absolutely nothing \u2014 a blend of the Spanish nada and the English nothing used for emphatic negation.",
-      "part_of_speech": "Noun",
-      "theme": "bilingual",
-      "example": "I have Nathan to wear to this party."
+      "definition": "To calm down and take it easy; a heightened or emphatic form of relaxing.",
+      "part_of_speech": "Verb",
+      "theme": "lifestyle",
+      "example": "Stop stressing about it and just chillax for a minute."
     },
     {
-      "word": "Clavito",
+      "word": "Jorkumcision",
       "components": [
-        "Clavicular",
-        "Vito"
+        "John Pork",
+        "Podium",
+        "Precision"
       ],
-      "definition": "A powerful, authoritative figure whose dominance is rooted in elite clavicular mogging \u2014 a Godfather-type who rules through bone structure as much as presence.",
+      "definition": "Podium-level precision channeled through the energy of John Pork \u2014 an incredibly sharp, decisive, and ceremonially accurate take or move.",
       "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "You don't challenge a Clavito \u2014 his collarbones alone end careers."
+      "theme": "sports",
+      "example": "That call was made with pure jorkumcision \u2014 no hesitation, straight to the podium."
     }
   ]
 }
