@@ -1,30 +1,29 @@
 {
-  "sentence": "Chillax first. Jorkumcision finds you; you do not find it.",
-  "date": "2026-10-31",
-  "theme": "lifestyle",
+  "sentence": "Forge no bilinguombo while still too sigmuff to share it.",
+  "date": "2026-11-01",
+  "theme": "bilingual",
   "wombos": [
     {
-      "word": "Chillax",
+      "word": "Bilinguombo",
       "components": [
-        "Chill",
-        "Relax"
+        "Bilingual",
+        "Wombo"
       ],
-      "definition": "To calm down and take it easy; a heightened or emphatic form of relaxing.",
-      "part_of_speech": "Verb",
-      "theme": "lifestyle",
-      "example": "Stop stressing about it and just chillax for a minute."
+      "definition": "A wombo that blends words from two different languages into a single coined term. Qu\u00e1t and Thacias are classic bilinguombos.",
+      "part_of_speech": "Noun",
+      "theme": "bilingual",
+      "example": "Nihowdy is a perfect bilinguombo \u2014 it fuses Ni Hao and Howdy into one greeting."
     },
     {
-      "word": "Jorkumcision",
+      "word": "Sigmuff",
       "components": [
-        "John Pork",
-        "Podium",
-        "Precision"
+        "Sigma",
+        "Tuff"
       ],
-      "definition": "Podium-level precision channeled through the energy of John Pork \u2014 an incredibly sharp, decisive, and ceremonially accurate take or move.",
-      "part_of_speech": "Noun",
-      "theme": "sports",
-      "example": "That call was made with pure jorkumcision \u2014 no hesitation, straight to the podium."
+      "definition": "Tough and rough in a sigma way \u2014 so lone-wolf independent that it comes across as gruff and unpolished. 'The rizzonance coming off him was sigmuff after he ate that burger.'",
+      "part_of_speech": "Adjective",
+      "theme": "excellence",
+      "example": ""
     }
   ]
 }
