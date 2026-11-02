@@ -1,29 +1,29 @@
 {
-  "sentence": "Forge no bilinguombo while still too sigmuff to share it.",
-  "date": "2026-11-01",
-  "theme": "bilingual",
+  "sentence": "Never leave Jormama off the stench she built the story on.",
+  "date": "2026-11-02",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Bilinguombo",
+      "word": "Jormama",
       "components": [
-        "Bilingual",
-        "Wombo"
+        "John Pork",
+        "Baby Mama"
       ],
-      "definition": "A wombo that blends words from two different languages into a single coined term. Qu\u00e1t and Thacias are classic bilinguombos.",
+      "definition": "John Pork's baby mama \u2014 a figure defined entirely by her relationship to John Pork, shrouded in the same mysterious, enigmatic energy.",
       "part_of_speech": "Noun",
-      "theme": "bilingual",
-      "example": "Nihowdy is a perfect bilinguombo \u2014 it fuses Ni Hao and Howdy into one greeting."
+      "theme": "relationships",
+      "example": "Nobody talks about Jormama enough \u2014 she's just as mysterious as he is."
     },
     {
-      "word": "Sigmuff",
+      "word": "Stench",
       "components": [
-        "Sigma",
-        "Tuff"
+        "Story",
+        "Bench"
       ],
-      "definition": "Tough and rough in a sigma way \u2014 so lone-wolf independent that it comes across as gruff and unpolished. 'The rizzonance coming off him was sigmuff after he ate that burger.'",
-      "part_of_speech": "Adjective",
-      "theme": "excellence",
-      "example": ""
+      "definition": "A bench that serves as the setting for delivering a story or piece of content \u2014 a storytelling bench.",
+      "part_of_speech": "Noun",
+      "theme": "location",
+      "example": "He sat down on the stench and launched into the most unhinged peanemis of the year."
     }
   ]
 }
