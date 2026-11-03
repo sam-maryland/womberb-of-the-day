@@ -1,29 +1,29 @@
 {
-  "sentence": "Never leave Jormama off the stench she built the story on.",
-  "date": "2026-11-02",
-  "theme": "relationships",
+  "sentence": "Your transam will clock the glarp up before you reach the door.",
+  "date": "2026-11-03",
+  "theme": "identity",
   "wombos": [
     {
-      "word": "Jormama",
+      "word": "Transam",
       "components": [
-        "John Pork",
-        "Baby Mama"
+        "Transgender",
+        "Fam"
       ],
-      "definition": "John Pork's baby mama \u2014 a figure defined entirely by her relationship to John Pork, shrouded in the same mysterious, enigmatic energy.",
+      "definition": "Transgender fam \u2014 a term of endearment and community for transgender people, framing the trans community as family.",
       "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "Nobody talks about Jormama enough \u2014 she's just as mysterious as he is."
+      "theme": "identity",
+      "example": "Shoutout to the transam \u2014 you are so loved."
     },
     {
-      "word": "Stench",
+      "word": "Glarp up",
       "components": [
-        "Story",
-        "Bench"
+        "Larp",
+        "Glow up"
       ],
-      "definition": "A bench that serves as the setting for delivering a story or piece of content \u2014 a storytelling bench.",
-      "part_of_speech": "Noun",
-      "theme": "location",
-      "example": "He sat down on the stench and launched into the most unhinged peanemis of the year."
+      "definition": "To pretend to have undergone a glow-up \u2014 performing a transformation in appearance or status without the genuine change to support it.",
+      "part_of_speech": "Verb",
+      "theme": "appearance",
+      "example": "He bought one new outfit and started glarping up like he's a whole new person."
     }
   ]
 }
