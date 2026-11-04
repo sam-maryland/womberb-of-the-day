@@ -1,29 +1,30 @@
 {
-  "sentence": "Your transam will clock the glarp up before you reach the door.",
-  "date": "2026-11-03",
-  "theme": "identity",
+  "sentence": "Survive your twih's slibe check before you ask them to stay.",
+  "date": "2026-11-04",
+  "theme": "relationship",
   "wombos": [
     {
-      "word": "Transam",
+      "word": "Twih",
       "components": [
-        "Transgender",
-        "Fam"
+        "Twin",
+        "Bruh",
+        "Dih"
       ],
-      "definition": "Transgender fam \u2014 a term of endearment and community for transgender people, framing the trans community as family.",
+      "definition": "A twin who is also a bruh and a dih \u2014 essentially a twin who acts insufferably or embarrassingly. The more disappointing evolution of a twuh.",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "Shoutout to the transam \u2014 you are so loved."
+      "theme": "relationship",
+      "example": "My brother has been on one lately \u2014 he's such a twih."
     },
     {
-      "word": "Glarp up",
+      "word": "Slibe Check",
       "components": [
-        "Larp",
-        "Glow up"
+        "Slay",
+        "Vibe Check"
       ],
-      "definition": "To pretend to have undergone a glow-up \u2014 performing a transformation in appearance or status without the genuine change to support it.",
-      "part_of_speech": "Verb",
-      "theme": "appearance",
-      "example": "He bought one new outfit and started glarping up like he's a whole new person."
+      "definition": "A vibe check that also assesses your slay \u2014 sizing someone up for both their energy and their look, then letting them know the verdict deadassionately.",
+      "part_of_speech": "Noun",
+      "theme": "excellence",
+      "example": ""
     }
   ]
 }
