@@ -1,30 +1,18 @@
 {
-  "sentence": "Survive your twih's slibe check before you ask them to stay.",
-  "date": "2026-11-04",
-  "theme": "relationship",
+  "sentence": "No Veritician has ever walked you to Six Seaveaven and back unchanged.",
+  "date": "2026-11-05",
+  "theme": "truth",
   "wombos": [
     {
-      "word": "Twih",
+      "word": "Veritician",
       "components": [
-        "Twin",
-        "Bruh",
-        "Dih"
+        "Verity",
+        "Physician"
       ],
-      "definition": "A twin who is also a bruh and a dih \u2014 essentially a twin who acts insufferably or embarrassingly. The more disappointing evolution of a twuh.",
+      "definition": "A physician of truth \u2014 someone who diagnoses and delivers facts with the precision and authority of a medical professional.",
       "part_of_speech": "Noun",
-      "theme": "relationship",
-      "example": "My brother has been on one lately \u2014 he's such a twih."
-    },
-    {
-      "word": "Slibe Check",
-      "components": [
-        "Slay",
-        "Vibe Check"
-      ],
-      "definition": "A vibe check that also assesses your slay \u2014 sizing someone up for both their energy and their look, then letting them know the verdict deadassionately.",
-      "part_of_speech": "Noun",
-      "theme": "excellence",
-      "example": ""
+      "theme": "truth",
+      "example": "He didn't just tell you what happened \u2014 he broke it down like a Veritician."
     }
   ]
 }
