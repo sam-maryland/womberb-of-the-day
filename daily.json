@@ -1,18 +1,29 @@
 {
-  "sentence": "No Veritician has ever walked you to Six Seaveaven and back unchanged.",
-  "date": "2026-11-05",
-  "theme": "truth",
+  "sentence": "Every balledgeable mouth has buried a wombo it was never asked to speak.",
+  "date": "2026-11-06",
+  "theme": "language",
   "wombos": [
     {
-      "word": "Veritician",
+      "word": "Wombo",
       "components": [
-        "Verity",
-        "Physician"
+        "Word",
+        "Combo"
       ],
-      "definition": "A physician of truth \u2014 someone who diagnoses and delivers facts with the precision and authority of a medical professional.",
+      "definition": "A portmanteau \u2014 a word created by blending two or more existing words together. The foundational term for all of Professor Sendy's coined blended vocabulary.",
       "part_of_speech": "Noun",
-      "theme": "truth",
-      "example": "He didn't just tell you what happened \u2014 he broke it down like a Veritician."
+      "theme": "language",
+      "example": "'Brunch' is technically a wombo \u2014 breakfast plus lunch."
+    },
+    {
+      "word": "Balledgeable",
+      "components": [
+        "Ball",
+        "Knowledgeable"
+      ],
+      "definition": "Possessing a deep, specialized knowledge about something; highly informed in a particular area of passion or expertise.",
+      "part_of_speech": "Adjective",
+      "theme": "knowledge",
+      "example": "He's so balledgeable he could teach a masterclass on the subject."
     }
   ]
 }
