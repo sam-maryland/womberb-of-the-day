@@ -1,29 +1,29 @@
 {
-  "sentence": "Every balledgeable mouth has buried a wombo it was never asked to speak.",
-  "date": "2026-11-06",
-  "theme": "language",
+  "sentence": "Faaas the cababyboose. Everything else is commentary.",
+  "date": "2026-11-07",
+  "theme": "romance",
   "wombos": [
     {
-      "word": "Wombo",
+      "word": "Cababyboose",
       "components": [
-        "Word",
-        "Combo"
+        "Caboose",
+        "Baby Boo"
       ],
-      "definition": "A portmanteau \u2014 a word created by blending two or more existing words together. The foundational term for all of Professor Sendy's coined blended vocabulary.",
+      "definition": "The caboose of a baby boo \u2014 the affectionately-coded form of a romantic partner's rear end. Term of endearment, anatomy edition.",
       "part_of_speech": "Noun",
-      "theme": "language",
-      "example": "'Brunch' is technically a wombo \u2014 breakfast plus lunch."
+      "theme": "romance",
+      "example": "Every once in a while you've gotta shake your cababyboose."
     },
     {
-      "word": "Balledgeable",
+      "word": "Faaas",
       "components": [
-        "Ball",
-        "Knowledgeable"
+        "Facts",
+        "Yaaas"
       ],
-      "definition": "Possessing a deep, specialized knowledge about something; highly informed in a particular area of passion or expertise.",
-      "part_of_speech": "Adjective",
-      "theme": "knowledge",
-      "example": "He's so balledgeable he could teach a masterclass on the subject."
+      "definition": "An enthusiastic affirmation combining facts and a celebratory yaaas \u2014 used to confirm something as true with full, joyful energy.",
+      "part_of_speech": "Phrase",
+      "theme": "affirmation",
+      "example": "Queer joy is real and it's valid \u2014 faaas."
     }
   ]
 }
