@@ -1,29 +1,30 @@
 {
-  "sentence": "Faaas the cababyboose. Everything else is commentary.",
-  "date": "2026-11-07",
-  "theme": "romance",
+  "sentence": "Bring your dubombo. Your sonbrella already knows which part you kept.",
+  "date": "2026-11-08",
+  "theme": "relationships",
   "wombos": [
     {
-      "word": "Cababyboose",
+      "word": "Sonbrella",
       "components": [
-        "Caboose",
-        "Baby Boo"
+        "Son",
+        "Bro",
+        "Fella"
       ],
-      "definition": "The caboose of a baby boo \u2014 the affectionately-coded form of a romantic partner's rear end. Term of endearment, anatomy edition.",
+      "definition": "A catch-all term for a close companion who embodies son, bro, and fella energy simultaneously \u2014 a versatile term of endearment for a trusted friend.",
       "part_of_speech": "Noun",
-      "theme": "romance",
-      "example": "Every once in a while you've gotta shake your cababyboose."
+      "theme": "relationships",
+      "example": "Me and my sonbrella have been rolling together for years."
     },
     {
-      "word": "Faaas",
+      "word": "Dubombo",
       "components": [
-        "Facts",
-        "Yaaas"
+        "W",
+        "Wombo"
       ],
-      "definition": "An enthusiastic affirmation combining facts and a celebratory yaaas \u2014 used to confirm something as true with full, joyful energy.",
-      "part_of_speech": "Phrase",
-      "theme": "affirmation",
-      "example": "Queer joy is real and it's valid \u2014 faaas."
+      "definition": "A winning wombo \u2014 a portmanteau that lands perfectly, earns its place in the vocabulary, and deserves full recognition as a quality coinage.",
+      "part_of_speech": "Noun",
+      "theme": "language",
+      "example": "'Brunch' is the original dubombo \u2014 timeless, clean, universally understood."
     }
   ]
 }
