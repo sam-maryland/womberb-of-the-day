@@ -1,30 +1,32 @@
 {
-  "sentence": "Bring your dubombo. Your sonbrella already knows which part you kept.",
-  "date": "2026-11-08",
-  "theme": "relationships",
+  "sentence": "Feed your bronutholes the sprungpeanemis. They will not finish it.",
+  "date": "2026-11-09",
+  "theme": "analysis",
   "wombos": [
     {
-      "word": "Sonbrella",
+      "word": "Sprungpeanemis",
       "components": [
-        "Son",
-        "Bro",
-        "Fella"
+        "Sprint",
+        "Run",
+        "Jog",
+        "Peak Cinema Analysis"
       ],
-      "definition": "A catch-all term for a close companion who embodies son, bro, and fella energy simultaneously \u2014 a versatile term of endearment for a trusted friend.",
+      "definition": "A rapid-fire peak cinema analysis \u2014 a peanemis delivered at full speed, cycling through multiple gears of intensity like sprinting, running, and jogging all at once.",
       "part_of_speech": "Noun",
-      "theme": "relationships",
-      "example": "Me and my sonbrella have been rolling together for years."
+      "theme": "analysis",
+      "example": "He hit us with a full sprungpeanemis before anyone could even sit down."
     },
     {
-      "word": "Dubombo",
+      "word": "Bronutholes",
       "components": [
-        "W",
-        "Wombo"
+        "Bro",
+        "Nut",
+        "A-holes"
       ],
-      "definition": "A winning wombo \u2014 a portmanteau that lands perfectly, earns its place in the vocabulary, and deserves full recognition as a quality coinage.",
+      "definition": "A pair or group of bros who are simultaneously donut holes and a-holes \u2014 freshly glazed in audacity. Used to describe friends who are lovably insufferable.",
       "part_of_speech": "Noun",
-      "theme": "language",
-      "example": "'Brunch' is the original dubombo \u2014 timeless, clean, universally understood."
+      "theme": "friendship",
+      "example": "We pulled up to Uncin' Dunknuts acting like a couple of bronutholes."
     }
   ]
 }
