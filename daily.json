@@ -1,32 +1,28 @@
 {
-  "sentence": "Feed your bronutholes the sprungpeanemis. They will not finish it.",
-  "date": "2026-11-09",
-  "theme": "analysis",
+  "sentence": "Rizzdom spoils fast. Speak it at the farket, or not at all.",
+  "date": "2026-11-10",
+  "theme": "wisdom",
   "wombos": [
     {
-      "word": "Sprungpeanemis",
+      "word": "Rizzdom",
       "components": [
-        "Sprint",
-        "Run",
-        "Jog",
-        "Peak Cinema Analysis"
+        "Rizz",
+        "Wisdom"
       ],
-      "definition": "A rapid-fire peak cinema analysis \u2014 a peanemis delivered at full speed, cycling through multiple gears of intensity like sprinting, running, and jogging all at once.",
+      "definition": "Charming, charismatic wisdom \u2014 something said that is both deeply insightful and naturally smooth. 'Rizz' is slang for natural charm and magnetism, especially romantic. Rizzdom is wisdom delivered with that same effortless appeal.",
       "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "He hit us with a full sprungpeanemis before anyone could even sit down."
+      "theme": "wisdom",
+      "example": ""
     },
     {
-      "word": "Bronutholes",
+      "word": "Farket",
       "components": [
-        "Bro",
-        "Nut",
-        "A-holes"
+        "Farmer's Market"
       ],
-      "definition": "A pair or group of bros who are simultaneously donut holes and a-holes \u2014 freshly glazed in audacity. Used to describe friends who are lovably insufferable.",
+      "definition": "A farmer's market. A casual, clipped blend used in place of the full phrase when referring to the quirky, niche outdoor market experience.",
       "part_of_speech": "Noun",
-      "theme": "friendship",
-      "example": "We pulled up to Uncin' Dunknuts acting like a couple of bronutholes."
+      "theme": "food",
+      "example": "We hit up the farket Saturday morning and came back with sourdough and weird honey."
     }
   ]
 }
