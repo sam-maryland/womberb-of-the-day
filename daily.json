@@ -1,28 +1,31 @@
 {
-  "sentence": "Rizzdom spoils fast. Speak it at the farket, or not at all.",
-  "date": "2026-11-10",
-  "theme": "wisdom",
+  "sentence": "Johnponchalashout at the Cohbouse lands different when no one invited you.",
+  "date": "2026-11-11",
+  "theme": "emotion",
   "wombos": [
     {
-      "word": "Rizzdom",
+      "word": "Johnponchalashout",
       "components": [
-        "Rizz",
-        "Wisdom"
+        "John",
+        "Pork",
+        "Nonchalant",
+        "Crashout"
       ],
-      "definition": "Charming, charismatic wisdom \u2014 something said that is both deeply insightful and naturally smooth. 'Rizz' is slang for natural charm and magnetism, especially romantic. Rizzdom is wisdom delivered with that same effortless appeal.",
+      "definition": "A nonchalant crashout carried out in John's signature pork-coded style \u2014 an outburst that is somehow simultaneously unhinged and unbothered.",
       "part_of_speech": "Noun",
-      "theme": "wisdom",
-      "example": ""
+      "theme": "emotion",
+      "example": "That Jorkpeanemis almost sent me into a full Johnponchalashout right there on the couch."
     },
     {
-      "word": "Farket",
+      "word": "Cohbouse",
       "components": [
-        "Farmer's Market"
+        "Common Ball",
+        "White House"
       ],
-      "definition": "A farmer's market. A casual, clipped blend used in place of the full phrase when referring to the quirky, niche outdoor market experience.",
+      "definition": "The White House \u2014 the presidential residence, referred to through a lens of common, everyday energy.",
       "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "We hit up the farket Saturday morning and came back with sourdough and weird honey."
+      "theme": "politics",
+      "example": "Let's head down to DC and shake things up at the Cohbouse."
     }
   ]
 }
