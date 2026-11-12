@@ -1,31 +1,30 @@
 {
-  "sentence": "Johnponchalashout at the Cohbouse lands different when no one invited you.",
-  "date": "2026-11-11",
-  "theme": "emotion",
+  "sentence": "Chowdy the room. Save your falasha for someone who already left.",
+  "date": "2026-11-12",
+  "theme": "greeting",
   "wombos": [
     {
-      "word": "Johnponchalashout",
+      "word": "Chowdy",
       "components": [
-        "John",
-        "Pork",
-        "Nonchalant",
-        "Crashout"
+        "Ciao",
+        "Howdy"
       ],
-      "definition": "A nonchalant crashout carried out in John's signature pork-coded style \u2014 an outburst that is somehow simultaneously unhinged and unbothered.",
-      "part_of_speech": "Noun",
-      "theme": "emotion",
-      "example": "That Jorkpeanemis almost sent me into a full Johnponchalashout right there on the couch."
+      "definition": "A bilingual greeting that combines Italian and Texan salutations into one word. Used when addressing a mixed crowd of Italian speakers and Texans to greet everyone at once.",
+      "part_of_speech": "Phrase",
+      "theme": "greeting",
+      "example": "He walked into the room and said 'Chowdy!' to the whole crowd."
     },
     {
-      "word": "Cohbouse",
+      "word": "Falasha",
       "components": [
-        "Common Ball",
-        "White House"
+        "False",
+        "Brainwashed",
+        "Saga"
       ],
-      "definition": "The White House \u2014 the presidential residence, referred to through a lens of common, everyday energy.",
+      "definition": "A false, misinformed narrative delivered with full confidence \u2014 someone telling you something that is clearly incorrect and based on bad information. A brainwashed saga presented as fact.",
       "part_of_speech": "Noun",
-      "theme": "politics",
-      "example": "Let's head down to DC and shake things up at the Cohbouse."
+      "theme": "opinion",
+      "example": ""
     }
   ]
 }
