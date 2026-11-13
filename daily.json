@@ -1,30 +1,29 @@
 {
-  "sentence": "Chowdy the room. Save your falasha for someone who already left.",
-  "date": "2026-11-12",
-  "theme": "greeting",
+  "sentence": "Kirkpletely finish the leavreakup before her door stops swinging.",
+  "date": "2026-11-13",
+  "theme": "intensity",
   "wombos": [
     {
-      "word": "Chowdy",
+      "word": "Kirkpletely",
       "components": [
-        "Ciao",
-        "Howdy"
+        "Kirk",
+        "Completely"
       ],
-      "definition": "A bilingual greeting that combines Italian and Texan salutations into one word. Used when addressing a mixed crowd of Italian speakers and Texans to greet everyone at once.",
-      "part_of_speech": "Phrase",
-      "theme": "greeting",
-      "example": "He walked into the room and said 'Chowdy!' to the whole crowd."
+      "definition": "Completely, in the total, podium-precise sense \u2014 the maximal form of 'completely' filtered through Kirk-coded delivery.",
+      "part_of_speech": "Adverb",
+      "theme": "intensity",
+      "example": "He kirkpletely dismantled the argument before the coffee got cold."
     },
     {
-      "word": "Falasha",
+      "word": "Leavreakup",
       "components": [
-        "False",
-        "Brainwashed",
-        "Saga"
+        "Leave",
+        "Break Up"
       ],
-      "definition": "A false, misinformed narrative delivered with full confidence \u2014 someone telling you something that is clearly incorrect and based on bad information. A brainwashed saga presented as fact.",
+      "definition": "The act of leaving and breaking up simultaneously \u2014 a combined exit and romantic dissolution in one decisive move.",
       "part_of_speech": "Noun",
-      "theme": "opinion",
-      "example": ""
+      "theme": "romance",
+      "example": "She didn't drag it out \u2014 it was one clean Leavreakup and she was gone."
     }
   ]
 }
