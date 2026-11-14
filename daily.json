@@ -1,29 +1,30 @@
 {
-  "sentence": "Kirkpletely finish the leavreakup before her door stops swinging.",
-  "date": "2026-11-13",
-  "theme": "intensity",
+  "sentence": "Simprovement without broicha is just rearranged furniture in an empty house.\n\n---\n\n*[Self-correction: \"is just\" is explicitly banned. Restarting.]*\n\n---\n\nNo broicha grows from simprovement you abandoned before the first frost.",
+  "date": "2026-11-14",
+  "theme": "growth",
   "wombos": [
     {
-      "word": "Kirkpletely",
+      "word": "Simprovement",
       "components": [
-        "Kirk",
-        "Completely"
+        "Self",
+        "Improvement"
       ],
-      "definition": "Completely, in the total, podium-precise sense \u2014 the maximal form of 'completely' filtered through Kirk-coded delivery.",
-      "part_of_speech": "Adverb",
-      "theme": "intensity",
-      "example": "He kirkpletely dismantled the argument before the coffee got cold."
+      "definition": "Self-improvement \u2014 the process of actively working to become a better, more capable, or more attractive version of yourself.",
+      "part_of_speech": "Noun",
+      "theme": "growth",
+      "example": "I've been on a real simprovement arc this month \u2014 new books, new habits, new mindset."
     },
     {
-      "word": "Leavreakup",
+      "word": "Broicha",
       "components": [
-        "Leave",
-        "Break Up"
+        "bro",
+        "niche",
+        "aura"
       ],
-      "definition": "The act of leaving and breaking up simultaneously \u2014 a combined exit and romantic dissolution in one decisive move.",
+      "definition": "The specific niche aura that a person radiates \u2014 the distinct, identifiable vibe that makes someone's personal brand or energy unmistakably their own.",
       "part_of_speech": "Noun",
-      "theme": "romance",
-      "example": "She didn't drag it out \u2014 it was one clean Leavreakup and she was gone."
+      "theme": "identity",
+      "example": "You can tell he's locked in \u2014 the broicha is coming out the wazeister."
     }
   ]
 }
