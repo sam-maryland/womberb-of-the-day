@@ -1,30 +1,29 @@
 {
-  "sentence": "Simprovement without broicha is just rearranged furniture in an empty house.\n\n---\n\n*[Self-correction: \"is just\" is explicitly banned. Restarting.]*\n\n---\n\nNo broicha grows from simprovement you abandoned before the first frost.",
-  "date": "2026-11-14",
-  "theme": "growth",
+  "sentence": "Balledge without a guyknowballogunky to hand it down dies in the drawer.",
+  "date": "2026-11-15",
+  "theme": "knowledge",
   "wombos": [
     {
-      "word": "Simprovement",
+      "word": "Balledge",
       "components": [
-        "Self",
-        "Improvement"
+        "Ball",
+        "Knowledge"
       ],
-      "definition": "Self-improvement \u2014 the process of actively working to become a better, more capable, or more attractive version of yourself.",
+      "definition": "Special or insider knowledge about something \u2014 expertise that goes beyond the ordinary, particularly in a niche or passionate domain.",
       "part_of_speech": "Noun",
-      "theme": "growth",
-      "example": "I've been on a real simprovement arc this month \u2014 new books, new habits, new mindset."
+      "theme": "knowledge",
+      "example": "You don't need college to get balledge \u2014 just deep dedication to the craft."
     },
     {
-      "word": "Broicha",
+      "word": "Guyknowballogunky",
       "components": [
-        "bro",
-        "niche",
-        "aura"
+        "Guyknowballogist",
+        "Funky"
       ],
-      "definition": "The specific niche aura that a person radiates \u2014 the distinct, identifiable vibe that makes someone's personal brand or energy unmistakably their own.",
+      "definition": "A funky guyknowballogist \u2014 an expert in knowing ball who delivers their knowledge with an unmistakably groovy, eccentric flair.",
       "part_of_speech": "Noun",
-      "theme": "identity",
-      "example": "You can tell he's locked in \u2014 the broicha is coming out the wazeister."
+      "theme": "expertise",
+      "example": "He broke down the whole film theory in the most guyknowballogunky way imaginable."
     }
   ]
 }
