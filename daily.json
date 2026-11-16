@@ -1,29 +1,29 @@
 {
-  "sentence": "Balledge without a guyknowballogunky to hand it down dies in the drawer.",
-  "date": "2026-11-15",
-  "theme": "knowledge",
+  "sentence": "Never trust a melancholyamorous heart to a pareson still learning his own door.",
+  "date": "2026-11-16",
+  "theme": "romance",
   "wombos": [
     {
-      "word": "Balledge",
+      "word": "Melancholyamorous",
       "components": [
-        "Ball",
-        "Knowledge"
+        "Melancholy",
+        "Polyamorous"
       ],
-      "definition": "Special or insider knowledge about something \u2014 expertise that goes beyond the ordinary, particularly in a niche or passionate domain.",
-      "part_of_speech": "Noun",
-      "theme": "knowledge",
-      "example": "You don't need college to get balledge \u2014 just deep dedication to the craft."
+      "definition": "The bittersweet state of being in love with many people while knowing those feelings will go unrequited \u2014 a quiet sadness born from loving widely but hopelessly. Can also describe a polyamorous relationship in which all members share a collective sense of melancholy.",
+      "part_of_speech": "Adjective",
+      "theme": "romance",
+      "example": "She smiled through it, but anyone could tell she was feeling melancholyamorous."
     },
     {
-      "word": "Guyknowballogunky",
+      "word": "Pareson",
       "components": [
-        "Guyknowballogist",
-        "Funky"
+        "Parent",
+        "Son"
       ],
-      "definition": "A funky guyknowballogist \u2014 an expert in knowing ball who delivers their knowledge with an unmistakably groovy, eccentric flair.",
+      "definition": "A parent figure who also carries son energy \u2014 someone who is both a guiding presence and a peer.",
       "part_of_speech": "Noun",
-      "theme": "expertise",
-      "example": "He broke down the whole film theory in the most guyknowballogunky way imaginable."
+      "theme": "relationships",
+      "example": "He's not just a dad, he's a real pareson \u2014 always in your corner."
     }
   ]
 }
