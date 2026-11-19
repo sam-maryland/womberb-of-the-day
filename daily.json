@@ -1,29 +1,30 @@
 {
-  "sentence": "Never waste your explattitude on a room that needed a John Kork.",
-  "date": "2026-11-18",
-  "theme": "personality",
+  "sentence": "Quiet on the Kirk until the uquish one finishes speaking.",
+  "date": "2026-11-19",
+  "theme": "environment",
   "wombos": [
     {
-      "word": "Explattitude",
+      "word": "Quiet on the Kirk",
       "components": [
-        "Explosive",
-        "Attitude"
+        "Kirk",
+        "Quiet on the Creek"
       ],
-      "definition": "An explosive attitude \u2014 a boldly energetic, combustible disposition that commands attention.",
-      "part_of_speech": "Noun",
-      "theme": "personality",
-      "example": "She walked in with full explattitude and owned the whole party."
+      "definition": "The Kirk version of 'Quiet on the Creek' \u2014 a call for stillness and focus in a Kirk-coded setting.",
+      "part_of_speech": "Phrase",
+      "theme": "environment",
+      "example": "Everyone settle down \u2014 quiet on the Kirk."
     },
     {
-      "word": "John Kork",
+      "word": "Uquish",
       "components": [
-        "John Pork",
-        "Kirk"
+        "Unique",
+        "Quirky",
+        "Niche"
       ],
-      "definition": "A John Pork and Kirk crossover figure \u2014 someone who embodies both the pork lore of John Pork and the commanding presence of a Kirk.",
-      "part_of_speech": "Noun",
-      "theme": "culture",
-      "example": "The edit had him looking like a total John Kork."
+      "definition": "The quality of being simultaneously unique, quirky, and niche \u2014 so distinctly one-of-a-kind and offbeat that it occupies its own untouchable corner of culture.",
+      "part_of_speech": "Adjective",
+      "theme": "personality",
+      "example": "Her whole aesthetic is completely uquish \u2014 there's no one else doing what she does."
     }
   ]
 }
