@@ -1,30 +1,30 @@
 {
-  "sentence": "Quiet on the Kirk until the uquish one finishes speaking.",
-  "date": "2026-11-19",
-  "theme": "environment",
+  "sentence": "No peanut lands right without a gotu beside you in the dark.",
+  "date": "2026-11-20",
+  "theme": "status",
   "wombos": [
     {
-      "word": "Quiet on the Kirk",
+      "word": "Gotu",
       "components": [
-        "Kirk",
-        "Quiet on the Creek"
+        "Goat",
+        "Unc"
       ],
-      "definition": "The Kirk version of 'Quiet on the Creek' \u2014 a call for stillness and focus in a Kirk-coded setting.",
-      "part_of_speech": "Phrase",
-      "theme": "environment",
-      "example": "Everyone settle down \u2014 quiet on the Kirk."
+      "definition": "A GOAT unc \u2014 an older man who is widely regarded as the greatest or most legendary of his kind.",
+      "part_of_speech": "Noun",
+      "theme": "status",
+      "example": "Everyone at the reunion looked up to him \u2014 he's the gotu."
     },
     {
-      "word": "Uquish",
+      "word": "Peanut",
       "components": [
-        "Unique",
-        "Quirky",
-        "Niche"
+        "Peak",
+        "Cinema",
+        "Bronut"
       ],
-      "definition": "The quality of being simultaneously unique, quirky, and niche \u2014 so distinctly one-of-a-kind and offbeat that it occupies its own untouchable corner of culture.",
-      "part_of_speech": "Adjective",
-      "theme": "personality",
-      "example": "Her whole aesthetic is completely uquish \u2014 there's no one else doing what she does."
+      "definition": "Peak cinema bronut \u2014 the ultimate cinematic snack experience, where the film and the treat consumed during it both reach their peak simultaneously.",
+      "part_of_speech": "Noun",
+      "theme": "cinema",
+      "example": "Fresh bronut, perfect film \u2014 we achieved full peanut that night."
     }
   ]
 }
