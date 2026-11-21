@@ -1,30 +1,29 @@
 {
-  "sentence": "No peanut lands right without a gotu beside you in the dark.",
-  "date": "2026-11-20",
-  "theme": "status",
+  "sentence": "Never serve delectious to someone too Turk to taste it.",
+  "date": "2026-11-21",
+  "theme": "food",
   "wombos": [
     {
-      "word": "Gotu",
+      "word": "Delectious",
       "components": [
-        "Goat",
-        "Unc"
+        "Delectable",
+        "Delicious"
       ],
-      "definition": "A GOAT unc \u2014 an older man who is widely regarded as the greatest or most legendary of his kind.",
-      "part_of_speech": "Noun",
-      "theme": "status",
-      "example": "Everyone at the reunion looked up to him \u2014 he's the gotu."
+      "definition": "A state of being both delectable and delicious simultaneously \u2014 food or an experience so good that one superlative is not enough.",
+      "part_of_speech": "Adjective",
+      "theme": "food",
+      "example": "Those chicken tenders were absolutely delectious."
     },
     {
-      "word": "Peanut",
+      "word": "Turk",
       "components": [
-        "Peak",
-        "Cinema",
-        "Bronut"
+        "Tuff",
+        "Kirk"
       ],
-      "definition": "Peak cinema bronut \u2014 the ultimate cinematic snack experience, where the film and the treat consumed during it both reach their peak simultaneously.",
-      "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "Fresh bronut, perfect film \u2014 we achieved full peanut that night."
+      "definition": "A blend of toughness and Kirk energy \u2014 someone or something that is both hard and effortlessly cool.",
+      "part_of_speech": "Adjective",
+      "theme": "personality",
+      "example": "That fit was straight Turk \u2014 nobody could say otherwise."
     }
   ]
 }
