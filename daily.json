@@ -1,29 +1,32 @@
 {
-  "sentence": "Never serve delectious to someone too Turk to taste it.",
-  "date": "2026-11-21",
-  "theme": "food",
+  "sentence": "Spare your canalysis for ears too deep in vagynversations to hear it.",
+  "date": "2026-11-22",
+  "theme": "humor",
   "wombos": [
     {
-      "word": "Delectious",
+      "word": "Vagynversations",
       "components": [
-        "Delectable",
-        "Delicious"
+        "Vain",
+        "Edgy",
+        "Corny",
+        "Beta",
+        "Conversations"
       ],
-      "definition": "A state of being both delectable and delicious simultaneously \u2014 food or an experience so good that one superlative is not enough.",
-      "part_of_speech": "Adjective",
-      "theme": "food",
-      "example": "Those chicken tenders were absolutely delectious."
+      "definition": "Conversations dominated by vagynya energy \u2014 talk that revolves entirely around looksmaxxing, gym culture, or other vagynya obsessions. Best avoided unless you're also a vagynya.",
+      "part_of_speech": "Noun",
+      "theme": "humor",
+      "example": ""
     },
     {
-      "word": "Turk",
+      "word": "Canalysis",
       "components": [
-        "Tuff",
-        "Kirk"
+        "Candid",
+        "Analysis"
       ],
-      "definition": "A blend of toughness and Kirk energy \u2014 someone or something that is both hard and effortlessly cool.",
-      "part_of_speech": "Adjective",
-      "theme": "personality",
-      "example": "That fit was straight Turk \u2014 nobody could say otherwise."
+      "definition": "A candid and honest analysis; use this wombo when you deliver something straightforward and honest",
+      "part_of_speech": "Noun",
+      "theme": "analysis",
+      "example": "Brofessor constructed a peanema canalysis in front of the whole class."
     }
   ]
 }
