@@ -1,32 +1,31 @@
 {
-  "sentence": "Spare your canalysis for ears too deep in vagynversations to hear it.",
-  "date": "2026-11-22",
+  "sentence": "Kirkrisma does not negotiate with a vagynya's mirror.",
+  "date": "2026-11-23",
   "theme": "humor",
   "wombos": [
     {
-      "word": "Vagynversations",
+      "word": "Vagynya",
       "components": [
         "Vain",
         "Edgy",
         "Corny",
-        "Beta",
-        "Conversations"
+        "Beta"
       ],
-      "definition": "Conversations dominated by vagynya energy \u2014 talk that revolves entirely around looksmaxxing, gym culture, or other vagynya obsessions. Best avoided unless you're also a vagynya.",
+      "definition": "Someone obsessively into looksmaxxing \u2014 vain, try-hard, and deeply invested in their physical appearance above all else. The poster child of gym-bro aesthetics taken too far.",
       "part_of_speech": "Noun",
       "theme": "humor",
       "example": ""
     },
     {
-      "word": "Canalysis",
+      "word": "Kirkrisma",
       "components": [
-        "Candid",
-        "Analysis"
+        "Kirk",
+        "Charisma"
       ],
-      "definition": "A candid and honest analysis; use this wombo when you deliver something straightforward and honest",
+      "definition": "Kirk-level charisma \u2014 the magnetic aura of someone who has fully committed to the Kirk identity and radiates it as natural, unshakeable magnetism. 'He has kirkrisma. His aura has gotten so large I can't even feel it anymore.'",
       "part_of_speech": "Noun",
-      "theme": "analysis",
-      "example": "Brofessor constructed a peanema canalysis in front of the whole class."
+      "theme": "excellence",
+      "example": ""
     }
   ]
 }
