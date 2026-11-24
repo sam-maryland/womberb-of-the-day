@@ -1,31 +1,30 @@
 {
-  "sentence": "Kirkrisma does not negotiate with a vagynya's mirror.",
-  "date": "2026-11-23",
-  "theme": "humor",
+  "sentence": "Auntpeanemis will outlast any verikirkumcision you bring to the table.",
+  "date": "2026-11-24",
+  "theme": "validation",
   "wombos": [
     {
-      "word": "Vagynya",
+      "word": "Verikirkumcision",
       "components": [
-        "Vain",
-        "Edgy",
-        "Corny",
-        "Beta"
+        "Verity Kirk",
+        "Podium",
+        "Precision"
       ],
-      "definition": "Someone obsessively into looksmaxxing \u2014 vain, try-hard, and deeply invested in their physical appearance above all else. The poster child of gym-bro aesthetics taken too far.",
+      "definition": "The Verity Kirk equivalent of a kirkumcision \u2014 a moment of such razor-sharp, podium-level precision that it carries Verity Kirk's personal seal of accuracy.",
       "part_of_speech": "Noun",
-      "theme": "humor",
-      "example": ""
+      "theme": "validation",
+      "example": "That rebuttal was a full Verikirkumcision \u2014 clean, precise, and undeniable."
     },
     {
-      "word": "Kirkrisma",
+      "word": "Auntpeanemis",
       "components": [
-        "Kirk",
-        "Charisma"
+        "Automatic Can't",
+        "Peak Cinema Analysis"
       ],
-      "definition": "Kirk-level charisma \u2014 the magnetic aura of someone who has fully committed to the Kirk identity and radiates it as natural, unshakeable magnetism. 'He has kirkrisma. His aura has gotten so large I can't even feel it anymore.'",
+      "definition": "A peak cinema analysis characterized by an automatic, reflexive rejection \u2014 a breakdown that leads inevitably to a 'can't' verdict.",
       "part_of_speech": "Noun",
-      "theme": "excellence",
-      "example": ""
+      "theme": "cinema",
+      "example": "One look at the trailer and she launched straight into the auntpeanemis."
     }
   ]
 }
