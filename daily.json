@@ -1,30 +1,29 @@
 {
-  "sentence": "Auntpeanemis will outlast any verikirkumcision you bring to the table.",
-  "date": "2026-11-24",
-  "theme": "validation",
+  "sentence": "Call out the womberombombo or lose the fyts forever.",
+  "date": "2026-11-25",
+  "theme": "language",
   "wombos": [
     {
-      "word": "Verikirkumcision",
+      "word": "Womberombombo",
       "components": [
-        "Verity Kirk",
-        "Podium",
-        "Precision"
+        "Womberang",
+        "Wombombo"
       ],
-      "definition": "The Verity Kirk equivalent of a kirkumcision \u2014 a moment of such razor-sharp, podium-level precision that it carries Verity Kirk's personal seal of accuracy.",
+      "definition": "When you're out and about and you hear someone say a wombombo that you said earlier in the day; you have to call it out when it happens or it doesn't exist",
       "part_of_speech": "Noun",
-      "theme": "validation",
-      "example": "That rebuttal was a full Verikirkumcision \u2014 clean, precise, and undeniable."
+      "theme": "language",
+      "example": "Yo he just dropped a queanemis \u2014 that's a Womberombombo."
     },
     {
-      "word": "Auntpeanemis",
+      "word": "fyts",
       "components": [
-        "Automatic Can't",
-        "Peak Cinema Analysis"
+        "Fyne",
+        "Shyts"
       ],
-      "definition": "A peak cinema analysis characterized by an automatic, reflexive rejection \u2014 a breakdown that leads inevitably to a 'can't' verdict.",
+      "definition": "Fine things \u2014 a plural noun for attractive people or desirable situations that meet an elevated standard of fineness.",
       "part_of_speech": "Noun",
-      "theme": "cinema",
-      "example": "One look at the trailer and she launched straight into the auntpeanemis."
+      "theme": "attraction",
+      "example": "He showed up to the farket specifically looking for fyts."
     }
   ]
 }
