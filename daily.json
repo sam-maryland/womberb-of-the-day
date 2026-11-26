@@ -1,29 +1,29 @@
 {
-  "sentence": "Call out the womberombombo or lose the fyts forever.",
-  "date": "2026-11-25",
-  "theme": "language",
+  "sentence": "Jovulations hollow fast without a barbekennic to hold them.",
+  "date": "2026-11-26",
+  "theme": "celebration",
   "wombos": [
     {
-      "word": "Womberombombo",
+      "word": "Jovulations",
       "components": [
-        "Womberang",
-        "Wombombo"
+        "Jovial",
+        "Congratulations"
       ],
-      "definition": "When you're out and about and you hear someone say a wombombo that you said earlier in the day; you have to call it out when it happens or it doesn't exist",
+      "definition": "Cheerful, enthusiastic congratulations delivered with genuine joy and high energy. Used as a noun: 'screamed jovulations.'",
       "part_of_speech": "Noun",
-      "theme": "language",
-      "example": "Yo he just dropped a queanemis \u2014 that's a Womberombombo."
+      "theme": "celebration",
+      "example": "When she crossed the finish line, the crowd erupted in jovulations."
     },
     {
-      "word": "fyts",
+      "word": "Barbekennic",
       "components": [
-        "Fyne",
-        "Shyts"
+        "Barbecue Chicken",
+        "Picnic"
       ],
-      "definition": "Fine things \u2014 a plural noun for attractive people or desirable situations that meet an elevated standard of fineness.",
+      "definition": "An outdoor meal combining the casual ease of a picnic with the smoky, savory satisfaction of barbecue chicken.",
       "part_of_speech": "Noun",
-      "theme": "attraction",
-      "example": "He showed up to the farket specifically looking for fyts."
+      "theme": "food",
+      "example": "We set up a blanket in the park and had ourselves a proper barbekennic."
     }
   ]
 }
