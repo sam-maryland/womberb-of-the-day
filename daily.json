@@ -1,29 +1,30 @@
 {
-  "sentence": "Jovulations hollow fast without a barbekennic to hold them.",
-  "date": "2026-11-26",
-  "theme": "celebration",
+  "sentence": "Blocked in means nothing if your mysterfunpeanehhmis never leaves the parking lot.",
+  "date": "2026-11-27",
+  "theme": "cinema",
   "wombos": [
     {
-      "word": "Jovulations",
+      "word": "Mysterfunpeanehhmis",
       "components": [
-        "Jovial",
-        "Congratulations"
+        "Mysterpeanemis",
+        "Funky",
+        "Ehh"
       ],
-      "definition": "Cheerful, enthusiastic congratulations delivered with genuine joy and high energy. Used as a noun: 'screamed jovulations.'",
+      "definition": "A mysterious peak cinema analysis delivered with a funky, ehh-inflected indifference \u2014 a cryptic critical breakdown that is simultaneously groovy and noncommittal.",
       "part_of_speech": "Noun",
-      "theme": "celebration",
-      "example": "When she crossed the finish line, the crowd erupted in jovulations."
+      "theme": "cinema",
+      "example": "Nobody could tell if he loved or hated it \u2014 the whole thread was a mysterfunpeanehhmis."
     },
     {
-      "word": "Barbekennic",
+      "word": "Blocked In",
       "components": [
-        "Barbecue Chicken",
-        "Picnic"
+        "Ball",
+        "Locked In"
       ],
-      "definition": "An outdoor meal combining the casual ease of a picnic with the smoky, savory satisfaction of barbecue chicken.",
-      "part_of_speech": "Noun",
-      "theme": "food",
-      "example": "We set up a blanket in the park and had ourselves a proper barbekennic."
+      "definition": "Fully dialed in and focused on mastering a subject, powered by sheer balledge (deep knowledge).",
+      "part_of_speech": "Adjective",
+      "theme": "knowledge",
+      "example": "After a week of cramming, I'm fully blocked in for the exam."
     }
   ]
 }
